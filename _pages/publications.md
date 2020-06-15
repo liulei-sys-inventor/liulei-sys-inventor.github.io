@@ -38,7 +38,7 @@ author_profile: true
 
 
 9. A Software Memory Partition Approach for Eliminating Bank-Level Interference in Multicore Systems
-    ACM/IEEE The 21st International Conference on Parallel Architectures and Compilation Techniques (PACT): 2012  (Above 200 citations on Google Scholar)
+    ACM/IEEE The 21st International Conference on Parallel Architectures and Compilation Techniques (PACT): 2012  (Cited Greater than 200 Times)
 
 
 10. Memory Resource Optimization Method and Apparatus (PCT, US/JP/RU). First Inventor，US9857980B2
