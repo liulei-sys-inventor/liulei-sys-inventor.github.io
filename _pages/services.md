@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-1. General co-Chair of IEEE [IISWC-20](http://ics2018.ict.ac.cn/)20, 2021
+1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html), 2021
 
 2. General co-Chair of ACM [ICS-2018](http://ics2018.ict.ac.cn/)
 
@@ -14,7 +14,7 @@ author_profile: true
 4. Member of the Program Committee of HPCA-2020
 
 5. Member of the Program Committee of IPDPS-2020
-6. Publicity co-Chair of IEEE [IISWC-2019](http://ddl.escience.cn/f/RYDd)
+6. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
 7. Member of the Program Committee of SC-2019
 8. Member of the Program Committee of ICCD-2018, 2019, 2020
 9. Member of the Program Committee of APPT-2019
