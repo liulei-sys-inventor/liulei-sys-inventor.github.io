@@ -237,7 +237,7 @@ Recent News<span id="news"></span>
 - Looking forword your submissions to IEEE **IISWC-2019**.
 - A  paper with the topic on hybrid memory management for DRAM-NVM from  Sys-Inventor Lab is accepted by IEEE TPDS-2019. Congratulations!
 - A paper co-authored with Lu Peng's group (the leading author was within) at LSU is accepted by DAC-2019.  
-- Congratulations for the success of the ICS-2018. Thank people who contributed to this event. Prof. Mateo Valero's [**Keynote slides**](/files/ICS-ACM-2018-final.pptx) and Prof. Hironori's [**Keynote slides**](/files/ICS2018HKasahara20180613.pdf) for ICS-2018 are avaiable here. 
+- Congratulations for the success of the ICS-2018. Thank people who contributed to this event. Prof. Mateo Valero's [**Keynote slides**](http://ddl.escience.cn/f/QDzc) and Prof. Hironori's [**Keynote slides**](/files/ICS2018HKasahara20180613.pdf) for ICS-2018 are avaiable here. 
 - ICS-2018 is going to start tomorrow. Thanks for your coming! 
 - Hope you could [**submit**](http://ics2018.ict.ac.cn/#submissions/) your excellent work to **ICS-2018**! Here is the **CFP**. Here is the **Call for Workshop**.
 - A paper is accepted in APPT-2017. 
