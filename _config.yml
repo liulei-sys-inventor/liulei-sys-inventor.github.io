@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "刘磊 (Liu, Lei), Ph.D., Director of Sys-Inventor Lab, Associate Professor - ICT, CAS"
+  name             : "Lei Liu"
   avatar           : "profile.jpeg"
-  bio              : "I received my Ph.D. in Computer Science at ICT, where I lead Sys-Inventor Lab and work with members to design new computer systems. You can contact me by EMAIL: LIULEI2010-AT-ICT.AC.CN; LEI.LIU-AT-ZOHO.COM"
+  bio              : "Director of Sys-Inventor Lab, PI; Associate Professor at ICT, CAS; Visiting Scholar at University of Rochester"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.hk/citations?user=yhN8bmgAAAAJ&hl=en"
   email            : "liulei2010@ict.ac.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Lei_Liu213"
+  uri              : "http://people.ucas.ac.cn/~liulei2010"
   bitbucket        :
   codepen          :
   dribbble         :
