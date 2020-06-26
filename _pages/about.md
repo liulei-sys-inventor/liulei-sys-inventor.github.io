@@ -49,7 +49,7 @@ Projects - Next Generation Computing<span id="projects"></span>
 
 1. **Next Generation OS - Leveraging AI to Enhance the OS Design and Build Core Mechanisms**
 
-     <span style="color:#c00000;">News</span> - On 26/Nov, 2019, the technique report about our first step study (OSML) is available via this [**Link**](/files/Technical Report - OSML.pdf).
+     <span style="color:#c00000;">News</span> - On 26/Nov, 2019, the technique report about our first step study (OSML) is available via this [**Link**](/files/OSML___Lei_Liu.pdf).
 
 2. **Quantum Computing Systems**
 
