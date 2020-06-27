@@ -294,7 +294,7 @@ Recommendations<span id="recommendations"></span>
 - Prof. Mark D. Hill's Keynote at IISWC-2019 is [here](/files/ALP_orlando2019_11 (1).pptx).
 - Prof. Lizy K. John's talk at IISWC-2019 workshop is [here](/files/IISWC2019-workshop.pdf).
 - Prof. Michael Scott's talk at ICT is [here](/files/persistence.pdf).
-- Prof. Mateo Valero's [Keynote slides](/files/ICS-ACM-2018-final.pptx) and Prof. Hironori's [Keynote slides](/files/ICS2018HKasahara20180613.pdf) for ICS-2018
+- Prof. Mateo Valero's [Keynote slides](http://ddl.escience.cn/f/QDzc) and Prof. Hironori's [Keynote slides](/files/ICS2018HKasahara20180613.pdf) for ICS-2018
 - [The Three Golden Rules for Successful Scientific Research](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD637.html)
 - Lei Liu's [web on University of CAS (中国科学院大学)](http://people.ucas.ac.cn/~liulei2010),[ Linkedin](https://www.linkedin.com/in/%E7%A3%8A-lei-%E5%88%98-liu-b750a8148) and [Researchgate](https://www.researchgate.net/profile/Lei_Liu213).
 - [Conf. Information](http://confsearch.ethz.ch/confsearch/) in Computer Science. You will never miss your conference.:)
