@@ -31,10 +31,10 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 
 
-Sys-Inventor Lab - New Strategies 4 Future Systems<span id="SIL"></span>
+Sys-Inventor Lab - Next-Generation Clould Native Technologies<span id="SIL"></span>
 ======
 
-**The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next generation computing technologies</span>, covering the interaction of OS, emerging applications and hardware. Our Research Interests include:**
+**The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation Cloud native technologies</span>, covering the interaction of OS, emerging applications and hardware. Our Research Interests include:**
 
 - New Trend, AI and Quantum Computer
 - New Memory Architecture, e.g., NVM, Near Memory Computing, Memory Management and Optimization
@@ -44,7 +44,7 @@ Sys-Inventor Lab - New Strategies 4 Future Systems<span id="SIL"></span>
 
 
 
-Projects - Next Generation Computing<span id="projects"></span>
+Projects<span id="projects"></span>
 ======
 
 1. **Next Generation OS - Leveraging AI to Enhance the OS Design and Build Core Mechanisms**
