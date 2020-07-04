@@ -277,9 +277,9 @@ Awards and Honors <span id="honors"></span>
 Academic Genealogy <span id="Genealogy"></span>
 ======
 
-Lei Liu Ph.D, 2014, ICT, CAS
-Xiaobing Feng Ph.D, 1999, ICT, CAS; Chengyong Wu Ph.D, 2000 (He is a monk and has passed away. Mourns in memoriam)
-Zhaoqing Zhang 1960, PKU
+Lei Liu Ph.D, 2014, ICT, CAS<br/>
+Xiaobing Feng Ph.D, 1999, ICT, CAS; Chengyong Wu Ph.D, 2000 (He is a monk and has passed away. Mourns in memoriam)<br/>
+Zhaoqing Zhang 1960, PKU<br/>
 
 Resume References<span id="references"></span>
 ======
@@ -306,7 +306,7 @@ Recommendations<span id="recommendations"></span>
 Postal Address<span id="address"></span>
 ======
 
-Address: 北京海淀区中关村科学院南路6号0612J（0612J, No.6, Kexueyuan South Road, Zhongguancun, Haidian District, Beijing, China）。
+Address: 北京海淀区中关村科学院南路6号0612J（0612J, No.6, Kexueyuan South Road, Zhongguancun, Haidian District, Beijing, China）。<br/>
 Post Code: 100190
 
 
