@@ -163,7 +163,9 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 ## Patents<span id="patents"></span>
 
 1. [Memory Resource Optimization Method and Apparatus (PCT, US).](https://patents.google.com/patent/US9857980B2/en) **First Inventor (with Wu and Feng)**. 
+
 2. 一种存储器资源优化方法和装置 (Chinese Version). **First Inventor (with Wu and Feng). 发明人：刘磊、吴承勇、冯晓兵**.
+    
     ***<span style="color:#ca6a20;">- Part of the ideas in ISCA-2014 is within.</span>***
 
 
