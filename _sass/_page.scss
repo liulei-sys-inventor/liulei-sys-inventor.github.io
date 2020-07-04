@@ -75,7 +75,6 @@
   h2 {
     margin-top: 1.5em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid #BBB;
   }
 
   p, li, dl {
@@ -87,7 +86,6 @@
   /* paragraph indents */
   p {
     margin: 0 0 0.5em;
-
     /* sibling indentation*/
     @if $paragraph-indent == true {
       & + p {
@@ -98,7 +96,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: None;
 
     &:hover {
       text-decoration: underline;
@@ -121,6 +119,9 @@
     font-size: $type-size-6;
   }
 
+  #publications + ol > li, #projects + ol > li{
+  	margin-bottom: 1.2em;
+  }
   .small {
     font-size: $type-size-6;
   }
