@@ -83,16 +83,9 @@
 	text-justify:inter-ideograph;	
   }
 
-  li>p{
-  	margin-bottom:0.3em;
-  }
-  li>p:last-child{
-  	margin-bottom:1.5em;
-  }
-
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.5em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
