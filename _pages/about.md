@@ -10,8 +10,7 @@ redirect_from:
 
 
 
-Brief Biography<span id="biography"></span>
-======
+## Brief Biography<span id="biography"></span>
 
 Lei Liu is an Associate Professor of Computer Science at  Institute of Computing Technology (ICT), Chinese Academy of Sciences  (CAS), where he leads the Sys-Inventor Lab, which is a part of the State  Key Lab of Computer Architecture. He joined the ICT faculty in 2014  after receiving his Ph.D. degrees in computer science from ICT  (his [Ph.D. thesis](http://ddl.escience.cn/f/l1zd)). Besides,  he received his MS degree in software system design at University of  Science and Technology of China (USTC), and BS degree in computer  science at Dalian University of Technology (DLUT), respectively. He  spent several years in industry as a software engineer and senior  software architect. He was a visiting scholar in CS at the University of  Rochester (UR).
 
@@ -31,8 +30,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 
 
-Sys-Inventor Lab - Next-Generation Clould Native Technologies<span id="SIL"></span>
-======
+## Sys-Inventor Lab - Next-Generation Clould Native Technologies<span id="SIL"></span>
 
 **The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation Cloud native technologies</span>, covering the interaction of OS, emerging applications and hardware. Our Research Interests include:**
 
@@ -44,8 +42,7 @@ Sys-Inventor Lab - Next-Generation Clould Native Technologies<span id="SIL"></sp
 
 
 
-Projects<span id="projects"></span>
-======
+## Projects<span id="projects"></span>
 
 1. **Next Generation OS - Leveraging AI to Enhance the OS Design and Build Core Mechanisms**
 
@@ -78,8 +75,7 @@ Projects<span id="projects"></span>
 ***<span style="color:#e36c09;">- We are glad to see these efforts from Sys-Inventors have had impact on scientific community and industry.</span>***
 
 
-Publications<span id="publications"></span>
-======
+## Publications<span id="publications"></span>
 
 1. [A New Qubits Mapping Mechanism for Multi-programming Quantum Computing](https://arxiv.org/pdf/2004.12854.pdf) (early version) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
@@ -164,8 +160,7 @@ Publications<span id="publications"></span>
 
 
 
-Patents<span id="patents"></span>
-======
+## Patents<span id="patents"></span>
 
 1. [Memory Resource Optimization Method and Apparatus (PCT, US).](https://patents.google.com/patent/US9857980B2/en) **First Inventor (with Wu and Feng)**. 
 2. 一种存储器资源优化方法和装置 (Chinese Version). **First Inventor (with Wu and Feng). 发明人：刘磊、吴承勇、冯晓兵**.
@@ -173,8 +168,7 @@ Patents<span id="patents"></span>
 
 
 
-Others<span id="others"></span>
-======
+## Others<span id="others"></span>
 
 1. [成功举办ACM ICS-2018](/files/ics.pdf)（ACM ICS-2018 is successful! News in Chinese via [ICT link](http://www.ict.ac.cn/xwzx/jssxw/201806/t20180628_5032541.html)）
 2. [多核系统内存资源管理优化技术的研究](/files/最终版本.pdf)（博士学位论文，导师：吴、冯；涵盖本人发表在ISCA、PACT、TACO的成果; Lei's Ph. D. dissertation in Chinese, covering his work in ISCA, PACT and TACO. Supervisor: Wu and Feng）[出版物链接（BOOK）](https://www.morebooks.de/store/gb/book/%E5%A4%9A%E6%A0%B8%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6/isbn/978-3-330-82280-1)
@@ -186,8 +180,7 @@ Others<span id="others"></span>
 
 
 
-Recent Professional Serivces<span id="services"></span>
-======
+## Recent Professional Serivces<span id="services"></span>
 
 1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html), 2021
 2. General co-Chair of ACM [ICS-2018](http://ics2018.ict.ac.cn/)
@@ -214,8 +207,7 @@ Recent Professional Serivces<span id="services"></span>
 
 
 
-Recent News<span id="news"></span>
-======
+## Recent News<span id="news"></span>
 
 - **<span style="color:red">[Plz Note]</span>**:  I am Lei Liu (刘磊 in Chinese); I have nothing to do with the Mulan  project in ICT. The leader of this project has the same name in English  but not with the same Chinese characters. Thanks for your understanding.  More details on my work and myself can be found in this page. 
   请注意，我的名字是刘磊，我从未参与过“木兰”语言项目，研究领域也不是编程语言。该项目的负责人只是与我拼音名字相同而已。
@@ -250,8 +242,7 @@ Recent News<span id="news"></span>
 
 
 
-Awards and Honors <span id="honors"></span>
-======
+## Awards and Honors <span id="honors"></span>
 
 - Outstanding Faculty Award, SKLCA, ICT, 2019
 - 100-Academic-Stars Program, ICT, 2017
@@ -263,21 +254,19 @@ Awards and Honors <span id="honors"></span>
 - The Bewinner Communications (北纬通信) Second Prize for Self-dependent Innovation
 - Merit student, Chinese Academy of Sciences
 
-Academic Genealogy <span id="Genealogy"></span>
-======
+## Academic Genealogy <span id="Genealogy"></span>
+
 <div class="para-set">
 <p>Lei Liu Ph.D, 2014, ICT, CAS</p>
 <p>Xiaobing Feng Ph.D, 1999, ICT, CAS; Chengyong Wu Ph.D, 2000 (He is a monk and has passed away. Mourns in memoriam)</p>
 <p>Zhaoqing Zhang 1960, PKU</p>
 </div>
 
-Resume References<span id="references"></span>
-======
+## Resume References<span id="references"></span>
 
 Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), Lu Peng (LSU), Bin Ren (WM), Scott Michael (Rochester), P-C Yew (UMN)
 
-Recommendations<span id="recommendations"></span>
-======
+## Recommendations<span id="recommendations"></span>
 
 - Prof. Mark D. Hill's Keynote at IISWC-2019 is [here](/files/ALP_orlando2019_11 (1).pptx).
 - Prof. Lizy K. John's talk at IISWC-2019 workshop is [here](/files/IISWC2019-workshop.pdf).
@@ -292,9 +281,8 @@ Recommendations<span id="recommendations"></span>
 - [论文署名，学术不端和不正当竞争（转自科学网）](http://blog.sciencenet.cn/blog-111883-638376.html)
 
 
+## Postal Address<span id="address"></span>
 
-Postal Address<span id="address"></span>
-======
 <div class="para-set">
 <p>Address: 北京海淀区中关村科学院南路6号0612J（0612J, No.6, Kexueyuan South Road, Zhongguancun, Haidian District, Beijing, China）。</p>
 <p>Post Code: 100190</p>
