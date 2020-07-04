@@ -17,13 +17,13 @@
 }
 
 .totop {
-  -webkit-transition: None;
-  transition: None;
   position: fixed;
   bottom:3em;
   right:3em;
   z-index:1;
   a{
+    -webkit-transition: None;
+    transition: None;
     outline:none;
     display:block;
     height:3em;
