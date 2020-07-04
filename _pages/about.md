@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Sys-Inventor Lab"
+title: "Welcome to Sys-Inventor Lab!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
