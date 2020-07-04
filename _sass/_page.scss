@@ -24,10 +24,10 @@
   a{
     height:3em;
     width:3em;
-    background: url({{ base_path }}/images/top-gray.png) no-repeat fixed center;
+    background: url(/images/top-gray.png) no-repeat fixed center;
   }
   a:hover{
-    background: url({{ base_path }}/images/top.png) no-repeat fixed center;
+    background: url(/images/top.png) no-repeat fixed center;
   }
 }
 
