@@ -61,8 +61,11 @@
 	text-justify:inter-ideograph;	
   }
 
-  li>p:first-child{
+  li>p{
   	margin-bottom:0.3em;
+  }
+  li>p:last-child{
+  	margin-bottom:1.5em;
   }
 
   /* paragraph indents */
