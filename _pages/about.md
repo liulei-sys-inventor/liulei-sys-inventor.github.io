@@ -278,9 +278,7 @@ Academic Genealogy <span id="Genealogy"></span>
 ======
 
 Lei Liu Ph.D, 2014, ICT, CAS
-
 Xiaobing Feng Ph.D, 1999, ICT, CAS; Chengyong Wu Ph.D, 2000 (He is a monk and has passed away. Mourns in memoriam)
-
 Zhaoqing Zhang 1960, PKU
 
 Resume References<span id="references"></span>
@@ -300,7 +298,6 @@ Recommendations<span id="recommendations"></span>
 - [Conf. Information](http://confsearch.ethz.ch/confsearch/) in Computer Science. You will never miss your conference.:)
 - [Worse-case Reviewing](https://www.sigarch.org/want-people-to-read-your-paper-consider-the-worst-case-reviewer/)
 - [\[更正\] ISCA2016: 计算机体系结构顶会CNN走红，神经网络论文夺桂冠](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651984404&idx=2&sn=4f776dbaaa9bf49f799dd8e780f5e184&cene=2&srcid=0705GexRpXBlYKd5LYJl06GM&from=timeline&isappinstalled=0#wechat_redirect)
-
 - [\[体系结构顶会Micro2016\] 神经网络加速器仍是热点，但图计算加速器夺最佳论文](http://mp.weixin.qq.com/s/XyN1kK-1kTrCmzOOVVmtEw)
 - [论文署名，学术不端和不正当竞争（转自科学网）](http://blog.sciencenet.cn/blog-111883-638376.html)
 
@@ -310,7 +307,6 @@ Postal Address<span id="address"></span>
 ======
 
 Address: 北京海淀区中关村科学院南路6号0612J（0612J, No.6, Kexueyuan South Road, Zhongguancun, Haidian District, Beijing, China）。
-
 Post Code: 100190
 
 
