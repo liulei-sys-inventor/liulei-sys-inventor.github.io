@@ -14,7 +14,7 @@ redirect_from:
 
 Lei Liu is an Associate Professor of Computer Science at  Institute of Computing Technology (ICT), Chinese Academy of Sciences  (CAS), where he leads the Sys-Inventor Lab, which is a part of the State  Key Lab of Computer Architecture. He joined the ICT faculty in 2014  after receiving his Ph.D. degrees in computer science from ICT  (his [Ph.D. thesis](http://ddl.escience.cn/f/l1zd)). Besides,  he received his MS degree in software system design at University of  Science and Technology of China (USTC), and BS degree in computer  science at Dalian University of Technology (DLUT), respectively. He  spent several years in industry as a software engineer and senior  software architect. He was a visiting scholar in CS at the University of  Rochester (UR).
 
-He has led research projects that have advanced the Memory  Systems, OS, Performance Isolation, and Profiling: 1) Technical  evolutions for memory partitioning approaches; 2) Hybrid memory  management in OS for systems using NVM-DRAM; and 3) Next generation OS -  leveraging ML to build core components in OS. As the leading author,  Lei has published research articles regarding the architecture and  operating system in venues that include ISCA, PACT, IEEE TC, TPDS, ACM  TACO, ICCD,and others. Recently, his work has focused on the  intersection of the hybrid memory system (DRAM-NVM), OS for emerging  technologies (including GPU, Graph, Quantum Computing as well as AI).
+He has led research projects that have advanced the Memory  Systems, OS, Performance Isolation, and Profiling: 1) Technical  evolutions for memory partitioning approaches; 2) Hybrid memory  management in OS for systems using NVM-DRAM; and 3) Next generation OS -  leveraging ML to build core components in OS. As the leading author,  Lei has published research articles regarding the architecture and  operating system in venues that include ISCA, PACT, IEEE TC, TPDS, ACM TACO, ICCD, and others. Recently, his work has focused on the  intersection of the hybrid memory system (DRAM-NVM), OS for emerging  technologies (including GPU, Graph, Quantum Computing as well as AI).
 
 Lei Liu is an IEEE and ACM member, has served as the PC/ERC  members, chairs for a number of main stream conferences (e.g., MICRO,  HPCA, SC, PACT, ICS, IISWC, ISCA, ASPLOS, ICCD, ICPP, IPDPS, HPCC,  General co-Chair of IEEE IISWC-2020, ACM ICS-2018) and reviewer for  well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
 
@@ -165,7 +165,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 1. [Memory Resource Optimization Method and Apparatus (PCT, US).](https://patents.google.com/patent/US9857980B2/en) **First Inventor (with Wu and Feng)**. 
 
 2. 一种存储器资源优化方法和装置 (Chinese Version). **First Inventor (with Wu and Feng). 发明人：刘磊、吴承勇、冯晓兵**.
-    
+   
     ***<span style="color:#ca6a20;">- Part of the ideas in ISCA-2014 is within.</span>***
 
 
@@ -220,7 +220,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 - **<span style="color:red">[Plz Note]</span>**:  I am Lei Liu (刘磊 in Chinese); I have nothing to do with the Mulan  project in ICT. The leader of this project has the same name in English  but not with the same Chinese characters. Thanks for your understanding.  More details on my work and myself can be found in this page. 
   请注意，我的名字是刘磊，我从未参与过“木兰”语言项目，研究领域也不是编程语言。该项目的负责人只是与我拼音名字相同而已。
 - We  will host IEEE IISWC-2020, and I myself will serve as the chair in  general for this event. Looking forward your contributions! <a href="http://www.iiswc.org/iiswc2020/index.html"><img style="float:none;width:35px;height:48px;" width="35" vspace="0" hspace="0" height="48" border="0" src="/images/iiswc_2020.jpg"/></a>
-- I am visiting LSU and College of William and Mary from 9~13/Dec 2019. The topic is "[**Achieving Better Resource Scheduling through Enhanced OS and ML Technologies**](/files/201912 - LSU-WM.pptx)**".**
+- I am visiting LSU and College of William and Mary from 9~13/Dec 2019. The topic is "[**Achieving Better Resource Scheduling through Enhanced OS and ML Technologies**](/files/201912 - LSU-WM.pptx)".
 - A paper from Sys-Inventor Lab is accepted by APSys-2019. The topic is on huge page management in OS. 
 - Prof. Michael Scott visits us on 13/May, 2019. His talk is [**Systems Support for Persistent ‘In-Memory’ Data**](/files/persistence.pdf).
 - Looking forword your submissions to IEEE **IISWC-2019**.
