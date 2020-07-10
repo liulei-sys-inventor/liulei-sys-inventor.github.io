@@ -309,6 +309,8 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 - Yong Li (Engineer in VMware. Former participant from 2013~2015)
 - Zehan Cui (Within ICT till 2016. Former participant from 2011~2012)
 
+**Former Member**
+
 
 ## Recommendations<span id="recommendations"></span>
 
