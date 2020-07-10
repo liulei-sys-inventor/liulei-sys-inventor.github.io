@@ -71,7 +71,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
    This work begins with the contention/interference issues in main memory systems, and I tackle them from the Operating System angle. In existing OS, memory resources are "blindly" allocated to applications (threads), leading to memory contentions in DRAM Banks in the root. In order to solve this problem, I extend the well-known **Page-Coloring** to eliminate/mitigate the interferences between threads on memory banks and channels. These studies help and motivate many works on improving the overall system **throughput**, **locality** and **QoS**. More details are in **<span style="color:#953734;">PACT-2012 and ACM TACO-2014</span>**.
 
-***<span style="color:#e36c09;">- We are glad to see these efforts from Sys-Inventors have had impact on scientific community and industry.</span>***
+***<span style="color:#e36c09;">   - We are glad to see these efforts from Sys-Inventors have had impact on scientific community and industry.</span>***
 
 
 ## Publications<span id="publications"></span>
