@@ -304,7 +304,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 - Chen Ding (UR)
 - Fang Lv (Faculty, ICT)
 
-**---- The below individuals were part-time workers in my project long time ago ----** 
+**--- The below individuals were part-time workers in my project long time ago ---** 
 
 - Yong Li (Engineer in VMware. Former participant from 2013~2015)
 - Zehan Cui (Within ICT till 2016. Former participant from 2011~2012)
