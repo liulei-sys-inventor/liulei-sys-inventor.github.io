@@ -41,37 +41,37 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 
 
-## Projects - Building Next-Generation Cloud Systems<span id="projects"></span>
+## Projects<span id="projects"></span>
 
-1. **Next-Generation OS - Leveraging AI to Enhance the OS Design and Build Core Mechanisms**
+1. **Next Generation OS - Leveraging AI to Enhance the OS Design and Build Core Mechanisms**
 
      <span style="color:#c00000;">News</span> - On 26/Nov, 2019, the technique report about our first step study (OSML) is available via this [**Link**](/files/OSML___Lei_Liu.pdf).
 
-2. **Quantum Computing Systems for Cloud**
+2. **Quantum Computing Systems**
 
-     <span style="color:#c00000;">News</span> - On 25/April, 2020, the technique report - "A New Qubits Mapping Mechanism for Multi-programming Quantum Computing" - is available via this [**Link**](https://arxiv.org/pdf/2004.12854.pdf).
+     <span style="color:#c00000;">News</span> -On 25/April, 2020, the technique report - "A New Qubits Mapping Mechanism for Multi-programming Quantum Computing" - is available via this [**Link**](https://arxiv.org/pdf/2004.12854.pdf).
 
 3. [**Memory Management for Large Memory Systems**](/files/apsys-2019-final.pdf)
 
-   Now, the memory system has much larger capacity than ever before. The virtual and physical address translation brings significant overheads at runtime in large memory systems. The Huge page mechanism is proposed to reduce the TLB misses and benefit the overall system performance. However, using huge pages might incur expensive memory compaction operations due to memory fragmentation problem, and lead to memory bloating. We propose SysMon-H, a sampling module in the OS kernel, which can obtain huge page utilization in a low overhead for both cloud and desktop applications. Furthermore, we propose H-Policy, a huge page management policy, which splits the underutilized huge pages to mitigate the memory bloating or promotes the base 4KB pages to huge pages based on the information provided by SysMon-H. The idea and first step effort are in **<span style="color:#953734;">ACM SIGOPS APSys-2019</span>**.
+   Now,  the memory system has much larger capacity than ever before. The  virtual and physical address translation brings significant overheads at  runtime in large memory systems. The Huge  page mechanism is proposed to reduce the TLB misses and benefit the  overall system performance. However, using huge pages might incur  expensive memory compaction operations due to memory fragmentation  problem, and lead to memory bloating. We  propose SysMon-H, a sampling module in the OS kernel, which can obtain  huge page utilization in a low overhead for both cloud and desktop  applications. Furthermore, we propose H-Policy, a huge page management  policy, which splits the underutilized huge pages to mitigate the memory  bloating or promotes the base 4KB pages to huge pages based on the  information provided by SysMon-H. The idea and first step effort are in **<span style="color:#953734;">ACM SIGOPS APSys-2019</span>**.
 
 4. [**Non-Volatile Memory - Hybrid Memory Management for Tiered Memory Systems in OS**](/files/Memos-TPDS-2019.pdf)
 
-   The emerging hybrid DRAM-NVM architecture is challenging the existing memory management mechanism in operating systems. In this project, we introduce Memos, which can hierarchically schedule memory resources over the entire memory hierarchy including cache, channels, main memory comprising DRAM and NVM simultaneously. Powered by our newly designed kernel-level monitoring module (HyMM) and page migration engine, Memos can dynamically optimize the data placement at the memory hierarchy in response to the on-line memory patterns, current resource utilization and memory medium features. The efforts are published in **<span style="color:#953734;">IEEE TPDS-2019 and ICCD-2016</span>**.
+   The  emerging hybrid DRAM-NVM architecture is challenging the existing  memory management mechanism in operating systems. In this project, we  introduce Memos, which can hierarchically schedule memory resources over  the entire memory hierarchy including cache, channels, main memory  comprising DRAM and NVM simultaneously. Powered by our newly designed  kernel-level monitoring module (HyMM) and page migration engine, Memos  can dynamically optimize the data placement at the memory hierarchy in  response to the on-line memory patterns, current resource utilization  and memory medium features. The efforts are published in **<span style="color:#953734;">IEEE TPDS-2019 and ICCD-2016</span>**.
 
 5. **Sysmon (2014~Now)**
 
-   A light-weight OS-level system monitoring tool suite, which is able to profile the memory utilization (including cache utilization, memory footprint, approximate row-buffer locality, physical page level logic re-use time, access frequency, hot/cold features and write/read patterns) without any hardware supports. SysMon is especially useful in VM and system-level research work. Sysmon is now open source on Github. The beta version is introduced in ISCA-2014, TC-2016, and we further discuss reducing the sampling overhead in APPT-2017 in detail.
+   A  light-weight OS-level system monitoring tool suite, which is able to  profile the memory utilization (including cache utilization, memory  footprint, approximate row-buffer locality, physical page level logic  re-use time, access frequency, hot/cold features and write/read  patterns) without any hardware supports. SysMon is especially useful in  VM and system-level research work. Sysmon is now open source on Github.  The beta version is introduced in ISCA-2014, TC-2016, and we further  discuss reducing the sampling overhead in APPT-2017 in detail.
 
-6. [**Hierarchically Optimizting Data Placement across Cache and Memory Banks on Cloud Servers (2013~Now)**](https://arxiv.org/pdf/1704.01198.pdf)
+6. [**Hierarchically Optimizting Data Placement across Cache and Memory Banks (2013~Now)**](https://arxiv.org/pdf/1704.01198.pdf)
 
-   To provide ideal **overall system throughput** and **QoS**, in this project, the "Vertical Partitioning" is proposed to cooperatively optimize the data placement across cache and DRAM banks. We redesign the memory management component is OS kernel (e.g. buddy system) according to memory architecture details, thus "Vertical Partitioning" can simultaneously mitigate/eliminate the memory interferences at the entire memory hierarchy (i.e. cache-bank). Moreover, we further devise the "Curve-Vertical" Partitioning approach to handle the diverse memory behaviors exhibited by the appearing "memory-diversity" workloads on multi-core platforms. The efforts are published in **<span style="color:#953734;">ISCA-2014 and IEEE TC-2016 (Featured article invited)</span>**. 
+   To provide ideal **overall system throughput** and **QoS**,  in this project, the "Vertical Partitioning" is proposed to  cooperatively optimize the data placement across cache and DRAM banks.  We redesign the memory management component is OS kernel (e.g. buddy  system) according to memory architecture details, thus  "Vertical Partitioning" can simultaneously mitigate/eliminate the  memory interferences at the entire memory hierarchy (i.e. cache-bank).  Moreover, we further devise the "Curve-Vertical" Partitioning approach  to handle the diverse memory behaviors exhibited by the appearing  "memory-diversity" workloads on multi-core platforms. The efforts are  published in **<span style="color:#953734;">ISCA-2014 and IEEE TC-2016 (Featured article invited)</span>**. 
 
-7. **Reducing Memory Conflicts on Real Cloud Servers - DRAM Bank/Channel Partitioning Mechanism (BPM/BPM+) (2011~Now)**
+7. **Reducing Memory Conflicts: DRAM Bank/Channel Partitioning Mechanism (BPM/BPM+) on Real Systems (2011~Now)**
 
-   This work begins with the contention/interference issues in main memory systems, and I tackle them from the Operating System angle. In existing OS, memory resources are "blindly" allocated to applications (threads), leading to memory contentions in DRAM Banks in the root. In order to solve this problem, I extend the well-known **Page-Coloring** to eliminate/mitigate the interferences between threads on memory banks and channels. These studies help and motivate many works on improving the overall system **throughput**, **locality** and **QoS**. More details are in **<span style="color:#953734;">PACT-2012 and ACM TACO-2014</span>**.
+   This  work begins with the contention and interference issue in main memory  systems, and I approach it from the Operating System angle. In existing  OS, memory resources are "blindly" allocated to applications (threads),  leading to memory contentions in DRAM Banks in the root. In order to  solve this problem, I extend the well-known **Page-Coloring**  to eliminate/mitigate the interferences between threads on memory banks  and channels. These studies help and motivate many works on improving  the overall system **throughput**, **locality** and **QoS**. More details are in **<span style="color:#953734;">PACT-2012 and ACM TACO-2014</span>**.
 
-***<span style="color:#e36c09;">- We are glad to see these efforts from Sys-Inventors have had impact on scientific community and industry.</span>***
+***<span style="color:#e36c09;">   - We are glad to see these efforts from Sys-Inventors have had impact on scientific community and industry.</span>***
 
 
 ## Publications<span id="publications"></span>
@@ -80,7 +80,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
     **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
 
-2. [QoS-Aware Resources Scheduling for Microservices: A Multi-Model Collaborative Learning-based Approach](/files/OSML___Lei_Liu.pdf)
+2. [QoS-Aware Machine Learning-based Multiple Resources Scheduling for Microservices in Cloud Environment](/files/Technical Report - OSML.pdf)
 
     **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
 
@@ -118,45 +118,45 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 11. [SysMon: Monitoring Memory Behaviors via OS Approach](/files/appt2017-sysmon-myx.pdf)
 
-     Mengyao Xie, **Lei Liu \***, Hao Yang, Chenggang Wu, Hongna Geng. The 12th Intl. Symp. on Adv. Par. Processing Tech. **(APPT)**:2017
+    Mengyao Xie, **Lei Liu \***, Hao Yang, Chenggang Wu, Hongna Geng. The 12th Intl. Symp. on Adv. Par. Processing Tech. **(APPT)**:2017
 
 12. [Memos: A Full Hierarchy Hybrid Memory Management Framework](/files/ICCD_8.pdf) (Position Paper)
 
-      **Lei Liu \***, Hao Yang, Mengyao Xie, Lian Li, Chenggang Wu. The 34th International Conf. on Computer Design **(ICCD)**:2016
+     **Lei Liu \***, Hao Yang, Mengyao Xie, Lian Li, Chenggang Wu. The 34th International Conf. on Computer Design **(ICCD)**:2016
 
 13. [Rethinking Memory Management in Modern Operating System: Horizontal, Vertical or Random?](/files/tc-2015-pass19.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/All in TC.pptx)] 
 
-      **Lei Liu \***, Chen Ding, Hao Yang, Chengyong Wu. IEEE Transactions on Computers **(TC)**:2016
+     **Lei Liu \***, Chen Ding, Hao Yang, Chengyong Wu. IEEE Transactions on Computers **(TC)**:2016
 
-      ***<span style="color:#ca6a20;">- Trans. Version of the ISCA-2014 paper. This article was a featured article candidate in IEEE TC.</span>***
+     ***<span style="color:#ca6a20;">- Trans. Version of the ISCA-2014 paper. This article was a featured article candidate in IEEE TC.</span>***
 
 14. Going Vertical in Memory Management
 
-      **Lei Liu \***, et al. **ACM SIGARCH Computer Architecture News**:October, 2014
+     **Lei Liu \***, et al. **ACM SIGARCH Computer Architecture News**:October, 2014
 
 15. [Going Vertical in Memory Management: Handling Multiplicity by Multi-policy](/files/ISCA2014_FINAL_pass2.pdf)  [**[<span style="color:#953734;">Slides (pptx)</span>](/files/ISCA2014.pptx)**] 
 
-      **Lei Liu \***, et al. The 41st ACM/IEEE International Symposium on Computer Architecture **(ISCA)**:2014 (acceptance rate: 17.8%) 
+     **Lei Liu \***, et al. The 41st ACM/IEEE International Symposium on Computer Architecture **(ISCA)**:2014 (acceptance rate: 17.8%) 
 
-      ***<span style="color:#ca6a20;">- The 9th ISCA paper in mainland China history since y2k.</span>*** 
+     ***<span style="color:#ca6a20;">- The 9th ISCA paper in mainland China history since y2k.</span>*** 
 
 16. [BPM/BPM+:  Software-based Dynamic Memory Partitioning Mechanisms for Mitigating  DRAM Bank-/Channel-level Interferences in Multicore Systems](/files/taco_pass24.pdf)
 
-      **Lei Liu \***, Zehan Cui, Yong Li, Chengyong Wu. ACM Trans. on Architecture and Code Optimization **(TACO)**:2014 
+     **Lei Liu \***, Zehan Cui, Yong Li, Chengyong Wu. ACM Trans. on Architecture and Code Optimization **(TACO)**:2014 
 
 17. [A Software Memory Partition Approach for Eliminating Bank-level Interference in Multicore Systems](/files/pact140-liu-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/pact-liu-presentation.pptx)]
 
-      **Lei Liu \***, Zehan Cui, Mingjie Xing, Chengyong Wu. The 21st ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**:2012 (acceptance rate: 18.8%) 
+     **Lei Liu \***, Zehan Cui, Mingjie Xing, Chengyong Wu. The 21st ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**:2012 (acceptance rate: 18.8%) 
 
-      ***<span style="color:#ca6a20;">- Influential Article in Semantic Scholar -- Cited Greater than 200 Citations.</span>***
+     ***<span style="color:#ca6a20;">- Influential Article in Semantic Scholar -- Cited Greater than 200 Citations.</span>***
 
 18. WiseThrottling: A New Asynchronous Task Scheduler for Mitigating I/O Bottleneck in Large-Scale Datacenter Servers
 
-      Fang Lv \*, **Lei Liu**, Huimin Cui, Lei Wang, Ying Liu, Xiaobing Feng, P.C. Yew (UMN). J. of Supercomputing:2015
+     Fang Lv \*, **Lei Liu**, Huimin Cui, Lei Wang, Ying Liu, Xiaobing Feng, P.C. Yew (UMN). J. of Supercomputing:2015
 
 19. Dynamic I/O-Aware Scheduling for Batch-Mode Applications on Chip Multiprocessor Systems of Cluster Platforms
 
-      Fang Lv \*, Huimin Cui, Lei Wang, **Lei Liu**, Cheng-Gang Wu, Xiao-Bing Feng, and Pen-Chung Yew (UMN). JCST:2014
+     Fang Lv \*, Huimin Cui, Lei Wang, **Lei Liu**, Cheng-Gang Wu, Xiao-Bing Feng, and Pen-Chung Yew (UMN). JCST:2014
 
 
 [<span style="text-decoration:none;">G</span><span style="color:#ff0000; text-decoration:none;">o</span><span style="color:#ffc000; text-decoration:none;">o</span><span style="text-decoration:none;">g</span><span style="color:#00b050;text-decoration:none;">l</span><span style="color:#ff0000;text-decoration:none;">e</span><span style="text-decoration:none;"> Citation</span>](https://scholar.google.com.hk/citations?user=yhN8bmgAAAAJ&hl=en), * corresponding author
@@ -313,8 +313,9 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 
 - yungang Bao (Former member from 2011.11~2012 on early step writing work). 注：本研究组已于2013年起停止了与部分参与者的非正式合作，其并未真实参与本人2012-14年ISCA等工作。
 
-##
-* 本课题组属于务实型课题组 - 实干兴邦，目的是培养富有想象力的实干派；本课题组与品行端正的科研工作者/学生合作，如有“务虚”、“走捷径”等想法，请绕行。
+***<span>
+*本课题组属于务实型课题组 - 实干兴邦，目的是培养富有想象力的实干派；本课题组与品行端正的科研工作者/学生合作，如有“务虚”、“走捷径”等想法，请绕行。
+</span>***
 
 ## Recommendations<span id="recommendations"></span>
 
