@@ -279,13 +279,35 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 
 ## People <span id="People"></span>
 
-- Students
+**I'm fortunate to work or have worked with some of these brilliant ones, and also thank the former participants.**
 
-- Collaborators
+- Shengjie Yang (B.S., Yunnan U.)
+- Xinyu Li (B.S., SJTU)
+- Zonghan Hua (ZJUT, co-Supervised w/ Prof. Jiefan Qiu)
+- Xinglei Dou (B.S., Jilin U.)
+- Xingxing Wu (B.S., Northwest A&F U.)
 
-- Part time workors
+**Former Students**
 
-- Former member
+- Hao Yang, Master 2017, Huawei
+- Mengyao Xie, 9/2015~4/2018
+- Hongna Geng, 10/2016~4/2018 
+
+**Recent and Former Collaborators**
+
+- Lu Peng (LSU)
+- Chenliang Xu (UR)
+- Lingda Li (BNL)
+- P-C Yew (UMN)
+- Mingjie Xing (ICT)
+- Chenggang Wu (ICT)
+- Chen Ding (UR)
+- Fang Lv (Faculty, ICT)
+
+**---- The below individuals were part-time workers in my project long time ago ----** 
+
+- Yong Li (Engineer in VMware. Former participant from 2013~2015)
+- Zehan Cui (Within ICT till 2016. Former participant from 2011~2012)
 
 
 ## Recommendations<span id="recommendations"></span>
