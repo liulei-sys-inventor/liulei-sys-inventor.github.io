@@ -158,7 +158,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
       Fang Lv\*, Huimin Cui, Lei Wang, **Lei Liu**, Cheng-Gang Wu, Xiao-Bing Feng, and Pen-Chung Yew (UMN). JCST:2014
 
-
+***<span>  </span>***
 
       [<span style="text-decoration:none;">G</span><span style="color:#ff0000; text-decoration:none;">o</span><span style="color:#ffc000; text-decoration:none;">o</span><span style="text-decoration:none;">g</span><span style="color:#00b050;text-decoration:none;">l</span><span style="color:#ff0000;text-decoration:none;">e</span><span style="text-decoration:none;"> Citation</span>](https://scholar.google.com.hk/citations?user=yhN8bmgAAAAJ&hl=en), * corresponding author
 
