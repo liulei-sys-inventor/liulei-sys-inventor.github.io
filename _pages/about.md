@@ -78,7 +78,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 1. [A New Qubits Mapping Mechanism for Multi-programming Quantum Computing](https://arxiv.org/pdf/2004.12854.pdf) (early version) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
-    **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
+    Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Parallel Architectures and Compilation Techniques **(PACT)**:2020 (Poster)
 
 2. [QoS-Aware Resources Scheduling for Microservices: A Multi-Model Collaborative Learning-based Approach](/files/OSML___Lei_Liu.pdf)
 
