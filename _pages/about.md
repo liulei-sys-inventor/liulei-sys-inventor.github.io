@@ -78,7 +78,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 1. [A New Qubits Mapping Mechanism for Multi-programming Quantum Computing](https://arxiv.org/pdf/2004.12854.pdf) (early version) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
-    Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Parallel Architectures and Compilation Techniques **(PACT)**:2020 (Poster)
+    Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Par. Arch. and Compilation Tech. **(PACT)**:2020 (Poster)
 
 2. [QoS-Aware Resources Scheduling for Microservices: A Multi-Model Collaborative Learning-based Approach](/files/OSML___Lei_Liu.pdf)
 
@@ -159,7 +159,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
       Fang Lv \*, Huimin Cui, Lei Wang, **Lei Liu**, Cheng-Gang Wu, Xiao-Bing Feng, and Pen-Chung Yew (UMN). JCST:2014
 
 
-[<span style="text-decoration:none;">G</span><span style="color:#ff0000; text-decoration:none;">o</span><span style="color:#ffc000; text-decoration:none;">o</span><span style="text-decoration:none;">g</span><span style="color:#00b050;text-decoration:none;">l</span><span style="color:#ff0000;text-decoration:none;">e</span><span style="text-decoration:none;"> Citation</span>](https://scholar.google.com.hk/citations?user=yhN8bmgAAAAJ&hl=en), * corresponding author
+      [<span style="text-decoration:none;">G</span><span style="color:#ff0000; text-decoration:none;">o</span><span style="color:#ffc000; text-decoration:none;">o</span><span style="text-decoration:none;">g</span><span style="color:#00b050;text-decoration:none;">l</span><span style="color:#ff0000;text-decoration:none;">e</span><span style="text-decoration:none;"> Citation</span>](https://scholar.google.com.hk/citations?user=yhN8bmgAAAAJ&hl=en), * corresponding author
 
 
 ## Patents<span id="patents"></span>
