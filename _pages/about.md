@@ -219,7 +219,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 ## Recent News<span id="news"></span>
 
-- The first step effor on Quantum computing is accepted as a poster by PACT-2020.
+- The first step effort on Quantum computing is accepted as a poster by PACT-2020.
 - **<span style="color:red">[Plz Note]</span>**:  I am Lei Liu (刘磊 in Chinese); I have nothing to do with the Mulan  project in ICT. The leader of this project has the same name in English  but not with the same Chinese characters. Thanks for your understanding.  More details on my work and myself can be found in this page. 
   请注意，我的名字是刘磊，我从未参与过“木兰”语言项目，研究领域也不是编程语言。该项目的负责人只是与我拼音名字相同而已。
 - We  will host IEEE IISWC-2020, and I myself will serve as the chair in  general for this event. Looking forward your contributions! <a href="http://www.iiswc.org/iiswc2020/index.html"><img style="float:none;width:35px;height:48px;" width="35" vspace="0" hspace="0" height="48" border="0" src="/images/iiswc_2020.jpg"/></a>
