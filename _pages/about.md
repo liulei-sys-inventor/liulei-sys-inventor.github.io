@@ -193,7 +193,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 ## Recent Professional Serivces<span id="services"></span>
 
 1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html), 2021
-2. General co-Chair of ACM [ICS-2018](http://ics2018.ict.ac.cn/)
+2. General co-Chair of ACM [ICS-2018](http://ics2018.ict.ac.cn/) (Record attendance! and Record submission in recent 5 years!)
 3. Member of the Program Committee of MICRO-2020
 4. Member of the Program Committee of HPCA-2020
 5. Member of the Program Committee of IPDPS-2020
