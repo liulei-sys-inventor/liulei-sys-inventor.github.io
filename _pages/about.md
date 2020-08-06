@@ -78,7 +78,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 1. [A New Qubits Mapping Mechanism for Multi-programming Quantum Computing](https://arxiv.org/pdf/2004.12854.pdf) (early version) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
-    Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Par. Architectures and Compilation Tech. **(PACT)**:2020 (Poster)
+    Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Par. Architectures and Compilation Tech. **(PACT)**:2020 ([Poster](/files/Quantum_PACT_2020-2.pdf))
 
 2. [QoS-Aware Resources Scheduling for Microservices: A Multi-Model Collaborative Learning-based Approach](/files/OSML___Lei_Liu.pdf)
 
@@ -335,7 +335,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 ## Postal Address<span id="address"></span>
 
 <div class="para-set">
-<p>Address: 北京海淀区中关村科学院南路6号0612J（0612J, No.6, Kexueyuan South Road, Zhongguancun, Haidian District, Beijing, China）。</p>
+<p>Address: 北京海淀区中关村科学院南路6号0612J (0612J, No.6, Kexueyuan South Road, Zhongguancun, Haidian District, Beijing, China)。</p>
 <p>Post Code: 100190</p>
 </div>
 
