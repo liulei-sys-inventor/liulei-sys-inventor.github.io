@@ -126,6 +126,10 @@
   #publications + ol > li, #projects + ol > li, #patents + ol > li, #others + ol > li{
   	margin-bottom: 1.2em;
   }
+
+  #patents + ol:last-child:last-child{
+    margin-bottom: 0;
+  }
   .small {
     font-size: $type-size-6;
   }
