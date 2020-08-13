@@ -123,12 +123,8 @@
     font-size: $type-size-6;
   }
 
-  #publications + ol > li, #projects + ol > li, #patents + ol > li, #others + ol > li{
+  #publications + ol > li, #projects + ol > li{
   	margin-bottom: 1.2em;
-  }
-
-  #others{
-    margin-top: 1.1em;
   }
 
   .small {
