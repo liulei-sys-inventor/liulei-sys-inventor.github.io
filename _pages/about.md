@@ -172,7 +172,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 
 
-## Others 
+## Others<span id="others"></span> 
 
 1. [成功举办ACM ICS-2018](/files/ics.pdf)（ACM ICS-2018 is successful! News in Chinese via [ICT link](http://www.ict.ac.cn/xwzx/jssxw/201806/t20180628_5032541.html)）
 
