@@ -14,6 +14,7 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+  max-width:1200px;
 }
 
 .totop {
