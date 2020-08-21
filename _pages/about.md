@@ -88,7 +88,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
     **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
 
-4. Monitoring Memory Behaviors and Mitigating NUMA Effects on Systems with NVM
+4. Monitoring Memory Behaviors and Mitigating NUMA Effects on System with Non-Volatile Memory
 
    Shengjie Yang, Xinyu Li, Xinglei Dou, Xiaoli Gong, **Lei Liu\***. The 17th Annual IFIP Intl. Conf. on Network and Parallel Computing:2020   
 
