@@ -146,7 +146,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 17. [BPM/BPM+: Software-based Dynamic Memory Partitioning Mechanisms for Mitigating DRAM Bank-/Channel-level Interferences in Multicore Systems](/files/taco_pass24.pdf)
 
-    **Lei Liu\***, et al. ACM Trans. on Architecture and Code Optimization **(TACO)**:2014 
+    **Lei Liu\***, et al. ACM Transactions on Architecture and Code Optimization **(TACO)**:2014 
 
 18. [A Software Memory Partition Approach for Eliminating Bank-level Interference in Multicore Systems](/files/pact140-liu-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/pact-liu-presentation.pptx)]
 
