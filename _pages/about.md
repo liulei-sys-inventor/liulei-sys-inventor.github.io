@@ -223,7 +223,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 ## Recent News<span id="news"></span>
 
-- Get a new funding from NSFC (2021~2024). Congratulations to Sys-Inventors!
+- Get a new funding from NSFC (2021~2024) for the research "An Investigation into the Key Technologies of Software Stack Design and Optimization for the Heterogeneous Memory and Computing Systems". Congratulations to Sys-Inventors!
 - The first step effort on quantum computing is accepted as a poster by PACT-2020.
 - **<span style="color:red">[Plz Note]</span>**:  I am Lei Liu (刘磊 in Chinese); I have nothing to do with the Mulan  project in ICT. The leader of this project has the same name in English  but not with the same Chinese characters. Thanks for your understanding.  More details on my work and myself can be found in this page. 
   请注意，我的名字是刘磊，我从未参与过“木兰”语言项目，研究领域也不是编程语言。该项目的负责人只是与我拼音名字相同而已。
