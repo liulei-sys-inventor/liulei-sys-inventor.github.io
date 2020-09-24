@@ -291,6 +291,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 - Zonghan Hua (ZJUT, co-Supervised w/ Prof. Jiefan Qiu)
 - Xinglei Dou (B.S., Jilin U.)
 - Xingxing Wu (B.S., Northwest A&F U.)
+- Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
 
 **Former Students**
 
