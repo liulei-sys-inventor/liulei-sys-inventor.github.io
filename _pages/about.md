@@ -88,7 +88,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
     **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
 
-4. [Monitoring Memory Behaviors and Mitigating NUMA Drawbacks on Tiered NVM Systems](/files/NPC2020.pdf)
+4. [Monitoring Memory Behaviors and Mitigating NUMA Drawbacks on Tiered NVM Systems](/files/NPC2020.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/NVM.pptx)]
 
     S Yang, X Li, X Dou, X Gong, H Liu, L Chen, **L Liu\***. The 17th IFIP Intl. Conf. on Network and Par. Computing **(NPC)**:2020
 
