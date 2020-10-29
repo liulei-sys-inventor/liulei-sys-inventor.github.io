@@ -12,9 +12,9 @@ redirect_from:
 
 ## Brief Biography<span id="biography"></span>
 
-Lei Liu is an Associate Professor of Computer Science at  Institute of Computing Technology (ICT), Chinese Academy of Sciences  (CAS), where he leads the Sys-Inventor Lab, which is a part of the State Key Lab of Computer Architecture. He joined the ICT faculty in 2014 after receiving his Ph.D. degrees in computer science from ICT (his [Ph.D. thesis](/files/phd_thesis.pdf)). Besides,  he received his MS degree in software system design at University of  Science and Technology of China (USTC), and BS degree in computer  science at Dalian University of Technology (DLUT), respectively. He  spent several years in industry as a software engineer and senior  software architect. He was a visiting scholar in CS at the University of  Rochester (UR).
+Lei Liu is an Associate Professor of Computer Science at Institute of Computing Technology (ICT), Chinese Academy of Sciences  (CAS), where he leads the Sys-Inventor Lab, which is a part of the State Key Lab of Computer Architecture. Lei Liu serves as the Chief Engineer of National Supercomputing Center (Shenzhen). He joined the ICT faculty in 2014 after receiving his Ph.D. degrees in computer science from ICT (his [Ph.D. thesis](/files/phd_thesis.pdf)). Besides,  he received his MS degree in software system design at University of  Science and Technology of China (USTC), and BS degree in computer  science at Dalian University of Technology (DLUT), respectively. He  spent several years in industry as a software engineer and senior  software architect. He was a visiting scholar in CS at the University of  Rochester (UR).
 
-He has led research projects that have advanced the Memory  Systems, OS, Performance Isolation, and Profiling: 1) Technical  evolutions for memory partitioning approaches; 2) Hybrid memory  management in OS for systems using NVM-DRAM; and 3) Next generation OS - leveraging ML to build core components in OS. As the leading author,  Lei has published research articles regarding the architecture and  operating system in venues that include ISCA, PACT, IEEE TC, TPDS, ACM TACO, ICCD, and others. Recently, his work has focused on the  intersection of the hybrid memory system (DRAM-NVM), OS for emerging  technologies (including GPU, Graph, Quantum Computing as well as AI).
+He has led research projects that have advanced the Memory  Systems, OS, Performance Isolation, and Profiling: 1) Technical  evolutions for memory partitioning approaches; 2) Hybrid memory  management in OS for systems using NVM-DRAM; and 3) Next generation OS - leveraging ML to build core components in OS. As the leading author (PI),  Lei has published research articles regarding the architecture and  operating system in venues that include ISCA, HPCA, PACT, IEEE TC, TPDS, ACM TACO, ICCD, and others. Recently, his work has focused on the  intersection of the hybrid memory system (DRAM-NVM), OS for emerging  technologies (including GPU, Graph, Quantum Computing as well as AI).
 
 Lei Liu is an IEEE and ACM member, has served as the PC/ERC  members, chairs for a number of main stream conferences (e.g., MICRO,  HPCA, SC, PACT, ICS, IISWC, ISCA, ASPLOS, ICCD, ICPP, IPDPS, HPCC,  General co-Chair of IEEE IISWC-2020, ACM ICS-2018) and reviewer for well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
 
@@ -23,8 +23,8 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 <br/>
 
 <div class="line-height1_5">
-<p>刘磊，男，1981年9月出生于新疆乌鲁木齐市，祖籍辽宁沈阳，现任中科院计算所国重副研究员（Sys-Inventor实验室负责人），硕士生导师。刘磊分别于大连理工大学、中国科学技术大学、中国科学院大学（中科院计算所）获得计算机科学与技术工学学士学位（导师：牛纪桢）、软件系统设计工程硕士学位（导师：赵振西）和计算机体系结构工学博士学位（<a href="/files/phd_thesis.pdf">博士论文链接</a>），并于2014年留计算所工作。在进入计算所之前，刘磊在工业界有5年的软件工程师、架构师及项目管理经验。刘磊于2017年5月～2018年4月在美国罗彻斯特大学计算机科学系交流访问。</p>
-<p>刘磊的研究领域包括现代操作系统、新型内存系统、体系结构及可扩展性、系统性能评测等多个方面。自2011年起，刘磊带领其课题组在面向多核平台的操作系统、内存资源的利用率、访存优化机制等方向开展了一系列研究，并主导研发了面向主流多核、多通道服务器，及异构存储体系的内存资源管理系统原型。刘磊的研究成果以<b>第一作者并通讯作者</b>发表于ISCA, PACT, IEEE TC, TPDS, ACM  TACO, ICCD等领域内权威学术会议和刊物，并在业内产生了影响力。近十年，刘磊曾主持或参与多项国家级项目（包括863、973、自然科学基金、重点研发计划等横纵项目，总计超1700余万元）；此外，他还担任了一系列权威国际学术会议的程序委员会委员、外部评审委员、组委会成员，及学术期刊的审稿人40余次（并3次担任ACM/IEEE权威学术会议的总主席）。刘磊曾获得 “中国科学院院长优秀奖”、“国家奖学金”、“国科大优秀毕业生”、“计算所优秀科研人员” 等荣誉。</p>
+<p>刘磊，男，1981年9月出生于新疆乌鲁木齐市，祖籍辽宁沈阳，现任中科院计算所国重副研究员（Sys-Inventor实验室负责人）, 研究生导师; 兼任国家超算中心（深圳）总工程师。刘磊分别于大连理工大学、中国科学技术大学、中国科学院大学（中科院计算所）获得计算机科学与技术工学学士学位（导师：牛纪桢）、软件系统设计工程硕士学位（导师：赵振西）和计算机体系结构工学博士学位（<a href="/files/phd_thesis.pdf">博士论文链接</a>），并于2014年留计算所工作。在进入计算所之前，刘磊在工业界有5年的软件工程师、架构师及项目管理经验。刘磊于2017年5月～2018年4月在美国罗彻斯特大学计算机科学系交流访问。</p>
+<p>刘磊的研究领域包括现代操作系统、新型内存系统、体系结构及可扩展性、系统性能评测等多个方面。自2011年起，刘磊带领其课题组在面向多核平台的操作系统、内存资源的利用率、访存优化机制等方向开展了一系列研究，并主导研发了面向主流多核、多通道服务器，及异构存储体系的内存资源管理系统原型。刘磊的研究成果以<b>第一作者并通讯作者</b>发表于ISCA, HPCA, PACT, IEEE TC, TPDS, ACM  TACO, ICCD等领域内权威学术会议和刊物，并在业内产生了影响力。近十年，刘磊曾主持或参与多项国家级项目（包括863、973、自然科学基金、重点研发计划等横纵项目，总计超1700余万元）；此外，他还担任了一系列权威国际学术会议的程序委员会委员、外部评审委员、组委会成员，及学术期刊的审稿人40余次（并3次担任ACM/IEEE权威学术会议的总主席）。刘磊曾获得 “中国科学院院长优秀奖”、“国家奖学金”、“国科大优秀毕业生”、“计算所优秀科研人员” 等荣誉。</p>
 <p>本实验室招收硕士、博士研究生及实习学生，欢迎对计算机系统结构有兴趣的同学和朋友。</p>
 </div>
 
@@ -49,7 +49,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 2. **Quantum Computing Systems for Cloud**
 
-     <span style="color:#c00000;">News</span> - On 25/April, 2020, the technique report - "A New Qubits Mapping Mechanism for Multi-programming Quantum Computing" - is available via this [**Link**](https://arxiv.org/pdf/2004.12854.pdf).
+     <span style="color:#c00000;">News</span> - The first step effort - QuCloud - is in IEEE HPCA-2021.
 
 3. [**Memory Management for Large Memory Systems**](/files/apsys-2019-final.pdf)
 
@@ -75,90 +75,93 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 
 ## Publications<span id="publications"></span>
+1. [QuCloud: A New Qubits Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environments]
 
-1. [A New Qubits Mapping Mechanism for Multi-programming Quantum Computing](https://arxiv.org/pdf/2004.12854.pdf) (early version) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
+    **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021      
+
+2. [A New Qubits Mapping Mechanism for Multi-programming Quantum Computing] [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
     Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Par. Architectures and Compilation Tech. **(PACT)**:2020 ([Poster](/files/Quantum_PACT_2020-2.pdf))
 
-2. [QoS-Aware Resources Scheduling for Microservices: A Multi-Model Collaborative Learning-based Approach](/files/OSML___Lei_Liu.pdf)
+3. [QoS-Aware Resources Scheduling for Microservices: A Multi-Model Collaborative Learning-based Approach](/files/OSML___Lei_Liu.pdf)
 
     **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
 
-3. An Analysis for Evolution of Memory Partitioning Technologies: Perspective, Opportunities and Methods
+4. An Analysis for Evolution of Memory Partitioning Technologies: Perspective, Opportunities and Methods
 
     **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
 
-4. [Monitoring Memory Behaviors and Mitigating NUMA Drawbacks on Tiered NVM Systems](/files/NPC2020.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/NVM.pptx)]
+5. [Monitoring Memory Behaviors and Mitigating NUMA Drawbacks on Tiered NVM Systems](/files/NPC2020.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/NVM.pptx)]
 
     S Yang, X Li, X Dou, X Gong, H Liu, L Chen, **L Liu\***. The 17th IFIP Intl. Conf. on Network and Par. Computing **(NPC)**:2020
 
-5. [Hierarchical Hybrid Memory Management in OS for Tiered Memory Systems](/files/Memos-TPDS-2019.pdf)
+6. [Hierarchical Hybrid Memory Management in OS for Tiered Memory Systems](/files/Memos-TPDS-2019.pdf)
 
     **Lei Liu\***, Shengjie Yang, Lu Peng, Xinyu Li. IEEE Transactions on Parallel and Distributed Systems **(TPDS)**:2019
 
-6. Architectural Support for NVRAM Persistence in GPUs
+7. Architectural Support for NVRAM Persistence in GPUs
 
     Sui Chen, **Lei Liu**, Weihua Zhang, Lu Peng. IEEE Trans. on Par. & Dis. Sys. **(TPDS)**:Accepted in 2019, to be appeared in 2020 Issue
 
-7. [Efficient GPU NVRAM Persistence with Helper Warps](/files/dac-19.pdf)
+8. [Efficient GPU NVRAM Persistence with Helper Warps](/files/dac-19.pdf)
 
     Sui Chen, Faen Zhang, **Lei Liu** and Lu Peng. The 56th ACM/ESDA/IEEE Design Automation Conference **(DAC)**:2019
 
-8. [Thinking about A New Mechanism for Huge Page Management](/files/apsys-2019-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/apsys-2019.pptx)]
+9. [Thinking about A New Mechanism for Huge Page Management](/files/apsys-2019-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/apsys-2019.pptx)]
 
     Xinyu Li, **Lei Liu\***, Shengjie Yang, Lu Peng, Jiefan Qiu. The 10th ACM SIGOPS Asia-Pacific Workshop on Systems **(APSys)**:2019
 
-9. [ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)
+10. [ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)
 
     **General co-Chair**. ACM 32nd Intl. conf. on Supercomputing **(ICS)**:2018
 
-10. [Tackling Diversity and Heterogeneity by Vertical Memory Management](/files/vp.pdf) 
+11. [Tackling Diversity and Heterogeneity by Vertical Memory Management](/files/vp.pdf) 
 
     **Lei Liu**.[ arXiv:1704.01198](https://arxiv.org/abs/1704.01198):2017 **(Short Version for the ISCA-2014 Paper)**
 
-11. [Memos: Revisiting Hybrid Memory Management in Modern Operating System](https://pan.cstcloud.cn/s/NV5GdcN3T3A)
+12. [Memos: Revisiting Hybrid Memory Management in Modern Operating System](https://pan.cstcloud.cn/s/NV5GdcN3T3A)
 
     **Lei Liu\***, Mengyao Xie and Hao Yang.[ arXiv:1703.07725](https://arxiv.org/abs/1703.07725):2017
 
-12. [SysMon: Monitoring Memory Behaviors via OS Approach](/files/appt2017-sysmon-myx.pdf)
+13. [SysMon: Monitoring Memory Behaviors via OS Approach](/files/appt2017-sysmon-myx.pdf)
 
     Mengyao Xie, **Lei Liu\***, Hao Yang, Chenggang Wu, Hongna Geng. The 12th Intl. Symp. on Adv. Par. Processing Tech. **(APPT)**:2017
 
-13. [Memos: A Full Hierarchy Hybrid Memory Management Framework](/files/ICCD_8.pdf) (Position Paper)
+14. [Memos: A Full Hierarchy Hybrid Memory Management Framework](/files/ICCD_8.pdf) (Position Paper)
 
     **Lei Liu\***, Hao Yang, Mengyao Xie, Lian Li, Chenggang Wu. The 34th International Conf. on Computer Design **(ICCD)**:2016
 
-14. [Rethinking Memory Management in Modern Operating System: Horizontal, Vertical or Random?](/files/tc-2015-pass19.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/All in TC.pptx)] 
+15. [Rethinking Memory Management in Modern Operating System: Horizontal, Vertical or Random?](/files/tc-2015-pass19.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/All in TC.pptx)] 
 
     **Lei Liu\***, Chen Ding, Hao Yang, Chengyong Wu. IEEE Transactions on Computers **(TC)**:2016
 
     ***<span style="color:#ca6a20;">- Trans. Version of the ISCA-2014 paper. This article was a featured article candidate in IEEE TC.</span>***
 
-15. Going Vertical in Memory Management
+16. Going Vertical in Memory Management
 
     **Lei Liu\***, et al. **ACM SIGARCH Computer Architecture News**:October, 2014
 
-16. [Going Vertical in Memory Management: Handling Multiplicity by Multi-policy](/files/ISCA2014_FINAL_pass2.pdf)  [**[<span style="color:#953734;">Slides (pptx)</span>](/files/ISCA2014.pptx)**] 
+17. [Going Vertical in Memory Management: Handling Multiplicity by Multi-policy](/files/ISCA2014_FINAL_pass2.pdf)  [**[<span style="color:#953734;">Slides (pptx)</span>](/files/ISCA2014.pptx)**] 
 
     **Lei Liu\***, et al. The 41st ACM/IEEE International Symposium on Computer Architecture **(ISCA)**:2014 (acceptance rate: 17.8%) 
 
     ***<span style="color:#ca6a20;">- The 9th ISCA paper in mainland China history since y2k.</span>*** 
 
-17. [BPM/BPM+: Software-based Dynamic Memory Partitioning Mechanisms for Mitigating DRAM Bank-/Channel-level Interferences in Multicore Systems](/files/taco_pass24.pdf)
+18. [BPM/BPM+: Software-based Dynamic Memory Partitioning Mechanisms for Mitigating DRAM Bank-/Channel-level Interferences in Multicore Systems](/files/taco_pass24.pdf)
 
     **Lei Liu\***, et al. ACM Transactions on Architecture and Code Optimization **(TACO)**:2014 
 
-18. [A Software Memory Partition Approach for Eliminating Bank-level Interference in Multicore Systems](/files/pact140-liu-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/pact-liu-presentation.pptx)]
+19. [A Software Memory Partition Approach for Eliminating Bank-level Interference in Multicore Systems](/files/pact140-liu-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/pact-liu-presentation.pptx)]
 
     **Lei Liu\***, et al. The 21st ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**:2012 (acceptance rate: 18.8%) 
 
     ***<span style="color:#ca6a20;">- Influential Article in Semantic Scholar -- Cited Greater than 200 Citations.</span>***
 
-19. WiseThrottling: A New Asynchronous Task Scheduler for Mitigating I/O Bottleneck in Large-Scale Datacenter Servers
+20. WiseThrottling: A New Asynchronous Task Scheduler for Mitigating I/O Bottleneck in Large-Scale Datacenter Servers
 
     Fang Lv\*, **Lei Liu**, Huimin Cui, Lei Wang, Ying Liu, Xiaobing Feng, P.C. Yew (UMN). J. of Supercomputing:2015
 
-20. Dynamic I/O-Aware Scheduling for Batch-Mode Applications on Chip Multiprocessor Systems of Cluster Platforms
+21. Dynamic I/O-Aware Scheduling for Batch-Mode Applications on Chip Multiprocessor Systems of Cluster Platforms
 
     Fang Lv\*, Huimin Cui, Lei Wang, **Lei Liu**, Cheng-Gang Wu, Xiao-Bing Feng, and Pen-Chung Yew (UMN). JCST:2014
 
@@ -223,6 +226,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 ## Recent News<span id="news"></span>
 
+- "QuCloud" is accepted by HPCA-2021. Congratulations!
 - Get a new funding from NSFC (2021~2024) for the research "An Investigation into the Key Technologies of Software Stack Design and Optimization for the Heterogeneous Memory and Computing Systems". Congratulations to Sys-Inventors!
 - The first step effort on quantum computing is accepted as a poster by PACT-2020.
 - **<span style="color:red">[Plz Note]</span>**:  I am Lei Liu (刘磊 in Chinese); I have nothing to do with the Mulan  project in ICT. The leader of this project has the same name in English  but not with the same Chinese characters. Thanks for your understanding.  More details on my work and myself can be found in this page. 
