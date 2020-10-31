@@ -49,7 +49,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 2. **Quantum Computing Systems for Cloud**
 
-     <span style="color:#c00000;">News</span> - The first step effort - QuCloud - is in IEEE HPCA-2021.
+     <span style="color:#c00000;">News</span> - The first step effort - QuCloud - is in **<span style="color:#953734;">IEEE HPCA-2021</span>**.
 
 3. [**Memory Management for Large Memory Systems**](/files/apsys-2019-final.pdf)
 
