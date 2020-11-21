@@ -105,7 +105,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 8. Architectural Support for NVRAM Persistence in GPUs
 
-    Sui Chen, **Lei Liu**, Weihua Zhang, Lu Peng. IEEE Trans. on Par. & Dis. Sys. **(TPDS)**:Accepted in 2019, to be appeared in 2020 Issue
+    Sui Chen, **Lei Liu**, Weihua Zhang, Lu Peng. IEEE Transactions on Parallel and Distributed Systems **(TPDS)**:2019
 
 9. [Efficient GPU NVRAM Persistence with Helper Warps](/files/dac-19.pdf)
 
