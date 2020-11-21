@@ -79,7 +79,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
     **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021   
 
-2. IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020
+2. [IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)
 
     **General co-Chair**. IEEE 16th Intl. Symposium on Workload Characterization  **(IISWC)**:2020   
 
