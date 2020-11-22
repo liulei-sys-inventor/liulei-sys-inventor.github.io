@@ -321,8 +321,8 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 
 **--- The below individuals were part-time students in my project long time ago ---** 
 
-- Yong Li, 2014, First job - engineer in VMware; Supervised by Lei liu from 2013-2015 and A. K. Jones (PITT)
-- Zehan Cui, 2015, First job - ICT till 2016; Former student supervised by Lei Liu (2011-2012) and Mingyu Chen
+- Yong Li, 2014, First job - engineer in VMware; Supervised by Lei Liu since 2013 to 2015 and A. K. Jones (PITT)
+- Zehan Cui, 2015, First job - ICT till 2016; Former student supervised by Lei Liu since 2011 to 2012 and Mingyu Chen
 
 **Former Member**
 
