@@ -319,14 +319,14 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 - Chen Ding (UR)
 - Fang Lv (Faculty, ICT)
 
-**--- The below individuals were part-time workers in my project long time ago ---** 
+**--- The below individuals were part-time students in my project long time ago ---** 
 
-- Yong Li (Engineer in VMware. Former participant from 2013~2015)
-- Zehan Cui (Within ICT till 2016. Former participant from 2011~2012)
+- Yong Li, 2014, First job - engineer in VMware; Supervised by Lei liu from 2013-2015 and A. K. Jones (PITT)
+- Zehan Cui, 2015, First job - ICT till 2016; Former student supervised by Lei Liu (2011-2012) and Mingyu Chen
 
 **Former Member**
 
-- yungang Bao (Former member from 2011.11~2012 on early step writing work). 注：本研究组已于2013年起停止了与部分参与者的非正式合作，其并未真实参与本人2012-14年ISCA等工作。
+- yungang Bao, Former member from 2011.11~2012 on early step writing work, Supervised by Lei Liu. 注：本研究组已于2013年起停止了与其非正式合作，其并未实质参与本人2012-14年ISCA等工作。
 
 ***<span>
 *本课题组属于务实型课题组 - 实干兴邦，目的是培养富有想象力的实干派；本课题组与品行端正的科研工作者/学生合作，如有“务虚”、“走捷径”等想法，请绕行。
