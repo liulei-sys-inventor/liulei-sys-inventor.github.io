@@ -302,7 +302,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 - Xingxing Wu (B.S., Northwest A&F U.)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
 
-**Former Students (including the part-time co-supervised ones) **
+**Former Students** (including the part-time co-supervised ones)
 
 - Hao Yang, Master 2017, Huawei
 - Mengyao Xie, 9/2015~4/2018
