@@ -302,11 +302,13 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 - Xingxing Wu (B.S., Northwest A&F U.)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
 
-**Former Students**
+**Former Students (including the part-time co-supervised ones) **
 
 - Hao Yang, Master 2017, Huawei
 - Mengyao Xie, 9/2015~4/2018
 - Hongna Geng, 10/2016~4/2018 
+- Yong Li, 2014, First job - engineer in VMware; co-Supervised by Lei Liu since 2013 to 2015 and A. K. Jones (PITT)
+- Zehan Cui, 2015, First job - ICT till 2016; co-Supervised by Lei Liu since 2011 to 2012 and Mingyu Chen
 
 **Recent and Former Collaborators**
 
@@ -318,11 +320,6 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 - Chenggang Wu (ICT)
 - Chen Ding (UR)
 - Fang Lv (Faculty, ICT)
-
-**--- The below individuals were part-time students in my project long time ago ---** 
-
-- Yong Li, 2014, First job - engineer in VMware; Supervised by Lei Liu since 2013 to 2015 and A. K. Jones (PITT)
-- Zehan Cui, 2015, First job - ICT till 2016; Former student supervised by Lei Liu since 2011 to 2012 and Mingyu Chen
 
 **Former Member**
 
