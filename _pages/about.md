@@ -75,7 +75,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 
 ## Publications<span id="publications"></span>
-1. QuCloud: A New Qubits Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment 
+1. QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment 
 
     **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021   
 
