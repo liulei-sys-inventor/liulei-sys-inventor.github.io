@@ -29,7 +29,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 </div>
 
 
-## Sys-Inventor Lab - Next-Generation Clould Native Technologies<span id="SIL"></span>
+## Sys-Inventor Lab<span id="SIL"></span>
 
 **The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation Cloud native technologies</span>, covering the interaction of OS, emerging applications and hardware. Our Research Interests include:**
 
