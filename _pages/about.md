@@ -52,6 +52,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
      <span style="color:#c00000;">News</span> - The first step effort - QuCloud - is in **<span style="color:#953734;">IEEE HPCA-2021 and PACT-2020</span>**.
   
    (i) We are studing to create the next-generation quantum computer architecture.
+
    (ii) We are developing the software stack for making the new computer that can be leveraged in supercomputing and AI. 
 
 3. [**Memory Management for Large Memory Systems**](/files/apsys-2019-final.pdf)
