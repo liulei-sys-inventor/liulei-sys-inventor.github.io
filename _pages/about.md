@@ -85,7 +85,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 2. [IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)
 
-    **General co-Chair**. IEEE 16th Intl. Symposium on Workload Characterization  **(IISWC)**:2020   
+    **General co-Chair**. IEEE 16th International Symposium on Workload Characterization  **(IISWC)**:2020   
 
 3. A New Qubits Mapping Mechanism for Multi-programming Quantum Computing [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
@@ -121,7 +121,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 11. [ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)
 
-    **General co-Chair**. ACM 32nd Intl. conf. on Supercomputing **(ICS)**:2018
+    **General co-Chair**. ACM 32nd International Conference on Supercomputing **(ICS)**:2018
 
 12. [Tackling Diversity and Heterogeneity by Vertical Memory Management](/files/vp.pdf) 
 
