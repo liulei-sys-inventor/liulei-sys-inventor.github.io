@@ -111,7 +111,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
     Sui Chen, **Lei Liu**, Weihua Zhang, Lu Peng. IEEE Transactions on Parallel and Distributed Systems **(TPDS)**:2019
 
-9. [Efficient GPU NVRAM Persistence with Helper Warps](/files/dac-19.pdf)
+9. Efficient GPU NVRAM Persistence with Helper Warps
 
     Sui Chen, Faen Zhang, **Lei Liu** and Lu Peng. The 56th ACM/ESDA/IEEE Design Automation Conference **(DAC)**:2019
 
