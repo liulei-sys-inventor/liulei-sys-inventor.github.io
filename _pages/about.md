@@ -316,6 +316,8 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 
 **Recent and Former Collaborators**
 
+- Li Chen (ICT)
+- Yunquan Zhang (ICT)
 - Lu Peng (LSU)
 - Chenliang Xu (UR)
 - Lingda Li (BNL)
