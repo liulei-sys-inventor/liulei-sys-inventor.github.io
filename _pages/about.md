@@ -300,11 +300,11 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 **I'm fortunate to work or have worked with some of these brilliant ones, and also thank the former participants.**
 
 - Shengjie Yang (B.S., Yunnan U.)
-- Xinyu Li (B.S., SJTU)
 - Zonghan Hua (ZJUT, co-Supervised w/ Prof. Jiefan Qiu)
 - Xinglei Dou (B.S., Jilin U.)
 - Xingxing Wu (B.S., Northwest A&F U.)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
+- Xinyu Li (B.S., SJTU)
 
 **Former Students** (including the part-time co-supervised ones)
 
