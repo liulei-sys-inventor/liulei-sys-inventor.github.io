@@ -310,13 +310,13 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
 - Xinyu Li (B.S., SJTU)
 
-**Former Students** (including the part-time co-supervised ones)
+**Former Students** (including interns, part-time co-supervised ones)
 
 - Hao Yang, Master 2017, Huawei
 - Mengyao Xie, 9/2015~4/2018
 - Hongna Geng, 10/2016~4/2018 
-- Yong Li, 2014, First job - engineer in VMware; co-supervised by Lei Liu since 2013 to 2015 and A. K. Jones (PITT)
-- Zehan Cui, 2015, First job - ICT till 2016; co-supervised by Lei Liu since 2011 to 2012 and Mingyu Chen
+- Yong Li, 2014, intern, first job - engineer in VMware; co-supervised since 2013 to 2015 and A. K. Jones (PITT)
+- Zehan Cui, 2015, intern, first job - ICT till 2016; co-supervised since 2011 to 2012 and Mingyu Chen
 
 **Recent and Former Collaborators**
 
