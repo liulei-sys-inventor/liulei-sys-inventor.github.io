@@ -333,7 +333,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 
 **Former Member**
 
-- yungang Bao, Former member from 2011.11~2012 on early step writing work, Supervised by Lei Liu. 注：本研究组已于2013年起停止了与其非正式合作，其并未实质参与本人2012-14年ISCA等工作。
+- yungang Bao, Former member from 2011.11~2012 on early step writing work, supervised by Lei Liu. 注：本研究组已于2013年起停止了与其非正式合作，其并未实质参与本人主导2012-14年ISCA等相关工作。
 
 ***<span>
 *本课题组属于务实型课题组 - 实干兴邦，目的是培养富有想象力的实干派；本课题组与品行端正的科研工作者/学生合作，如有“务虚”、“走捷径”等想法，请绕行。
