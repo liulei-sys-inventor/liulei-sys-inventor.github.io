@@ -85,7 +85,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
     **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021   
 
-2. The Research and Development of Memory Partitioning Technologies: A Case Study via Page Coloring
+2. The Evolution of Memory Partitioning Technologies: A Case Study through Page Coloring
 
 	Jiefan Qiu, Zonghan Hua, Jing Fan, **Lei Liu\***. Journal of Software in Chinese **(软件学报)**:2021
 
