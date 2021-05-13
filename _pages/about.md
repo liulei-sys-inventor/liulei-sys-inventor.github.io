@@ -161,7 +161,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 20. [Going Vertical in Memory Management: Handling Multiplicity by Multi-policy](/files/ISCA2014_FINAL_pass2.pdf)  [**[<span style="color:#953734;">Slides (pptx)</span>](/files/ISCA2014.pptx)**] 
 
-    **Lei Liu\***, et al. The 41st ACM/IEEE International Symposium on Computer Architecture **(ISCA)**:2014 (acceptance rate: 17.8%) 
+    **Lei Liu\***, et al. The 41st ACM/IEEE International Symposium on Computer Architecture **(ISCA)**:2014 
 
     ***<span style="color:#ca6a20;">- The 9th ISCA paper in mainland China history since y2k.</span>*** 
 
@@ -171,7 +171,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 22. [A Software Memory Partition Approach for Eliminating Bank-level Interference in Multicore Systems](/files/pact140-liu-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/pact-liu-presentation.pptx)]
 
-    **Lei Liu\***, et al. The 21st ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**:2012 (acceptance rate: 18.8%) 
+    **Lei Liu\***, et al. The 21st ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**:2012 
 
     ***<span style="color:#ca6a20;">- Influential Article in Semantic Scholar -- Cited Greater than 200 Citations.</span>***
 
