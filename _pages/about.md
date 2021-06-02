@@ -189,9 +189,9 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 ## Patents<span id="patents"></span>
 
-1. 一种微服务资源调度系统和方法 
+1. 一种微服务资源调度系统和方法 (Chinese Version). **First Inventor** 
 
-2. 一种消除远程非易失性内存访问的进程调度技术
+2. 一种消除远程非易失性内存访问的进程调度技术 (Chinese Version). **First Inventor**
 
 3. [Memory Resource Optimization Method and Apparatus (PCT, US).](https://patents.google.com/patent/US9857980B2/en) **First Inventor (with Wu and Feng)**. 
 
