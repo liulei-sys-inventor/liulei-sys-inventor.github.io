@@ -307,7 +307,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 ## Resume References<span id="references"></span>
 
-Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), Lu Peng (LSU), Bin Ren (WM), Scott Michael (Rochester), P-C Yew (UMN)
+Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), Bin Ren (WM), Scott Michael (Rochester), P-C Yew (UMN)
 
 ## People <span id="People"></span>
 
