@@ -321,7 +321,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 **Former Students** (including interns, part-time co-supervised ones)
 
 - Shengjie Yang, Master 2021, Tencent; Outstanding graduate honor of ICT and UCAS (2%), Excellent dissertation
-- Zonghan Hua, Master 2021, The People's Bank Of China, Zhejiang
+- Zonghan Hua, Master 2021; The People's Bank of China, Zhejiang
 - Hao Yang, Master 2017, Huawei
 - Mengyao Xie, 9/2015~4/2018
 - Hongna Geng, 10/2016~4/2018 
