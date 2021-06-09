@@ -311,7 +311,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 
 ## People <span id="People"></span>
 
-**I'm fortunate to work or have worked with some of these brilliant ones, and also thank the former participants.**
+**Students**
 
 - Xinglei Dou (B.S., Jilin U.)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
@@ -321,29 +321,12 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 **Former Students** (including interns, part-time co-supervised ones)
 
 - Shengjie Yang, Master 2021, Tencent; Outstanding graduate honor of ICT and UCAS (2%), Excellent dissertation
-- Zonghan Hua, Master 2021; The People's Bank of China, Zhejiang
+- Zonghan Hua, Master 2021, The People's Bank of China, Zhejiang
 - Hao Yang, Master 2017, Huawei
 - Mengyao Xie, 9/2015~4/2018
 - Hongna Geng, 10/2016~4/2018 
 - Yong Li, 2014, intern, first job - engineer in VMware; co-supervised since 2013 to 2015 and A. K. Jones (PITT)
 - Zehan Cui, 2015, intern, first job - ICT till 2016; co-supervised since 2011 to 2012 and Mingyu Chen
-
-**Recent and Former Collaborators**
-
-- Li Chen (ICT)
-- Yunquan Zhang (ICT)
-- Lu Peng (LSU)
-- Chenliang Xu (UR)
-- Lingda Li (BNL)
-- P-C Yew (UMN)
-- Mingjie Xing (ICT)
-- Chenggang Wu (ICT)
-- Chen Ding (UR)
-- Fang Lv (Faculty, ICT)
-
-**Former Member**
-
-- yungang Bao, Former member from 2011.11~2012 on early step writing work, supervised by Lei Liu. 注：本研究组已于2013年起停止了与其非正式合作，其并未实质参与本人主导2012-14年ISCA等相关工作。
 
 ***<span>
 *本课题组属于务实型课题组 - 实干兴邦，目的是培养富有想象力的实干派；本课题组与品行端正的科研工作者/学生合作，如有“务虚”、“走捷径”等想法，请绕行。
