@@ -232,7 +232,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 8. Member of the Program Committee of ICCD-2018, 2019, 2020
 9. Member of the Program Committee of APPT-2019
 10. Member of the External Review Committee of HPCA-2019
-11. Member of the Program Committee of IISWC-2017
+11. Member of the Program Committee of IISWC-2017, 2021
 12. Member of the Program Committee of ICPP-2017, 2020
 13. Member of the Program Committee of ICS-2017, and Chair of Session 5
 14. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
@@ -313,15 +313,15 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), L
 
 **I'm fortunate to work or have worked with some of these brilliant ones, and also thank the former participants.**
 
-- Shengjie Yang (B.S., Yunnan U.)
-- Zonghan Hua (ZJUT, co-Supervised w/ Prof. Jiefan Qiu)
 - Xinglei Dou (B.S., Jilin U.)
-- Xingxing Wu (B.S., Northwest A&F U.)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
 - Xinyu Li (B.S., SJTU)
+- Xingxing Wu (B.S., Northwest A&F U.)
 
 **Former Students** (including interns, part-time co-supervised ones)
 
+- Shengjie Yang, Master 2021, Tencent; Outstanding graduate honor of ICT and UCAS (2%), Excellent dissertation
+- Zonghan Hua, Master 2021, The People's Bank Of China, Zhejiang
 - Hao Yang, Master 2017, Huawei
 - Mengyao Xie, 9/2015~4/2018
 - Hongna Geng, 10/2016~4/2018 
