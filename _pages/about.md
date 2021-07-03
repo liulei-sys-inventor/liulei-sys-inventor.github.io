@@ -97,7 +97,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
    Zhichao Yu, Yangzhong Li, Zhaonian Zhang, **Lei Liu\*** and Shengzhong Feng. Computer Engineering in Chinese **(计算机工程)**:2021
 
-   ***<span style="color:#ca6a20;">- Invited Article</span>***
+   ***<span style="color:#ca6a20;">- Invited Article in J. of Computer Engineering</span>***
  
 5. [IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)
 
