@@ -231,25 +231,26 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html)
 2. General co-Chair of ACM [ICS-2018](http://ics2018.ict.ac.cn/) (Record attendance! and Record submission in recent 5 years!)
 3. Member of the Program Committee of MICRO-2020 (Chair of NVM session), 2021
-4. Member of the Program Committee of HPCA-2020
-5. Member of the Program Committee of IPDPS-2020
-6. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
-7. Member of the Program Committee of SC-2019
-8. Member of the Program Committee of ICCD-2018, 2019, 2020
-9. Member of the Program Committee of APPT-2019
-10. Member of the External Review Committee of HPCA-2019
-11. Member of the Program Committee of IISWC-2017, 2021
-12. Member of the Program Committee of ICPP-2017, 2020
-13. Member of the Program Committee of ICS-2017, and Chair of Session 5
-14. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
-15. Member of the External Review Committee of ISCA-2016, 2021
-16. Member of the Program Committee of IEEE IPDPS-2016
-17. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge)
-18. Member of the Program Committee of HPCC-2015, 2016
-19. Member of the Program Committee of HP3C-2017, 2018, 2019
-20. Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, JPDC, IEEE TPDS, IEEE CAL
-21. Review Expert of National Science Foundation of China (NSFC)
-22. 《计算机工程》青年编委、审稿人
+4。Member of the Program Committee of PPoPP-2022
+5. Member of the Program Committee of HPCA-2020
+6. Member of the Program Committee of IPDPS-2020
+7. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
+8. Member of the Program Committee of SC-2019
+9. Member of the Program Committee of ICCD-2018, 2019, 2020
+10. Member of the Program Committee of APPT-2019
+11. Member of the External Review Committee of HPCA-2019
+12. Member of the Program Committee of IISWC-2017, 2021
+13. Member of the Program Committee of ICPP-2017, 2020
+14. Member of the Program Committee of ICS-2017, and Chair of Session 5
+15. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
+16. Member of the External Review Committee of ISCA-2016, 2021
+17. Member of the Program Committee of IEEE IPDPS-2016
+18. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge)
+19. Member of the Program Committee of HPCC-2015, 2016
+20. Member of the Program Committee of HP3C-2017, 2018, 2019
+21. Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, JPDC, IEEE TPDS, IEEE CAL
+22. Review Expert of National Science Foundation of China (NSFC)
+23. 《计算机工程》青年编委、审稿人
 
 
 
