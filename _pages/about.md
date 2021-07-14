@@ -335,9 +335,6 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Yong Li, 2014, intern, first job - engineer in VMware; co-supervised since 2013 to 2015 and A. K. Jones (PITT)
 - Zehan Cui, 2015, intern, first job - ICT till 2016; co-supervised since 2011 to 2012 and Mingyu Chen
 
-***<span>
-*本课题组属于务实型课题组 - 实干兴邦，目的是培养富有想象力的实干派；本课题组与品行端正的科研工作者/学生合作，如有“务虚”、“走捷径”等想法，请绕行。
-</span>***
 
 ## Recommendations<span id="recommendations"></span>
 
