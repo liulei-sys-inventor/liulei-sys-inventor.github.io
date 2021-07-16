@@ -245,7 +245,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 15. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
 16. Member of the External Review Committee of ISCA-2016, 2021
 17. Member of the Program Committee of IEEE IPDPS-2016
-18. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge)
+18. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge), 2022
 19. Member of the Program Committee of HPCC-2015, 2016
 20. Member of the Program Committee of HP3C-2017, 2018, 2019
 21. Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, JPDC, IEEE TPDS, IEEE CAL
