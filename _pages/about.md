@@ -323,7 +323,6 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Xinglei Dou (B.S., Jilin U.)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
 - Xinyu Li (B.S., SJTU)
-- Xingxing Wu (B.S., Northwest A&F U.)
 
 **Former Students** (including interns, part-time co-supervised ones)
 
