@@ -92,6 +92,8 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 3. An Investigation into Quantum Program Mapping on Superconducting Quantum Computers
     
    Xinglei Dou, **Lei Liu\***, Yuetao Chen. Journal of Computer Research and Development in Chinese **(计算机研究与发展)**:2021
+ 
+   ***<span style="color:#ca6a20;">- Special Issue on Quantum Computing in J. of Computer R&D</span>***
 
 4. Quantum Computing Simulations and Optimizations: A Survey
 
