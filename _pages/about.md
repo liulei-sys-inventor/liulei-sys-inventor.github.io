@@ -89,7 +89,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
    Jiefan Qiu, Zonghan Hua, Jing Fan, **Lei Liu\***. Journal of Software in Chinese **(软件学报)**:2021
 
-3. An Investigation into Quantum Program Mapping on Superconducting Quantum Computers
+3. [An Investigation into Quantum Program Mapping on Superconducting Quantum Computers](/files/JCRD-2021.pdf)
     
    Xinglei Dou, **Lei Liu\***, Yuetao Chen. Journal of Computer Research and Development in Chinese **(计算机研究与发展)**:2021
  
