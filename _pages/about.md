@@ -16,7 +16,7 @@ Lei Liu is an Associate Professor of Computer Science at Institute of Computing 
 
 He has led research projects that have advanced the cloud native technologies, involving  memory systems, OS, AI for Systems, performance isolation, and profiling. 1) Technical  evolutions for memory partitioning approaches; 2) Hybrid memory  management in OS for systems using NVM-DRAM; 3) Next generation OS - leveraging ML to build core components in OS; and 4) Quantum computing technologies. As the leading author (PI),  Lei has published research articles regarding the architecture and  operating system in venues that include ISCA, HPCA, PACT, IEEE TC, TPDS, ACM TACO, ICCD, and others. Recently, his work has focused on the  intersection of the hybrid memory system (DRAM-NVM), OS for emerging  technologies (including GPU, Graph, Quantum Computing as well as AI).
 
-Lei Liu is an IEEE and ACM member, has served as the PC/ERC  members, chairs for a number of main stream conferences (e.g., MICRO,  HPCA, SC, PACT, ICS, IISWC, ISCA, ASPLOS, ICCD, ICPP, IPDPS, HPCC,  General co-Chair of IEEE IISWC-2020, ACM ICS-2018) and reviewer for well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
+Lei Liu is an IEEE and ACM member, has served as the PC/ERC members, chairs for a number of main stream conferences (e.g., ISCA, MICRO, HPCA, SC, PACT, ICS, IISWC, ASPLOS, ICCD, ICPP, IPDPS, HPCC,  General co-Chair of IEEE IISWC-2020, ACM ICS-2018) and reviewer for well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
 
 His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.cn](mailto:liulei2010@ict.ac.cn)
 
