@@ -325,6 +325,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 
 - Xinglei Dou (B.S., Jilin U.)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
+- Tianhua Han (B.S., Harbin Institute of Tech. - Weihai)
 - Xinyu Li (B.S., SJTU)
 
 **Former Students** (including interns, part-time co-supervised ones)
