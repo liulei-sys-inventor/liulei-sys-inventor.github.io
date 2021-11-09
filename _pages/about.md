@@ -231,7 +231,7 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 ## Recent Professional Serivces<span id="services"></span>
 
 1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html)
-2. General co-Chair of ACM [ICS-2018](http://ics2018.ict.ac.cn/) (Record attendance! and Record submission in recent 5 years!)
+2. General co-Chair of ACM [ICS-2018](http://ics2018.ict.ac.cn/) (Record attendance! and Record submission in recent 8 years!)
 3. Member of the Program Committee of ISCA-2022
 4. Member of the Program Committee of MICRO-2020 (Chair of NVM session), 2021
 5. Member of the Program Committee of PPoPP-2022
@@ -259,6 +259,8 @@ His e-mail is: [lei.liu@zoho.com](mailto:lei.liu@zoho.com); [liulei2010@ict.ac.c
 
 ## Recent News<span id="news"></span>
 
+- Get a new funding from Guangdong Province for the Key R&D Program of Guangdong Province (Chief Scientist). 
+- Get a new funding from OPPO for the project of AI for System on Mobiles (PI).  
 - "QuCloud" is accepted by HPCA-2021. Congratulations!
 - Get a new funding from NSFC (2021~2024) for the research "An Investigation into the Key Technologies of Software Stack Design and Optimization for the Heterogeneous Memory and Computing Systems". Congratulations to Sys-Inventors!
 - The first step effort on quantum computing is accepted as a poster by PACT-2020.
