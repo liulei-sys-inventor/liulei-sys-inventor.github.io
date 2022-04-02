@@ -18,7 +18,7 @@ He has led research projects that have advanced the cloud native technologies, i
 
 Lei Liu is an IEEE and ACM member, has served as the PC/ERC members, chairs for a number of main stream conferences (e.g., ISCA, MICRO, HPCA, SC, PACT, ICS, IISWC, ASPLOS, ICCD, ICPP, IPDPS, HPCC,  General co-Chair of IEEE IISWC-2020, ACM ICS-2018) and reviewer for well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
 
-His e-mail is: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
+His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 <br/>
 
