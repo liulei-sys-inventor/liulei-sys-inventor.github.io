@@ -81,7 +81,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 
 ## Selected Publications<span id="publications"></span>
-1. Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA System
+1. Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems
   
    Y. Chen, K. Qiu, L. Chen, H. Jia, Y. Zhang, L. Xiao, **L. Liu\***. CCF Transactions on High Performance Computing **(THPC)**:2022
 
