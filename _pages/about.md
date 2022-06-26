@@ -43,13 +43,13 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Projects - Building Next-Generation Cloud Systems<span id="projects"></span>
 
-1. **Next-Generation OS - Leveraging AI to Enhance the OS and Build Core Mechanisms**
+1. **Next-Generation OS - Leveraging AI/ML technologies to Enhance the OS and Build Core Mechanisms**
 
-   (i) 
+   (i) We design a new Cloud scheduling mechanism for multiple interactive resources on large-scale servers to improve performance, QoS, resource utilization, and save energy. Our scheduling mechanism works well in the modern Cloud environment, which embraces many Latency-critical applications, best-effort applications, and microservices. 
 
    - On 26/Nov, 2019, the technique report about our first step study (OSML) is available via this [**Link**](/files/OSML___Lei_Liu.pdf).
 
-   (ii)
+   (ii) On mobile, we use AI/ML technologies to optimize the system's energy-efficiency. 
 
 2. **Quantum Computing for Cloud**
 
