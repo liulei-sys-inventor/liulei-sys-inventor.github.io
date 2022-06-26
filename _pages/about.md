@@ -47,6 +47,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    (i) This study designs a new Cloud scheduling mechanism for multiple interactive resources on large-scale servers to improve performance, QoS, resource utilization, and save energy. Our scheduling mechanism works well in the modern Cloud environment, which embraces many Latency-critical applications, best-effort applications, and microservices. 
 
+   - The first step work on using ML to enhance thread threading on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022.
    - On 26/Nov, 2019, the technique report about our first step study (OSML) is available via this [**Link**](/files/OSML___Lei_Liu.pdf).
 
    (ii) On mobile, this work leverages AI/ML technologies to optimize the system energy-efficiency. 
