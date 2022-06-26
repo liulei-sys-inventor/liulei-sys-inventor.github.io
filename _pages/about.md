@@ -45,15 +45,19 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. **Next-Generation OS - Leveraging AI to Enhance the OS and Build Core Mechanisms**
 
-     <span style="color:#c00000;">News</span> - On 26/Nov, 2019, the technique report about our first step study (OSML) is available via this [**Link**](/files/OSML___Lei_Liu.pdf).
+   (i) 
+
+   - On 26/Nov, 2019, the technique report about our first step study (OSML) is available via this [**Link**](/files/OSML___Lei_Liu.pdf).
+
+   (ii)
 
 2. **Quantum Computing for Cloud**
 
-     <span style="color:#c00000;">News</span> - The first step effort - QuCloud - is in **<span style="color:#953734;">IEEE HPCA-2021 and PACT-2020</span>**.
-  
    (i) The next-generation quantum computer architecture.
    
    (ii) Software stack, OS for making the quantum computer performs better.
+
+   - The first step effort - QuCloud - is in **<span style="color:#953734;">IEEE HPCA-2021 and PACT-2020</span>**.
 
    (iii) Quantum computing simulation as well as AI.  
 
