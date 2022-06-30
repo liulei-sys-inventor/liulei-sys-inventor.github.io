@@ -45,12 +45,12 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. **Next-Generation OS -- Using AI/ML for OS**
 
-   (i) This study designs new scheduling mechanisms on large-scale servers to improve performance, QoS, resource utilization, and save energy. Our scheduling mechanism works well in the modern Cloud environment, which embraces many Latency-critical applications, best-effort applications, and microservices. 
+   (i) Designing new scheduling mechanisms on large-scale servers to improve performance, QoS, resource utilization, and save energy. Our scheduling mechanism works well in the modern Cloud environment, which embraces many Latency-critical applications, best-effort applications, and microservices. 
 
    - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022.
    - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](/files/OSML___Lei_Liu.pdf). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
 
-   (ii) On mobile, this work leverages AI/ML technologies to optimize the system energy-efficiency. 
+   (ii) On mobile, leveraging AI/ML technologies to optimize the system energy-efficiency. 
 
 2. **Quantum Computing System and Architecture**
 
