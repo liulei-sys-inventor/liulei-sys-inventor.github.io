@@ -250,7 +250,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 7. Member of the Program Committee of IPDPS-2020
 8. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
 9. Member of the Program Committee of SC-2019
-10. Member of the Program Committee of ICCD-2018, 2019, 2020
+10. Member of the Program Committee of ICCD-2018, 2019, 2020, 2022
 11. Member of the Program Committee of APPT-2019
 12. Member of the External Review Committee of HPCA-2019
 13. Member of the Program Committee of IISWC-2017, 2021
