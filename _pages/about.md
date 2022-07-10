@@ -360,7 +360,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Prof. Mateo Valero's [Keynote slides](https://pan.cstcloud.cn/s/7R1ezKAPS0I) and Prof. Hironori's [Keynote slides](/files/ICS2018HKasahara20180613.pdf) for ICS-2018
 - [The Three Golden Rules for Successful Scientific Research](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD637.html)
 - Lei Liu's [web on University of CAS (中国科学院大学)](http://people.ucas.ac.cn/~liulei2010),[ Linkedin](https://www.linkedin.com/in/%E7%A3%8A-lei-%E5%88%98-liu-b750a8148) and [Researchgate](https://www.researchgate.net/profile/Lei_Liu213).
-- [Conf. Information](http://confsearch.ethz.ch/confsearch/) in Computer Science. You will never miss your conference.:)
+- [Conf. Information](https://confsearch.ethz.ch) in Computer Science. You will never miss your conference.:)
 - [Worse-case Reviewing](https://www.sigarch.org/want-people-to-read-your-paper-consider-the-worst-case-reviewer/)
 - [\[更正\] ISCA2016: 计算机体系结构顶会CNN走红，神经网络论文夺桂冠](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651984404&idx=2&sn=4f776dbaaa9bf49f799dd8e780f5e184&cene=2&srcid=0705GexRpXBlYKd5LYJl06GM&from=timeline&isappinstalled=0#wechat_redirect)
 - [\[体系结构顶会Micro2016\] 神经网络加速器仍是热点，但图计算加速器夺最佳论文](http://mp.weixin.qq.com/s/XyN1kK-1kTrCmzOOVVmtEw)
