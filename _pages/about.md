@@ -70,9 +70,9 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    The emerging hybrid DRAM-NVM architecture is challenging the existing memory management mechanism in operating systems. In this project, we introduce Memos, which can hierarchically schedule memory resources over the entire memory hierarchy including cache, channels, main memory comprising DRAM and NVM simultaneously. Powered by our newly designed kernel-level monitoring module (HyMM) and page migration engine, Memos can dynamically optimize the data placement at the memory hierarchy in response to the on-line memory patterns, current resource utilization and memory medium features. The efforts are published in **<span style="color:#953734;">IEEE TPDS-2019 and ICCD-2016</span>**.
 
-5. **Sysmon (2014~Now)**
+5. **SysMon (2014~Now)**
 
-   A light-weight OS-level system monitoring tool suite, which is able to profile the memory utilization (including cache utilization, memory footprint, approximate row-buffer locality, physical page level logic re-use time, access frequency, hot/cold features and write/read patterns) without any hardware supports. SysMon is especially useful in VM and system-level research work. Sysmon is now open source on Github. The beta version is introduced in ISCA-2014, TC-2016, and we further discuss reducing the sampling overhead in APPT-2017 in detail.
+   A light-weight OS-level system monitoring tool suite, which is able to profile the memory utilization (including cache utilization, memory footprint, approximate row-buffer locality, physical page level logic re-use time, access frequency, hot/cold features and write/read patterns) without any hardware supports. SysMon is especially useful in VM and system-level research work. Sysmon is now open source on Github. The beta version is introduced in ISCA-2014, TC-2016, and we further discuss reducing the sampling overhead in APPT-2017 in detail. In practice, it has high accuracy and low overheads.
 
 6. [**Hierarchically Optimizting Data Placement across Cache and Memory Banks on Cloud Servers (2013~Now)**](https://arxiv.org/pdf/1704.01198.pdf)
 
