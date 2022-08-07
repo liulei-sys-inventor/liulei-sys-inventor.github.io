@@ -225,21 +225,23 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 
 ## Others<span id="others"></span> 
-1. 成功举办IISWC-2020（IISWC-2020 is successful! News in Chinese via [ICT link](http://www.carch.ac.cn/xwdt/sysxw/202011/t20201110_590983.html)）
+1. [“东数西算”解决算力分布式使用面临的挑战是数据移动的开销(采访稿)](http://k.sina.com.cn/article_3740356007_def14da702002tde6.html)
 
-2. [成功举办ACM ICS-2018](/files/ics.pdf)（ACM ICS-2018 is successful! News in Chinese via [ICT link](http://www.ict.cas.cn/xwgg/jssxw/201811/t20181103_5163662.html))
+2. 成功举办IISWC-2020（IISWC-2020 is successful! News in Chinese via [ICT link](http://www.carch.ac.cn/xwdt/sysxw/202011/t20201110_590983.html)）
 
-3. [多核系统内存资源管理优化技术的研究](/files/最终版本.pdf)（博士学位论文，导师：吴、冯；涵盖本人发表在ISCA、PACT、TACO的成果; Lei's Ph. D. dissertation in Chinese, covering his work in ISCA, PACT and TACO. Supervisor: Wu and Feng）[出版物链接（BOOK）](https://www.morebooks.de/store/gb/book/%E5%A4%9A%E6%A0%B8%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6/isbn/978-3-330-82280-1)
+3. [成功举办ACM ICS-2018](/files/ics.pdf)（ACM ICS-2018 is successful! News in Chinese via [ICT link](http://www.ict.cas.cn/xwgg/jssxw/201811/t20181103_5163662.html))
+
+4. [多核系统内存资源管理优化技术的研究](/files/最终版本.pdf)（博士学位论文，导师：吴、冯；涵盖本人发表在ISCA、PACT、TACO的成果; Lei's Ph. D. dissertation in Chinese, covering his work in ISCA, PACT and TACO. Supervisor: Wu and Feng）[出版物链接（BOOK）](https://www.morebooks.de/store/gb/book/%E5%A4%9A%E6%A0%B8%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6/isbn/978-3-330-82280-1)
 
     Defense Committee (May/2014): Fengbin Qi (漆锋斌), Zhaoqing Zhang (张兆庆), Zifeng Hou (侯紫峰), Zhiyong Liu (刘志勇), Wenguang Chen (陈文光), Zhimin Tang (唐志敏), Xiaodong Zhang (张晓东)
 
-4. [编译技术的领路人－谨祝国重编译组张兆庆研究员获得“夏培肃奖”](/files/张兆庆老师获得“夏培肃奖”.pdf)（Invited Essay in Chinese）
+5. [编译技术的领路人－谨祝国重编译组张兆庆研究员获得“夏培肃奖”](/files/张兆庆老师获得“夏培肃奖”.pdf)（Invited Essay in Chinese）
 
-5. [PACT-2015 PC会议记录与硅谷工业界访问之行](/files/PACT-2015 PC副本.pdf)（Invited Essay in Chinese）
+6. [PACT-2015 PC会议记录与硅谷工业界访问之行](/files/PACT-2015 PC副本.pdf)（Invited Essay in Chinese）
 
-6. [ISCA-2014与北美学术之旅](/files/ISCA-2014与北美学术之旅.pdf)（Invited Essay in Chinese）
+7. [ISCA-2014与北美学术之旅](/files/ISCA-2014与北美学术之旅.pdf)（Invited Essay in Chinese）
 
-7. [Page Coloring的历史与发展](/files/Page Coloring的历史与发展.pdf)（Invited Survey in Chinese）
+8. [Page Coloring的历史与发展](/files/Page Coloring的历史与发展.pdf)（Invited Survey in Chinese）
 
 
 
