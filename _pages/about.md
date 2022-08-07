@@ -225,7 +225,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 
 ## Others<span id="others"></span> 
-1. [“东数西算”解决算力分布式使用面临的挑战是数据移动的开销(采访稿)](http://k.sina.com.cn/article_3740356007_def14da702002tde6.html)
+1. [“东数西算”解决算力分布式使用面临的挑战是数据移动的开销（采访稿）](http://k.sina.com.cn/article_3740356007_def14da702002tde6.html)
 
 2. 成功举办IISWC-2020（IISWC-2020 is successful! News in Chinese via [ICT link](http://www.carch.ac.cn/xwdt/sysxw/202011/t20201110_590983.html)）
 
