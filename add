@@ -1,4 +1,4 @@
-/root/ictgwlogin.py
+python3 /root/ict_login/ict_login.py
 git add .
 git commit -m "update"
 git push origin master
