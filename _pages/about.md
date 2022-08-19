@@ -226,9 +226,9 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Others<span id="others"></span> 
 
-1. [“东数西算”半载，行业突围战打响，人才、网络、节能等成关键（Invited Interview in Chinese）](https://www.163.com/dy/article/HEO2A0F705199NPP.html)
+1. [“东数西算”半载，行业突围战打响，人才、网络、节能等成关键](https://www.163.com/dy/article/HEO2A0F705199NPP.html)（Invited Interview in Chinese）
 
-2. [“东数西算”解决算力分布式使用面临的挑战是数据移动的开销（Invited Interview in Chinese）](http://k.sina.com.cn/article_3740356007_def14da702002tde6.html)
+2. [“东数西算”解决算力分布式使用面临的挑战是数据移动的开销](http://k.sina.com.cn/article_3740356007_def14da702002tde6.html)（Invited Interview in Chinese）
 
 3. 成功举办IISWC-2020（IISWC-2020 is successful! News in Chinese via [ICT link](http://www.carch.ac.cn/xwdt/sysxw/202011/t20201110_590983.html)）
 
