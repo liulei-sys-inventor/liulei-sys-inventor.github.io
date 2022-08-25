@@ -254,28 +254,26 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html)
 2. General co-Chair of ACM [ICS-2018](https://www.sigarch.org/call-contributions/ics-2018/) (Record attendance! and Record submission in recent 8 years!)
-3. Member of the Program Committee of ISCA-2022, 2023
+3. Member of the Program Committee of ISCA-2016 (ERC), 2021 (ERC), 2022, 2023
 4. Member of the Program Committee of MICRO-2020 (Chair of NVM session), 2021, 2022
 5. Member of the Program Committee of PPoPP-2022
-6. Member of the Program Committee of HPCA-2020
+6. Member of the Program Committee of HPCA-2019 (ERC), 2020
 7. Member of the Program Committee of IPDPS-2020
 8. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
 9. Member of the Program Committee of SC-2019
 10. Member of the Program Committee of ICCD-2018, 2019, 2020, 2022
 11. Member of the Program Committee of APPT-2019
-12. Member of the External Review Committee of HPCA-2019
-13. Member of the Program Committee of IISWC-2017, 2021
-14. Member of the Program Committee of ICPP-2017, 2020
-15. Member of the Program Committee of ICS-2017, and Chair of Session 5
-16. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
-17. Member of the External Review Committee of ISCA-2016, 2021
-18. Member of the Program Committee of IEEE IPDPS-2016
-19. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge), 2022
-20. Member of the Program Committee of HPCC-2015, 2016
-21. Member of the Program Committee of HP3C-2017, 2018, 2019
-22. Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, ACM Transactions on Quantum Computing, JPDC, IEEE TPDS, IEEE CAL
-23. Review Expert of National Science Foundation of China (NSFC)
-24. 《计算机工程》青年编委、审稿人
+12. Member of the Program Committee of IISWC-2017, 2021
+13. Member of the Program Committee of ICPP-2017, 2020
+14. Member of the Program Committee of ICS-2017, and Chair of Session 5
+15. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
+16. Member of the Program Committee of IEEE IPDPS-2016
+17. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge), 2022
+18. Member of the Program Committee of HPCC-2015, 2016
+19. Member of the Program Committee of HP3C-2017, 2018, 2019
+20. Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, ACM Transactions on Quantum Computing, JPDC, IEEE TPDS, IEEE TC, IEEE CAL
+21. Review Expert of National Science Foundation of China (NSFC)
+22. 《计算机工程》青年编委、审稿人
 
 
 
