@@ -254,17 +254,17 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html)
 2. General co-Chair of ACM [ICS-2018](https://www.sigarch.org/call-contributions/ics-2018/) (Record attendance! and Record submission in recent 8 years!)
-3. Member of the Program Committee of ISCA-2016 (ERC), 2021 (ERC), 2022, 2023
-4. Member of the Program Committee of MICRO-2020 (Chair of NVM session), 2021, 2022
+3. Member of the Program Committee of ISCA-2023, 2022, 2021 (ERC), 2016 (ERC)
+4. Member of the Program Committee of MICRO-2022, 2021, 2020 (Chair of NVM session)
 5. Member of the Program Committee of PPoPP-2022
-6. Member of the Program Committee of HPCA-2019 (ERC), 2020
+6. Member of the Program Committee of HPCA-2020, 2019 (ERC)
 7. Member of the Program Committee of IPDPS-2020
 8. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
 9. Member of the Program Committee of SC-2019
-10. Member of the Program Committee of ICCD-2018, 2019, 2020, 2022
+10. Member of the Program Committee of ICCD-2022, 2020, 2019, 2018
 11. Member of the Program Committee of APPT-2019
-12. Member of the Program Committee of IISWC-2017, 2021
-13. Member of the Program Committee of ICPP-2017, 2020
+12. Member of the Program Committee of IISWC-2021, 2017
+13. Member of the Program Committee of ICPP-2020, 2017
 14. Member of the Program Committee of ICS-2017, and Chair of Session 5
 15. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
 16. Member of the Program Committee of IEEE IPDPS-2016
