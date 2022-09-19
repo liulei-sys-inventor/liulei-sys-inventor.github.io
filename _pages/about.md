@@ -77,7 +77,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    To provide ideal **overall system throughput** and **QoS**, in this project, the "Vertical Partitioning" is proposed to cooperatively optimize the data placement across cache and DRAM banks. We redesign the memory management component is OS kernel (e.g. buddy system) according to memory architecture details, thus "Vertical Partitioning" can simultaneously mitigate/eliminate the memory interferences at the entire memory hierarchy (i.e. cache-bank). Moreover, we further devise the "Curve-Vertical" Partitioning approach to handle the diverse memory behaviors exhibited by the appearing "memory-diversity" workloads on multi-core platforms. The efforts are published in **<span style="color:#953734;">ISCA-2014 and IEEE TC-2016 (Featured article invited)</span>**. I have led this project since 2011 (PI). This project has a continuous impact on both academia and industry. 
 
-   The history and development of this series of studies can be accessed via this [link](http://www.jos.org.cn/jos/article/abstract/6370) for Chinese version and [here]().
+   The history and development of this series of studies can be accessed via this [link](http://www.jos.org.cn/jos/article/abstract/6370) for Chinese version and [here](https://arxiv.org/pdf/1704.01198.pdf).
 
 7. **Reducing Memory Conflicts on Real Cloud Servers - DRAM Bank/Channel Partitioning Mechanism (BPM/BPM+) (2011~Now)**
 
