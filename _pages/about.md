@@ -91,7 +91,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    **Lei Liu\***, Xinglei Dou. Sys-Inventor Technical Report, [arXiv:2207.14483](https://arxiv.org/pdf/2207.14483.pdf):2022 
 
-2. Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems
+2. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://trebuchet.public.springernature.app/get_content/700f024c-dedd-4b14-b6ef-4910003fe7a0)
   
    Y. Chen, K. Qiu, L. Chen, H. Jia, Y. Zhang, L. Xiao, **L. Liu\***. CCF Transactions on High Performance Computing **(THPC)**:2022
 
