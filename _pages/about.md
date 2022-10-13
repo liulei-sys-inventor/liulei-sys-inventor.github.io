@@ -46,7 +46,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 1. **Next-Generation OS -- Using AI/ML for OS**
 
    (1) Designing new scheduling mechanisms on large-scale servers to improve performance, QoS, resource utilization, and save energy. Our scheduling mechanism works well in the modern Cloud environment, which embraces many Latency-critical applications, best-effort applications, and microservices. The latest study and A series of our efforts can be accessed via this [**Link**](https://arxiv.org/abs/1911.13208).
-   - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://trebuchet.public.springernature.app/get_content/700f024c-dedd-4b14-b6ef-4910003fe7a0)
+   - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://rdcu.be/cXmO6)
    - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](/files/OSML___Lei_Liu.pdf). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
 
    (2) On mobile, leveraging AI/ML technologies to optimize the system energy-efficiency. 
@@ -91,7 +91,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    **Lei Liu\***, Xinglei Dou. Sys-Inventor Technical Report, [arXiv:2207.14483](https://arxiv.org/pdf/2207.14483.pdf):2022 
 
-2. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://trebuchet.public.springernature.app/get_content/700f024c-dedd-4b14-b6ef-4910003fe7a0)
+2. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://rdcu.be/cXmO6)
   
    Y. Chen, K. Qiu, L. Chen, H. Jia, Y. Zhang, L. Xiao, **L. Liu\***. CCF Transactions on High Performance Computing **(THPC)**:2022
 
