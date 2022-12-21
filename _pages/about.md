@@ -285,7 +285,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Recent News<span id="news"></span>
 
-- "OSML" is accepted by FASR-2023. Congratulations!
+- "OSML" is accepted by FAST-2023. Congratulations!
 - Get a new funding from Guangdong Province for the Key R&D Program of Guangdong Province (Chief Scientist). 
 - Get a new funding from OPPO for the project of AI for System on Mobiles (PI).  
 - "QuCloud" is accepted by HPCA-2021. Congratulations!
