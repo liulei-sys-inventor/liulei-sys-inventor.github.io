@@ -88,7 +88,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 
 ## Selected Publications<span id="publications"></span>
-1. [Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://arxiv.org/abs/1911.13208) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)]
+1. [Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://arxiv.org/abs/1911.13208) <span style="white-space: nowrap">[[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)]</span>
 
    **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
 
