@@ -92,7 +92,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
 
-2. [CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
+2. [CFIO: A Conflict-free I/O Mechanism to Fully Exploit Internal Parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
     J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. Journal of Systems Architecture **(JSA)**:2023
 
 3. QuCloud+: A Holistic Qubit Mapping Scheme for Single/Multi-programming on 2D/3D NISQ Quantum Computers 
