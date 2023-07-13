@@ -289,7 +289,8 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 
 ## Teaching<span id="teaching"></span>
-
+- New Computer System Design and Performance Optimization (in Chinese, Spring) 
+- High Energy-efficient Computer System (in Chinese, Spring and Fall)
 
 ## Recent News<span id="news"></span>
 
@@ -360,16 +361,18 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 
 **Students**
 
-- Xinglei Dou (B.S., Jilin U.)
+- Xinglei Dou (Ph.D. Student; Master, ICT)
+- Qichao Xia (Ph.D. Student; Master, ICT)
+- Zhuohao Wang (B.S., Beihang)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
 - Tianhua Han (B.S., Harbin Institute of Tech. - Weihai)
-- Xinyu Li (B.S., SJTU)
 
 **Former Students** (including interns, part-time co-supervised ones)
 
 - Shengjie Yang, Master 2021, Tencent; Outstanding graduate honor of ICT and UCAS (2%), Excellent dissertation
 - Zonghan Hua, Master 2021, The People's Bank of China, Zhejiang; Excellent guest student award in SKLCA
 - Hao Yang, Master 2017, Huawei
+- Xinyu Li, Master 2021
 - Mengyao Xie, 9/2015~4/2018
 - Hongna Geng, 10/2016~4/2018 
 - Yong Li, 2014, intern, first job - engineer in VMware; co-supervised since 2013 to 2015 and A. K. Jones (PITT)
