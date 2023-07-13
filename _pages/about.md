@@ -372,7 +372,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Shengjie Yang, Master 2021, Tencent; Outstanding graduate honor of ICT and UCAS (2%), Excellent dissertation
 - Zonghan Hua, Master 2021, The People's Bank of China, Zhejiang; Excellent guest student award in SKLCA
 - Hao Yang, Master 2017, Huawei
-- Xinyu Li, Master 2021
+- Xinyu Li, Master 2022
 - Mengyao Xie, 9/2015~4/2018
 - Hongna Geng, 10/2016~4/2018 
 - Yong Li, 2014, intern, first job - engineer in VMware; co-supervised since 2013 to 2015 and A. K. Jones (PITT)
