@@ -92,7 +92,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
 
-2. EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads
+2. [EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads](https://ieeexplore.ieee.org/document/10186069)
    
    J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023
 
