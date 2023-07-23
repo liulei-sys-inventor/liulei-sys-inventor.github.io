@@ -94,7 +94,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 2. EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads
    
-   J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023
+   J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023
 
 3. [CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
 
