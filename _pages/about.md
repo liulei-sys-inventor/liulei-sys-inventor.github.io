@@ -369,7 +369,6 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Qichao Xia (Ph.D. Student; Master, ICT)
 - Zhuohao Wang (B.S., Beihang)
 - Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
-- Tianhua Han (B.S., Harbin Institute of Tech. - Weihai)
 
 **Former Students** (including interns, part-time co-supervised ones)
 
