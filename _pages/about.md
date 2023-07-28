@@ -304,7 +304,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 - "QuCloud" is accepted by HPCA-2021. Congratulations!
 - Get a new funding from NSFC (2021~2024) for the research "An Investigation into the Key Technologies of Software Stack Design and Optimization for the Heterogeneous Memory and Computing Systems". Congratulations to Sys-Inventors!
 - The first step effort on quantum computing is accepted as a poster by PACT-2020.
-- **<span style="color:red">[Plz Note]</span>**:  I am Lei Liu (刘磊 in Chinese); I have nothing to do with the Mulan  project in ICT. The leader of this project has the same name in English  but not with the same Chinese characters. Thanks for your understanding.  More details on my work and myself can be found in this page. 
+- **<span style="color:black">[Plz Note]</span>**:  I am Lei Liu (刘磊 in Chinese); I have nothing to do with the Mulan  project in ICT. The leader of this project has the same name in English  but not with the same Chinese characters. Thanks for your understanding.  More details on my work and myself can be found in this page. 
   请注意，我的名字是刘磊，我从未参与过“木兰”语言项目，研究领域也不是编程语言。该项目的负责人只是与我拼音名字相同而已。
 - We  will host IEEE IISWC-2020, and I myself will serve as the chair in  general for this event. Looking forward your contributions! <a href="http://www.iiswc.org/iiswc2020/index.html"><img style="float:none;width:35px;height:48px;" width="35" vspace="0" hspace="0" height="48" border="0" src="/images/iiswc_2020.jpg"/></a>
 - I am visiting LSU and College of William and Mary from 9~13/Dec 2019. The topic is "[**Achieving Better Resource Scheduling through Enhanced OS and ML Technologies**](/files/201912 - LSU-WM.pptx)".
@@ -321,7 +321,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 - [**ICS-2017**](http://press3.mcs.anl.gov/ics2017/) will be hold in Chicago. You are expected to submit your excellent work. Hope to see you there.:)
 - Lei Liu is promoted (1/33,14/15). Thank all of my friends. :)
 - A paper is accpeted in ICCD-2016, to appear at the conference in Phoenix, AZ, US. 
-- <span style="color:red">**[Good News]**:</span> [**ICS-2018**](http://ics2018.ict.ac.cn/)  will be hold in Beijing, hosted by SKL, ICT, organized by Lei Liu,  Michael Gschwind, Avi Mendelson, P-C Yew and Xiaobing Feng, etc. Come and join us, and let us make ICS a great success in China! 
+- <span style="color:black">**[Good News]**:</span> [**ICS-2018**](http://ics2018.ict.ac.cn/)  will be hold in Beijing, hosted by SKL, ICT, organized by Lei Liu,  Michael Gschwind, Avi Mendelson, P-C Yew and Xiaobing Feng, etc. Come and join us, and let us make ICS a great success in China! 
 - I will go to attend ICS-2016 from 1/June to 3, in Istanbul, and bid for ICS-2018, Beijing. Good Luck for all of our colleagues! 
 - Best Wishes to all of my friends and collaborators! I wish you a very happy and fruitful new year, 2016, way to go!
 - Happy  Teachers' Day （教师节快乐） on 10/9/2015! I would like to extend my deep  thanks to Prof. Zhang, Wu and Feng for their help in my Ph.D., and on  behalf of professors in compiler team, I would like to extend our thanks  to all of the students! You are the pride of us! Stay hungry, Stay  foolish.
