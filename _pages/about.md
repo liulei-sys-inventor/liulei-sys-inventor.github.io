@@ -54,7 +54,9 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 2. **Quantum Computing System and Architecture**
 
-   (1) The next-generation quantum computer architecture.
+   (1) The next-generation quantum computer architecture and software stack.
+    
+   - QuCloud+ is in **<span style="color:#953734;">ACM TACO-2023</span>**.
    
    (2) Software stack, OS for making the quantum computer performs better.
 
