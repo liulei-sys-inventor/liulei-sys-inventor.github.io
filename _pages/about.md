@@ -102,7 +102,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 4. QuCloud+: A Holistic Qubit Mapping Scheme for Single/Multi-programming on 2D/3D NISQ Quantum Computers 
 
-   **Lei Liu\***, Xinglei Dou. Sys-Inventor Technical Report, [arXiv:2207.14483](https://arxiv.org/pdf/2207.14483.pdf):2022 
+   **Lei Liu\***, Xinglei Dou. ACM Transactions on Architecture and Code Optimization **(TACO)**:2023 
 
 5. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://rdcu.be/cXmO6)
   
