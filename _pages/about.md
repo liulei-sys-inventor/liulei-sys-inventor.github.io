@@ -268,7 +268,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 
 
-## Recent Professional Serivces<span id="services"></span>
+## Recent Professional Services<span id="services"></span>
 
 1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html)
 2. General co-Chair of ACM [ICS-2018](https://www.sigarch.org/call-contributions/ics-2018/) (Record attendance! and Record submission in recent 8 years!)
