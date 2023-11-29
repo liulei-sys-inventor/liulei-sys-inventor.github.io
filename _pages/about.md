@@ -226,17 +226,19 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Patents<span id="patents"></span>
 
-1. 一种减少无效 I/O 的操作系统内存换页机制 (Chinese Version). **First Inventor**
+1. 一种减少延迟敏感应用程序的内存页面 IO 操作的操作系统内存换页机制 (Chinese Version). **First Inventor**
 
-2. 面向超导量子计算机的量子程序并行处理方法及操作系统 (Chinese Version). **First Inventor** 
+2. 一种减少无效 I/O 的操作系统内存换页机制 (Chinese Version). **First Inventor**
 
-3. 一种微服务资源调度系统和方法 (Chinese Version). **First Inventor** 
+3. 面向超导量子计算机的量子程序并行处理方法及操作系统 (Chinese Version). **First Inventor** 
 
-4. 一种消除远程非易失性内存访问的进程调度技术 (Chinese Version). **First Inventor**
+4. 一种微服务资源调度系统和方法 (Chinese Version). **First Inventor** 
 
-5. [Memory Resource Optimization Method and Apparatus (PCT, US).](https://patents.google.com/patent/US9857980B2/en) **First Inventor (with Wu and Feng)**. 
+5. 一种消除远程非易失性内存访问的进程调度技术 (Chinese Version). **First Inventor**
 
-6. 一种存储器资源优化方法和装置 (Chinese Version). **First Inventor (with Wu and Feng). 发明人：刘磊、吴、冯晓兵**.
+6. [Memory Resource Optimization Method and Apparatus (PCT, US).](https://patents.google.com/patent/US9857980B2/en) **First Inventor (with Wu and Feng)**. 
+
+7. 一种存储器资源优化方法和装置 (Chinese Version). **First Inventor (with Wu and Feng). 发明人：刘磊、吴、冯晓兵**.
    
     ***<span style="color:#ca6a20;">- Part of the ideas in ISCA-2014 is within.</span>***
 
@@ -272,7 +274,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html)
 2. General co-Chair of ACM [ICS-2018](https://www.sigarch.org/call-contributions/ics-2018/) (Record attendance! and Record submission in recent 10 years!)
-3. Member of the Program Committee of ISCA-2023, 2022, 2021 (ERC), 2016 (ERC)
+3. Member of the Program Committee of ISCA-2024, 2023, 2022, 2021 (ERC), 2016 (ERC)
 4. Member of the Program Committee of MICRO-2023, 2022, 2021, 2020 (Chair of NVM session)
 5. Member of the Program Committee of PPoPP-2022
 6. Member of the Program Committee of HPCA-2020, 2019 (ERC)
