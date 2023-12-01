@@ -100,7 +100,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 3. ATA-Cache: Contention Mitigation for GPU Shared L1 Cache With Aggregated Tag Array
 
-   X. Xu, L. Wang, L. Xiao, **L. Liu**, X. Xie, M. Han, H. Liu. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023  
+   X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023  
 
 4. [EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads](https://ieeexplore.ieee.org/document/10186069)
    
