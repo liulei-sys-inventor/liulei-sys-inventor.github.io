@@ -98,49 +98,49 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    **Lei Liu\***, Xinglei Dou. ACM Transactions on Architecture and Code Optimization **(TACO)**:2023
 
-3. [EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads](https://ieeexplore.ieee.org/document/10186069)
+3. ATA-Cache: Contention Mitigation for GPU Shared L1 Cache With Aggregated Tag Array
+
+   X. Xu, L. Wang, L. Xiao, **L. Liu**, X. Xie, M. Han, H. Liu. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023  
+
+4. [EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads](https://ieeexplore.ieee.org/document/10186069)
    
    J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023
 
-4. [CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
+5. [CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
 
    J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. Journal of Systems Architecture **(JSA)**:2023
 
-5. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://rdcu.be/cXmO6)
+6. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://rdcu.be/cXmO6)
   
    Y. Chen, K. Qiu, L. Chen, H. Jia, Y. Zhang, L. Xiao, **L. Liu\***. CCF Transactions on High Performance Computing **(THPC)**:2022
 
-6. [QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment](/files/QuCloud_HPCA_2021_ready.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/QuCloud.pptx)]
+7. [QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment](/files/QuCloud_HPCA_2021_ready.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/QuCloud.pptx)]
 
     **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021   
 
-7. [The Evolution of Memory Partitioning Technologies: A Case Study through Page Coloring](/files/JS2021.pdf)
+8. [The Evolution of Memory Partitioning Technologies: A Case Study through Page Coloring](/files/JS2021.pdf)
 
    Jiefan Qiu, Zonghan Hua, Jing Fan, **Lei Liu\***. Journal of Software in Chinese **(软件学报)**:2021
 
-8. [An Investigation into Quantum Program Mapping on Superconducting Quantum Computers](/files/JCRD-2021.pdf)
+9. [An Investigation into Quantum Program Mapping on Superconducting Quantum Computers](/files/JCRD-2021.pdf)
     
    Xinglei Dou, **Lei Liu\***, Yuetao Chen. Journal of Computer Research and Development in Chinese **(计算机研究与发展)**:2021
  
    ***<span style="color:#ca6a20;">- Special Issue on Quantum Computing in J. of Computer R&D</span>***
 
-9. [Quantum Computing Simulations and Optimizations: A Survey](/files/CE-2021.pdf)
+10. [Quantum Computing Simulations and Optimizations: A Survey](/files/CE-2021.pdf)
 
    Zhichao Yu, Yangzhong Li, **Lei Liu\*** and Shengzhong Feng. J. of Computer Engineering in Chinese **(计算机工程)**:2021
 
    ***<span style="color:#ca6a20;">- Invited Article in J. of Computer Engineering</span>***
  
-10. [IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)
+11. [IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)
 
     **General co-Chair**. IEEE 16th International Symposium on Workload Characterization  **(IISWC)**:2020   
 
-11. A New Qubits Mapping Mechanism for Multi-programming Quantum Computing [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
+12. A New Qubits Mapping Mechanism for Multi-programming Quantum Computing [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
     Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Par. Architectures and Compilation Tech. **(PACT)**:2020 ([Poster](/files/Quantum_PACT_2020-2.pdf))
-
-12. [QoS-Aware Resources Scheduling for Microservices: A Multi-Model Collaborative Learning-based Approach](/files/OSML___Lei_Liu.pdf)
-
-    **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
 
 13. An Analysis for Evolution of Memory Partitioning Technologies: Perspective, Opportunities and Methods
 
