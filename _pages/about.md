@@ -133,12 +133,6 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
    Zhichao Yu, Yangzhong Li, **Lei Liu\*** and Shengzhong Feng. J. of Computer Engineering in Chinese **(计算机工程)**:2021
 
    ***<span style="color:#ca6a20;">- Invited Article in J. of Computer Engineering</span>***
-
-10. [Quantum Computing Simulations and Optimizations: A Survey](/files/CE-2021.pdf)
-
-   Zhichao Yu, Yangzhong Li, **Lei Liu\*** and Shengzhong Feng. J. of Computer Engineering in Chinese **(计算机工程)**:2021
-
-   ***<span style="color:#ca6a20;">- Invited Article in J. of Computer Engineering</span>***
  
 11. [IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)
 
