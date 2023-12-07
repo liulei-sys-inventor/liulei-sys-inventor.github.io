@@ -226,19 +226,21 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Patents<span id="patents"></span>
 
-1. 一种减少延迟敏感应用程序的内存页面 IO 操作的操作系统内存换页机制 (Chinese Version). **First Inventor**
+1. 一种基于机器学习的移动设备算力调度方法 (Chinese Version). **First Inventor** 
 
-2. 一种减少无效 I/O 的操作系统内存换页机制 (Chinese Version). **First Inventor**
+2. 一种减少延迟敏感应用程序的内存页面 IO 操作的操作系统内存换页机制 (Chinese Version). **First Inventor**
 
-3. 面向超导量子计算机的量子程序并行处理方法及操作系统 (Chinese Version). **First Inventor** 
+3. 一种减少无效 I/O 的操作系统内存换页机制 (Chinese Version). **First Inventor**
 
-4. 一种微服务资源调度系统和方法 (Chinese Version). **First Inventor** 
+4. 面向超导量子计算机的量子程序并行处理方法及操作系统 (Chinese Version). **First Inventor** 
 
-5. 一种消除远程非易失性内存访问的进程调度技术 (Chinese Version). **First Inventor**
+5. 一种微服务资源调度系统和方法 (Chinese Version). **First Inventor** 
 
-6. [Memory Resource Optimization Method and Apparatus (PCT, US).](https://patents.google.com/patent/US9857980B2/en) **First Inventor (with Wu and Feng)**. 
+6. 一种消除远程非易失性内存访问的进程调度技术 (Chinese Version). **First Inventor**
 
-7. 一种存储器资源优化方法和装置 (Chinese Version). **First Inventor (with Wu and Feng). 发明人：刘磊、吴、冯晓兵**.
+7. [Memory Resource Optimization Method and Apparatus (PCT, US).](https://patents.google.com/patent/US9857980B2/en) **First Inventor (with Wu and Feng)**. 
+
+8. 一种存储器资源优化方法和装置 (Chinese Version). **First Inventor (with Wu and Feng). 发明人：刘磊、吴、冯晓兵**.
    
     ***<span style="color:#ca6a20;">- Part of the ideas in ISCA-2014 is within.</span>***
 
@@ -381,7 +383,6 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Hao Yang, Master 2017, Huawei
 - Xinyu Li, Master 2022
 - Mengyao Xie, 9/2015~4/2018
-- Hongna Geng, 10/2016~4/2018 
 - Yong Li, 2014, intern, first job - engineer in VMware; co-supervised since 2013 to 2015 and A. K. Jones (PITT)
 - Zehan Cui, 2015, intern, first job - ICT till 2016; co-supervised since 2011 to 2012 and Mingyu Chen
 
