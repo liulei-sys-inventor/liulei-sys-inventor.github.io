@@ -94,7 +94,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
 
-2. QuCloud+: A Holistic Qubit Mapping Scheme for Single/Multi-programming on 2D/3D NISQ Quantum Computers 
+2. [QuCloud+: A Holistic Qubit Mapping Scheme for Single/Multi-programming on 2D/3D NISQ Quantum Computers](https://dl.acm.org/doi/pdf/10.1145/3631525) 
 
    **Lei Liu\***, Xinglei Dou. ACM Transactions on Architecture and Code Optimization **(TACO)**:2023
 
