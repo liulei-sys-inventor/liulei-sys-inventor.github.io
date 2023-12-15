@@ -67,6 +67,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 3. [**Memory Management for Large Memory Systems**](/files/apsys-2019-final.pdf)
 
    (1) Reuse pattern and learning-based memory page swap mechanism, which reduces the ineffective I/O swap operations and improves the QoS for applications with a high priority in modern OSes. 
+   
    (2) Memory paging with fine/coarse granularities. The idea and first step effort are in **<span style="color:#953734;">ACM SIGOPS APSys-2019</span>**.
 
 4. [**Non-Volatile Memory - Hybrid Memory Management for Tiered Memory Systems in OS**](/files/Memos-TPDS-2019.pdf)
