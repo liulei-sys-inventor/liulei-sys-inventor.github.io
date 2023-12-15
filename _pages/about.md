@@ -66,7 +66,8 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 3. [**Memory Management for Large Memory Systems**](/files/apsys-2019-final.pdf)
 
-   Now, the memory system has a much larger capacity than ever before. The virtual and physical address translation brings significant overheads at runtime in large memory systems. The Huge page mechanism is proposed to reduce the TLB misses and benefit the overall system performance. However, using huge pages might incur expensive memory compaction operations due to memory fragmentation problem, and lead to memory bloating. We propose SysMon-H, a sampling module in the OS kernel, which can obtain huge page utilization in a low overhead for both cloud and desktop applications. Furthermore, we propose H-Policy, a huge page management policy, which splits the underutilized huge pages to mitigate the memory bloating or promotes the base 4KB pages to huge pages based on the information provided by SysMon-H. The idea and first step effort are in **<span style="color:#953734;">ACM SIGOPS APSys-2019</span>**.
+   (1) Reuse pattern and learning-based memory page swap mechanism, which reduces the ineffective I/O swap operations and improves the QoS for applications with a high priority in modern OSes. 
+   (2) Memory paging with fine/coarse granularities. The idea and first step effort are in **<span style="color:#953734;">ACM SIGOPS APSys-2019</span>**.
 
 4. [**Non-Volatile Memory - Hybrid Memory Management for Tiered Memory Systems in OS**](/files/Memos-TPDS-2019.pdf)
 
