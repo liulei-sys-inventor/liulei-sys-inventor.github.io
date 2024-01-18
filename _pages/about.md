@@ -332,6 +332,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Awards and Honors <span id="honors"></span>
 
+- Outstanding Faculty Award, CS, Beihang, 2023
 - Outstanding Faculty Award, SKLCA, ICT, 2019
 - 100-Academic-Stars Program, ICT, 2017
 - Outstanding Scientific Researcher (Outstanding Faculty Award), ICT, 2015
