@@ -64,7 +64,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    (3) Quantum computing simulation as well as AI.  
 
-3. [**Memory Management for Large Memory Systems**](/files/apsys-2019-final.pdf)
+3. **Memory Management for Large Memory Systems**
 
    (1) iSwap - reuse pattern and learning-based memory page swap mechanism, which reduces the ineffective I/O swap operations and improves the QoS for applications with a high priority in modern OSes. iSwap works well on the latest off-the-shelf Intel/ARM platforms. The latest publication is in **<span style="color:#953734;">ACM TACO-2024</span>**.  
    
