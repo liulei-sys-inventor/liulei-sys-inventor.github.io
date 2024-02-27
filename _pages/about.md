@@ -132,7 +132,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 10. [The Evolution of Memory Partitioning Technologies: A Case Study through Page Coloring](/files/JS2021.pdf)
 
-   Jiefan Qiu, Zonghan Hua, Jing Fan, **Lei Liu\***. Journal of Software in Chinese **(软件学报)**:2021
+    Jiefan Qiu, Zonghan Hua, Jing Fan, **Lei Liu\***. Journal of Software in Chinese **(软件学报)**:2021
 
 11. [An Investigation into Quantum Program Mapping on Superconducting Quantum Computers](/files/JCRD-2021.pdf)
 
