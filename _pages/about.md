@@ -96,7 +96,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. A New Qubit Mapping Approach for Distribute Multi-Programming Quantum Computing
 
-   X. Dou, **L. Liu**. The 61st ACM/IEEE/SIGDA/CEDA Design Automation Conference **(DAC)**:2024 (WIP Poster)
+   X. Dou, **L. Liu***. The 61st ACM/IEEE/SIGDA/CEDA Design Automation Conference **(DAC)**:2024 (WIP Poster)
 
 2. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](/files/iSwap.pdf) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
 
