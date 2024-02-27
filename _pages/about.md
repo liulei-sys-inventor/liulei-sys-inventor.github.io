@@ -96,7 +96,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. A New Qubit Mapping Approach for Distribute Multi-Programming Quantum Computing
 
-   X. Dou, **L. Liu**. The 61st ACM/ESDA/IEEE Design Automation Conference **(DAC)**:2024 (WIP Poster)
+   X. Dou, **L. Liu**. The 61st Design Automation Conference **(DAC)**:2024 (WIP Poster)
 
 2. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](/files/iSwap.pdf) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
 
@@ -172,7 +172,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 19. Efficient GPU NVRAM Persistence with Helper Warps
 
-    Sui Chen, Faen Zhang, **Lei Liu** and Lu Peng. The 56th ACM/ESDA/IEEE Design Automation Conference **(DAC)**:2019
+    Sui Chen, Faen Zhang, **Lei Liu** and Lu Peng. The 56th Design Automation Conference **(DAC)**:2019
 
 20. [Thinking about A New Mechanism for Huge Page Management](/files/apsys-2019-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/apsys-2019.pptx)]
 
