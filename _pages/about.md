@@ -319,6 +319,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Recent News<span id="news"></span>
 
+- Two papers are accepted by ACM TACO-2014. Congratulations for the fruits on memory swap system and AI for mobile systems! 
 - "QuCloud+" is accepted by ACM TACO-2023. Congratulations for the fruits on Quantum computers!
 - "OSML" is accepted by FAST-2023. Congratulations!
 - Get a new funding from Guangdong Province for the Key R&D Program of Guangdong Province (Chief Scientist). 
