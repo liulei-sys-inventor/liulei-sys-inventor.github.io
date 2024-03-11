@@ -50,7 +50,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
    - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://rdcu.be/cXmO6)
    - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](/files/OSML___Lei_Liu.pdf). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
 
-   (2) On mobile, leveraging AI/ML technologies to optimize the system energy-efficiency. 
+   (2) On mobile, leveraging AI/ML technologies to optimize the system energy-efficiency. The latest study is in **<span style="color:#953734;">ACM TACO-2024</span>**. 
 
 2. **Quantum Computing System and Architecture**
 
@@ -93,6 +93,10 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 
 ## Selected Publications<span id="publications"></span>
+
+1. An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power
+
+   Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
 1. A New Qubit Mapping Approach for Distribute Multi-Programming Quantum Computing
 
