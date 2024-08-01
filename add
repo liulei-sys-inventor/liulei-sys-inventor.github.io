@@ -1,3 +1,5 @@
+cp .ssh/id_rsa ~/.ssh/
+cp .ssh/id_rsa.pub ~/.ssh/
 git pull
 git config user.name "liulei-sys-inventor"
 git config user.email "lei.liu@zoho.com"
