@@ -56,8 +56,6 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 2. **Quantum Computing System and Architecture**
 
    (1) Distributed quantum computing systems
-
-   - First step study on MP qubit mapping for DQC is in DAC-2024.
    
    (2) The next-generation quantum computer architecture, software stack, OS, and etc.
    
