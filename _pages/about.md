@@ -390,11 +390,12 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 **Students**
 
 - Xinglei Dou (Ph.D. Student; Master, ICT)
-- Zhuohao Wang (B.S., Beihang)
-- Yuetao Chen (B.S., Beijing Jiaotong U. - Weihai)
+- Zhuohao Wang (Master Student; B.S., Beihang)
+- Pengyu Li (Master Student; B.S., NCEPU)
 
 **Former Students** (including interns, part-time co-supervised ones)
 
+- Yuetao Chen, Master 2024, enters Ph.D. program in CUHK
 - Shengjie Yang, Master 2021, Tencent; Outstanding graduate honor of ICT and UCAS (2%), Excellent dissertation
 - Zonghan Hua, Master 2021, The People's Bank of China, Zhejiang; Excellent guest student award in SKLCA
 - Hao Yang, Master 2017, Huawei
