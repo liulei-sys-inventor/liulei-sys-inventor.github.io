@@ -94,13 +94,13 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Selected Publications<span id="publications"></span>
 
+1. Is Intelligence the Right Direction to Go in New System Design?
+
+   X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2024
+
 1. An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power
 
    Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
-
-1. A New Qubit Mapping Approach for Distribute Multi-Programming Quantum Computing
-
-   X. Dou, **L. Liu***. The 61st ACM/IEEE/SIGDA/CEDA Design Automation Conference **(DAC)**:2024 (WIP Poster)
 
 2. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](/files/iSwap.pdf) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
 
@@ -293,12 +293,12 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 2. General co-Chair of ACM [ICS-2018](https://www.sigarch.org/call-contributions/ics-2018/) (Record attendance! and Record submission in recent 10 years!)
 3. Member of the Program Committee of ISCA-2024, 2023, 2022, 2021 (ERC), 2016 (ERC)
 4. Member of the Program Committee of MICRO-2023, 2022, 2021, 2020 (Chair of NVM session)
-5. Member of the Program Committee of PPoPP-2022
+5. Member of the Program Committee of PPoPP-2025, 2022
 6. Member of the Program Committee of HPCA-2020, 2019 (ERC)
 7. Member of the Program Committee of IPDPS-2020
 8. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
 9. Member of the Program Committee of SC-2019
-10. Member of the Program Committee of ICCD-2023, 2022, 2020, 2019, 2018
+10. Member of the Program Committee of ICCD-2024, 2023, 2022, 2020, 2019, 2018
 11. Member of the Program Committee of APPT-2019
 12. Member of the Program Committee of IISWC-2021, 2017
 13. Member of the Program Committee of ICPP-2020, 2017
