@@ -46,7 +46,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. **Intelligent Operating Systems**
 
-   (1) We want to have a new design method for OS, which is based on using AI and ML technologies. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2024</span>**. 
+   (1) New design methods for OS, which is based on using AI/ML technologies. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2024</span>**. 
    
    (2) Designing new scheduling mechanisms on large-scale servers to improve performance, QoS, resource utilization, and save energy. Our scheduling mechanism works well in the modern Cloud environment, which embraces many Latency-critical applications, best-effort applications, and microservices. The latest study and a series of our efforts can be accessed via this [**Link**](https://arxiv.org/abs/1911.13208).
    - The latest study is accepted by **<span style="color:#953734;">FAST-2023</span>**. 
