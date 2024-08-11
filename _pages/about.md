@@ -45,10 +45,9 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. **Intelligent Operating Systems**
 
-   (1) 
+   (1) We want to have a new design method for OS, which is based on using AI and ML technologies. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2024</span>**. 
    
    (2) Designing new scheduling mechanisms on large-scale servers to improve performance, QoS, resource utilization, and save energy. Our scheduling mechanism works well in the modern Cloud environment, which embraces many Latency-critical applications, best-effort applications, and microservices. The latest study and a series of our efforts can be accessed via this [**Link**](https://arxiv.org/abs/1911.13208).
-   - We want to have a new design method for OS, which is based on using AI and ML technologies. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2024</span>**.    
    - The latest study is accepted by **<span style="color:#953734;">FAST-2023</span>**. 
    - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://rdcu.be/cXmO6)
    - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](/files/OSML___Lei_Liu.pdf). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
