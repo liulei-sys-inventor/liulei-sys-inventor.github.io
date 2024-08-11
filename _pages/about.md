@@ -57,14 +57,18 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 2. **Quantum Computing OS and Architecture**
 
-   (1) Distributed quantum computing systems
+   (1) OS for Quantum computers and computing systems
    
-   (2) The next-generation quantum computer architecture, software stack, OS, and etc.
+   - QuCloud (HPCA'21) and QuCloud+ (TACO'24) propose the QuOS prototypes.   
+ 
+   (2) Distributed quantum computing systems
+   
+   (3) The next-generation quantum computer architecture, software stack, OS, and etc.
    
    - QuCloud+ is in **<span style="color:#953734;">ACM TACO-2024</span>**.
    - QuCloud is in **<span style="color:#953734;">IEEE HPCA-2021 and PACT-2020</span>**.
 
-   (3) Quantum computing simulation as well as AI.  
+   (4) Quantum computing simulation as well as AI.  
 
 3. **Memory Management for Large Memory Systems**
 
