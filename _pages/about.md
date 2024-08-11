@@ -33,10 +33,10 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 **The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation Cloud native technologies</span>, covering the interaction of OS, emerging applications and hardware. Our Research Interests include:**
 
-- New Operating System design methods and principles 
+- New Operating System design methods and principles
+- OS for Emerging Technologies and Applications 
 - New Trend, AI and Quantum Computer
-- New Memory Architecture, e.g., NVM, Near Memory Computing, Memory Management and Optimization
-- OS for Emerging Technologies and Applications
+- New Memory Architecture, e.g., NVM, Memory Management, Optimization, Disaggregated Memory
 - Architectural Interaction and Resource Scheduling
 - Profiling and Performance Evaluation
 
