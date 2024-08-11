@@ -48,7 +48,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    (1) New design methods for OS, which is based on using AI/ML technologies. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2024</span>**. 
    
-   (2) ML/AL-based scheduling mechanisms on large-scale servers to improve system performance, QoS, resource utilization, and save energy. 
+   (2) ML/AL-based scheduling mechanisms on large-scale cloud servers to improve system performance, QoS, resource utilization, and save energy. 
    - The study of OSML is accepted by **<span style="color:#953734;">FAST-2023</span>**. 
    - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://rdcu.be/cXmO6)
    - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](https://arxiv.org/abs/1911.13208). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
