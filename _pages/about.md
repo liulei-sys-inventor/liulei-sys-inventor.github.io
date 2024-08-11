@@ -31,7 +31,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Research<span id="SIL"></span>
 
-**The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation computing systems</span>, covering the OS, cloud, memory, quantum and ML/AL technologies.**
+**The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation computing systems</span>, covering the OS, cloud, memory, quantum, and ML/AL technologies.**
 
 - New Operating System design methods and principles
 - OS for Emerging Technologies and Applications 
@@ -48,10 +48,10 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    (1) New design methods for OS, which is based on using AI/ML technologies. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2024</span>**. 
    
-   (2) Designing new scheduling mechanisms on large-scale servers to improve performance, QoS, resource utilization, and save energy. Our scheduling mechanism works well in the modern Cloud environment, which embraces many Latency-critical applications, best-effort applications, and microservices. The latest study and a series of our efforts can be accessed via this [**Link**](https://arxiv.org/abs/1911.13208).
-   - The latest study is accepted by **<span style="color:#953734;">FAST-2023</span>**. 
+   (2) Designing ML/AL-based scheduling mechanisms on large-scale servers to improve system performance, QoS, resource utilization, and save energy. 
+   - The study of OSML is accepted by **<span style="color:#953734;">FAST-2023</span>**. 
    - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://rdcu.be/cXmO6)
-   - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](/files/OSML___Lei_Liu.pdf). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
+   - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](https://arxiv.org/abs/1911.13208). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
 
    (3) On mobile, leveraging AI/ML technologies to optimize the system energy-efficiency. The latest study is in **<span style="color:#953734;">ACM TACO-2024</span>**. 
 
