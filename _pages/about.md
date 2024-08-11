@@ -53,7 +53,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
    - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://rdcu.be/cXmO6)
    - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](https://arxiv.org/abs/1911.13208). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
 
-   (3) On mobile, leveraging AI/ML technologies to optimize the system's energy efficiency. The latest study is in **<span style="color:#953734;">ACM TACO-2024</span>**. 
+   (3) On mobile, leveraging AI/ML technologies to optimize the system's energy and efficiency. The latest study is in **<span style="color:#953734;">ACM TACO-2024</span>**. 
 
 2. **Quantum Computing OS and Architecture**
 
