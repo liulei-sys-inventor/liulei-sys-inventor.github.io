@@ -24,14 +24,14 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 <div class="line-height1_5">
 <p>刘磊，男，1981年9月出生于新疆乌鲁木齐市，祖籍辽宁沈阳，现任北京航空航天大学教授，博士研究生导师；曾是中科院计算所国重副研究员（Sys-Inventor实验室PI），研究生导师；兼任国家超算中心（深圳）总工程师（中组部挂职，2020/11/01-2021/11/30）。刘磊分别于大连理工大学、中国科学技术大学、中国科学院大学（中科院计算所）获得计算机科学与技术工学学士学位（导师：牛纪桢）、软件系统设计工程硕士学位（导师：赵振西）和计算机体系结构工学博士学位（<a href="/files/phd_thesis.pdf">博士论文链接</a>），并于2014年留计算所工作。在进入计算所之前，刘磊在工业界有5年的软件工程师、架构师及项目管理经验。刘磊于2017年5月～2018年4月在美国罗彻斯特大学计算机科学系交流访问。</p>
-<p>刘磊的研究涉及“云原生”的一系列关键领域，包括现代操作系统（如AI for System）、新型内存系统（NVM）、新计算机系统结构（量子计算机）、优化及可扩展性、系统性能评测等多个方面。自2011年起，刘磊带领其课题组研发了面向主流多核、多通道服务器，及异构内存体系的新内存资源管理系统原型；探索了新OS的智能化；探索了量子计算机体系结构、系统软件栈及支撑环境。相关研究成果以<b>第一作者并通讯作者</b>发表于ISCA, HPCA, FAST, PACT, IEEE TC, TPDS, ACM TACO等领域内权威学术会议和刊物，并在业内产生了影响力。近十年，刘磊曾主持或参与多项国家级项目（包括自然科学基金、重点研发计划、省重点研发等横纵项目等）；此外，他还担任了一系列权威国际学术会议的程序委员会委员、外部评审委员、组委会成员，及学术期刊的审稿人50余次（并2次担任ACM/IEEE权威学术会议的总主席）。刘磊曾获得“中国科学院院长优秀奖”、“国家奖学金”、“国科大优秀毕业生”、“计算所优秀科研人员” 等荣誉。</p>
+<p>刘磊的研究包括云计算系统，新型操作系统（如AI/ML for OS）、内存系统（如NVM、大内存系统）、新型计算机系统架构（如量超融合计算架构）、优化及可扩展性、系统性能评测等多个方面。自2011年起，刘磊带领其课题组研发了面向主流多核、多通道服务器，及异构内存体系的新内存资源管理系统原型；探索了新OS的智能化；探索了量子计算机体系结构、系统软件栈及支撑环境。相关研究成果以<b>第一作者并通讯作者</b>发表于ISCA, HPCA, FAST, PACT, IEEE TC, TPDS, ACM TACO等领域内权威学术会议和刊物，并在业内产生了影响力。近十年，刘磊曾主持或参与多项国家级项目（包括自然科学基金、重点研发计划、省重点研发等横纵项目等）；此外，他还担任了一系列权威国际学术会议的程序委员会委员、外部评审委员、组委会成员，及学术期刊的审稿人50余次（并2次担任ACM/IEEE权威学术会议的总主席）。刘磊曾获得“中国科学院院长优秀奖”、“国家奖学金”、“国科大优秀毕业生”、“计算所优秀科研人员” 等荣誉。</p>
 <p>本实验室招收硕士、博士研究生及实习学生，欢迎对计算机系统结构有兴趣的同学和朋友。</p>
 </div>
 
 
 ## Research<span id="SIL"></span>
 
-**The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation computing systems</span>, covering the OS, cloud, memory, quantum, and ML/AL technologies.**
+**The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation computing systems</span>, covering the OS, cloud, memory, quantum, and ML/AI technologies.**
 
 - New Operating System design methods and principles
 - OS for Emerging Technologies and Applications 
@@ -48,7 +48,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    (1) New AI/ML-based design methods and principles for making OS intelligent. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2024</span>**. 
    
-   (2) ML/AL-based scheduling mechanisms on large-scale cloud servers to improve system performance, QoS, resource utilization, and save energy. 
+   (2) ML/AI-based scheduling mechanisms on large-scale cloud servers to improve system performance, QoS, resource utilization, and save energy. 
    - The study of OSML is accepted by **<span style="color:#953734;">FAST-2023</span>**. 
    - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://rdcu.be/cXmO6)
    - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](https://arxiv.org/abs/1911.13208). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
