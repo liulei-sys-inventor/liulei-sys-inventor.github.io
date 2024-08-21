@@ -42,7 +42,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 
 
-## Projects - Building Next-Generation Cloud Systems<span id="projects"></span>
+## Projects<span id="projects"></span>
 
 1. **Intelligent Operating Systems**
 
