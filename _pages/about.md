@@ -164,10 +164,6 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
     Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Par. Architectures and Compilation Tech. **(PACT)**:2020 ([Poster](/files/Quantum_PACT_2020-2.pdf))
 
-15. An Analysis for Evolution of Memory Partitioning Technologies: Perspective, Opportunities and Methods
-
-    **Sys-Inventor Technical Report (PI: Lei Liu)**:2020
-
 16. [Monitoring Memory Behaviors and Mitigating NUMA Drawbacks on Tiered NVM Systems](/files/NPC2020.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/NVM.pptx)]
 
     S. Yang, X. Li, X. Dou, X. Gong, H. Liu, L. Chen, **L. Liu\***. The 17th IFIP Intl. Conf. on Network and Par. Computing **(NPC)**:2020
@@ -202,7 +198,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 24. [SysMon: Monitoring Memory Behaviors via OS Approach](/files/appt2017-sysmon-myx.pdf)
 
-    M. Xie, **L. Liu\***, H. Yang, C. Wu, H. Geng. The 12th Intl. Symp. on Adv. Par. Processing Tech. **(APPT)**:2017
+    M. Xie, **L. Liu\***, H. Yang, et al. The 12th Intl. Symp. on Adv. Par. Processing Tech. **(APPT)**:2017
 
 25. [Memos: A Full Hierarchy Hybrid Memory Management Framework](/files/ICCD_8.pdf) (Position Paper)
 
@@ -210,13 +206,9 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 26. [Rethinking Memory Management in Modern Operating System: Horizontal, Vertical or Random?](/files/tc-2015-pass19.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/All in TC.pptx)] 
 
-    **Lei Liu\***, Chen Ding, Hao Yang, Chengyong Wu. IEEE Transactions on Computers **(TC)**:2016
+    **Lei Liu\***, et al. IEEE Transactions on Computers **(TC)**:2016
 
     ***<span style="color:#ca6a20;">- Trans. Version of the ISCA-2014 paper. This article was a featured article candidate in IEEE TC.</span>***
-
-27. Going Vertical in Memory Management
-
-    **Lei Liu\***, et al. **ACM SIGARCH Computer Architecture News**:October, 2014
 
 28. [Going Vertical in Memory Management: Handling Multiplicity by Multi-policy](/files/ISCA2014_FINAL_pass2.pdf)  [**[<span style="color:#953734;">Slides (pptx)</span>](/files/ISCA2014.pptx)**] 
 
