@@ -108,7 +108,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-2. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](/files/iSwap.pdf) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
+2. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
 
    Zhuohao Wang, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
@@ -158,7 +158,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 13. [IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)
 
-    **General co-Chair**. IEEE 16th International Symposium on Workload Characterization  **(IISWC)**:2020   
+    **General Chair**. IEEE 16th International Symposium on Workload Characterization  **(IISWC)**:2020   
 
 14. A New Qubits Mapping Mechanism for Multi-programming Quantum Computing [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
@@ -190,7 +190,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 21. [ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)
 
-    **General co-Chair**. ACM 32nd International Conference on Supercomputing **(ICS)**:2018
+    **General Chair**. ACM 32nd International Conference on Supercomputing **(ICS)**:2018
 
 22. [Tackling Diversity and Heterogeneity by Vertical Memory Management](/files/vp.pdf) 
 
@@ -202,11 +202,11 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 24. [SysMon: Monitoring Memory Behaviors via OS Approach](/files/appt2017-sysmon-myx.pdf)
 
-    Mengyao Xie, **Lei Liu\***, Hao Yang, Chenggang Wu, Hongna Geng. The 12th Intl. Symp. on Adv. Par. Processing Tech. **(APPT)**:2017
+    M. Xie, **L. Liu\***, H. Yang, C. Wu, H. Geng. The 12th Intl. Symp. on Adv. Par. Processing Tech. **(APPT)**:2017
 
 25. [Memos: A Full Hierarchy Hybrid Memory Management Framework](/files/ICCD_8.pdf) (Position Paper)
 
-    **Lei Liu\***, Hao Yang, Mengyao Xie, Lian Li, Chenggang Wu. The 34th International Conf. on Computer Design **(ICCD)**:2016
+    **Lei Liu\***, et al. The 34th International Conf. on Computer Design **(ICCD)**:2016
 
 26. [Rethinking Memory Management in Modern Operating System: Horizontal, Vertical or Random?](/files/tc-2015-pass19.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/All in TC.pptx)] 
 
@@ -240,7 +240,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 32. Dynamic I/O-Aware Scheduling for Batch-Mode Applications on Chip Multiprocessor Systems of Cluster Platforms
 
-    Fang Lv\*, Huimin Cui, Lei Wang, **Lei Liu**, Cheng-Gang Wu, Xiao-Bing Feng, and Pen-Chung Yew (UMN). JCST:2014
+    Fang Lv\*, Huimin Cui, Lei Wang, **Lei Liu**, et al. JCST:2014
 
     [<span style="text-decoration:none;">G</span><span style="color:#ff0000; text-decoration:none;">o</span><span style="color:#ffc000; text-decoration:none;">o</span><span style="text-decoration:none;">g</span><span style="color:#00b050;text-decoration:none;">l</span><span style="color:#ff0000;text-decoration:none;">e</span><span style="text-decoration:none;"> Citation</span>](https://scholar.google.com.hk/citations?user=yhN8bmgAAAAJ&hl=en), * corresponding author
 
