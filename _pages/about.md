@@ -100,6 +100,12 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Selected Publications<span id="publications"></span>
 
+1. Quantum Computing Operating System (QuOS) and Software Stack
+
+   **Lei Liu\***, Zhuohao wang, Pengyu Li. J. of University of Electronic Science and Technology of China:2025
+
+   ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
+
 1. Is Intelligence the Right Direction to Go in New System Design?
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2024
@@ -369,7 +375,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 ## Awards and Honors <span id="honors"></span>
 
 - <span style="white-space: nowrap">CCF Scientific and Technological Process Award, 2024, for the contributions of memory systems and memory management/optimizations</span>
-- Outstanding Faculty Award, CS, Beihang, 2024,2023
+- Outstanding Faculty Award, CS, Beihang, 2024, 2023
 - Outstanding Faculty Award, SKLCA, ICT, 2019
 - 100-Academic-Stars Program, ICT, 2017
 - Outstanding Scientific Researcher (Outstanding Faculty Award), ICT, 2015
