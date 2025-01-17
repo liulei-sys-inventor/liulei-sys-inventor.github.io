@@ -108,7 +108,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. Is Intelligence the Right Direction to Go in New System Design?
 
-   X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2024
+   X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
 1. An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power
 
