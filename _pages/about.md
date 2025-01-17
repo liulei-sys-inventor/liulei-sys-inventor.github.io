@@ -102,7 +102,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. Quantum Computing Operating System (QuOS) and Software Stack
 
-   **Lei Liu\***, Zhuohao wang, Pengyu Li. J. of University of Electronic Science and Technology of China:2025
+   **Lei Liu\***, Zhuohao Wang, Pengyu Li. J. of University of Electronic Science and Technology of China:2025
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
 
