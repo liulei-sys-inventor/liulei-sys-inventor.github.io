@@ -146,7 +146,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
     Y. Chen, K. Qiu, L. Chen, H. Jia, Y. Zhang, L. Xiao, **L. Liu\***. CCF Transactions on High Performance Computing **(THPC)**:2022
 
-12. [QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment](/files/QuCloud_HPCA_2021_ready.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/QuCloud.pptx)]
+12. <span style="white-space: nowrap">[QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment](/files/QuCloud_HPCA_2021_ready.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/QuCloud.pptx)]</span>
 
     **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021   
 
