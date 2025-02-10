@@ -192,7 +192,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 22. [Thinking about A New Mechanism for Huge Page Management](/files/apsys-2019-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/apsys-2019.pptx)]
 
-    Xinyu Li, **Lei Liu\***, Shengjie Yang, Lu Peng, Jiefan Qiu. The 10th ACM SIGOPS Asia-Pacific Workshop on Systems **(APSys)**:2019
+    X. Li, **L. Liu\***, S. Yang, L. Peng, J. Qiu. The 10th ACM SIGOPS Asia-Pacific Workshop on Systems **(APSys)**:2019
 
 23. [ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)
 
@@ -337,7 +337,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Recent News<span id="news"></span>
 
-- Two papers are accepted by ACM TACO-2014. Congratulations for the fruits on memory swap system and AI for mobile systems! 
+- Three papers are accepted by ACM TACO-2024/25. Congratulations for the fruits on quantum computing system in DQC, memory swap system, and AI for mobile systems! 
 - "QuCloud+" is accepted by ACM TACO-2023. Congratulations for the fruits on Quantum computers!
 - "OSML" is accepted by FAST-2023. Congratulations!
 - Get a new funding from Guangdong Province for the Key R&D Program of Guangdong Province (Chief Scientist). 
