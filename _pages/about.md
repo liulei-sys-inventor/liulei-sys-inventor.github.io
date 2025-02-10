@@ -140,11 +140,11 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 10. [CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
 
-   J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. Journal of Systems Architecture **(JSA)**:2023
+    J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. Journal of Systems Architecture **(JSA)**:2023
 
 11. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://rdcu.be/cXmO6)
 
-   Y. Chen, K. Qiu, L. Chen, H. Jia, Y. Zhang, L. Xiao, **L. Liu\***. CCF Transactions on High Performance Computing **(THPC)**:2022
+    Y. Chen, K. Qiu, L. Chen, H. Jia, Y. Zhang, L. Xiao, **L. Liu\***. CCF Transactions on High Performance Computing **(THPC)**:2022
 
 12. [QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment](/files/QuCloud_HPCA_2021_ready.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/QuCloud.pptx)]
 
