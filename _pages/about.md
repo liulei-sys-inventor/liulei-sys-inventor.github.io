@@ -110,7 +110,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
 
-3. Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?
+3. <span style="white-space: nowrap">Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?</span>
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
@@ -118,7 +118,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-   ***<span style="color:#ca6a20;">- This work is used in mobile phone products</span>***
+   ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>***
 
 5. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
 
