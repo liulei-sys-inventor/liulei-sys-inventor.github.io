@@ -196,7 +196,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
     X. Li, **L. Liu\***, S. Yang, L. Peng, J. Qiu. The 10th ACM SIGOPS Asia-Pacific Workshop on Systems **(APSys)**:2019
 
-23. [ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)
+23. <span style="white-space: nowrap">[ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)</span>
 
     **General Chair**. ACM 32nd International Conference on Supercomputing **(ICS)**:2018
 
