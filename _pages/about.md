@@ -168,7 +168,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
     ***<span style="color:#ca6a20;">- Invited Article in J. of Computer Engineering</span>***
 
-16. [IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)
+16. <span style="white-space: nowrap">[IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)</span>
 
     **General Chair**. IEEE 16th International Symposium on Workload Characterization  **(IISWC)**:2020   
 
