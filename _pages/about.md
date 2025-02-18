@@ -46,7 +46,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. **Intelligent Operating Systems**
 
-   (1) New AI/ML-based design methods and principles for making OS intelligent. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2024</span>**. 
+   (1) New AI/ML-based design methods and principles for making OS intelligent. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2025</span>**. 
    
    (2) ML/AI-based scheduling mechanisms on large-scale cloud servers to improve system performance, QoS, resource utilization, and save energy. 
    - The study of OSML is accepted by **<span style="color:#953734;">FAST-2023</span>**. 
@@ -110,7 +110,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
 
-3. Is Intelligence the Right Direction to Go in New System Design?
+3. Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
