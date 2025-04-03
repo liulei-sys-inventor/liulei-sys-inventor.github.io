@@ -100,7 +100,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Selected Publications<span id="publications"></span>
 
-1. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://arxiv.org/pdf/2502.21000)</span>
+1. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://arxiv.org/pdf/2502.21000) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/LarQucut.pptx)]</span>
 
    X. Dou, **L. Liu\***, Z. Wang, P. Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
 
@@ -124,7 +124,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    Zhuohao Wang, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-6. [QuCloud+: A Holistic Qubit Mapping Scheme for Single/Multi-programming on 2D/3D NISQ Quantum Computers](https://dl.acm.org/doi/pdf/10.1145/3631525) 
+6. <span style="white-space: nowrap">[QuCloud+: A Holistic Qubit Mapping Scheme for Single/Multi-programming on 2D/3D NISQ Quantum Computers](https://dl.acm.org/doi/pdf/10.1145/3631525) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/QuCloud.pptx)]</span>
 
    **Lei Liu\***, Xinglei Dou. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
