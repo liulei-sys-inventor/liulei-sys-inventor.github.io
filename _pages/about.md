@@ -118,7 +118,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-   ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>*** <span style="color:#953734;">[<a href="javascript:void(0);" onclick="openVideoModal();">Video</a>]</span>
+   ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>*** <span>[<a href="javascript:void(0);" onclick="openVideoModal();" style = "color: #953734; font-weight: bold;">Video</a>]</span>
 
 5. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
 
@@ -449,8 +449,8 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 </div>
 
 <div id="videoModal" style="display:none; position:fixed; z-index:1000; left:0; top:0; width:100%; height:100%; background-color:rgba(0,0,0,0.8);">
-  <div style="margin:5% auto; width:80%; max-width:800px;">
-    <video id="videoPlayer" width="100%" controls>
+  <div style="margin:auto; width:80%; max-width:400px;">
+    <video id="videoPlayer" controls height="700px" style="margin:30px auto;">
       <source src="/files/MobiRL_video.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
