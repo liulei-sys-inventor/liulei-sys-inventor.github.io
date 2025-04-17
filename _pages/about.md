@@ -114,11 +114,11 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
-4. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910)
+4. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal();" style = "color: #953734; font-weight: bold;">Video</a>]</span>
 
    Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-   ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>*** <span>[<a href="javascript:void(0);" onclick="openVideoModal();" style = "color: #953734; font-weight: bold;">Video</a>]</span>
+   ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>*** 
 
 5. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
 
