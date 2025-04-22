@@ -110,7 +110,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
 
-3. <span style="white-space: nowrap">Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?</span>
+3. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?](https://arxiv.org/pdf/2504.15021)</span>
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
