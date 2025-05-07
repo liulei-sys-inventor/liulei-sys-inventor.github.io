@@ -110,7 +110,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
 
-3. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?](https://arxiv.org/pdf/2504.15021) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osml_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span></span>
+3. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?](https://arxiv.org/pdf/2504.15021) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osmlplus_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span></span>
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
@@ -120,7 +120,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>*** 
 
-5. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx), <a href="javascript:void(0);" onclick="openVideoModal('/files/iswap_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span>
+5. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/iswap_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span>
 
    Zhuohao Wang, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
@@ -128,7 +128,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    **Lei Liu\***, Xinglei Dou. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-7. <span style="white-space: nowrap">[Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://www.usenix.org/system/files/fast23-liu.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)]</span>
+7. <span style="white-space: nowrap">[Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://www.usenix.org/system/files/fast23-liu.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/osml_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span>
 
    **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
 
