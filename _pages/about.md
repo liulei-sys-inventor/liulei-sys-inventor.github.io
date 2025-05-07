@@ -450,7 +450,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 
 <div id="videoModal" style="display:none; position:fixed; z-index:1000; left:0; top:0; width:100%; height:100%; background-color:rgba(0,0,0,0.8); display:flex; align-items:center; justify-content:center;">
   <div style="width:80%; max-width:800px; text-align:center;">
-    <video id="videoPlayer" controls style="max-width:100%; max-height:80vh; margin:0 auto;">
+    <video id="videoPlayer" controls style="width:100%; max-height:80vh; margin:0 auto;">
       <source src="" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -459,10 +459,11 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 
 <script>
 function openVideoModal(videoPath) {
-  document.getElementById('videoModal').style.display = 'block';
+  var modal = document.getElementById('videoModal');
+  modal.style.display = 'flex';
   var videoPlayer = document.getElementById('videoPlayer');
   videoPlayer.src = videoPath || '';
-  document.getElementById('videoPlayer').play();
+  videoPlayer.play();
 }
 
 document.addEventListener('DOMContentLoaded', function() {
