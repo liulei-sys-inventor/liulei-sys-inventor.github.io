@@ -110,17 +110,17 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
 
-3. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?](https://arxiv.org/pdf/2504.15021)</span>
+3. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?](https://arxiv.org/pdf/2504.15021) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osml_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span></span>
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
-4. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal();" style = "color: #953734; font-weight: bold;">Video</a>]</span>
+4. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/MobiRL_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span>
 
    Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
    ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>*** 
 
-5. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)]</span>
+5. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)], <a href="javascript:void(0);" onclick="openVideoModal('/files/iswap_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a></span>
 
    Zhuohao Wang, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
@@ -451,15 +451,17 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 <div id="videoModal" style="display:none; position:fixed; z-index:1000; left:0; top:0; width:100%; height:100%; background-color:rgba(0,0,0,0.8);">
   <div style="margin:auto; width:80%; max-width:400px;">
     <video id="videoPlayer" controls height="700px" style="margin:30px auto;">
-      <source src="/files/MobiRL_video.mp4" type="video/mp4">
+      <source src="" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 </div>
 
 <script>
-function openVideoModal() {
+function openVideoModal(videoPath) {
   document.getElementById('videoModal').style.display = 'block';
+  var videoPlayer = document.getElementById('videoPlayer');
+  videoPlayer.src = videoPath || '';
   document.getElementById('videoPlayer').play();
 }
 
