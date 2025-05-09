@@ -110,11 +110,11 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
 
-3. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?](https://arxiv.org/pdf/2504.15021) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osmlplus_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span></span>
+3. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling Mechanisms for Multiple Resources in Cloud Environments?](https://arxiv.org/pdf/2504.15021) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osmlplus_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span></span>
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
-4. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/MobiRL_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span>
+4. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/MobiRL_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
 
    Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
@@ -128,7 +128,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    **Lei Liu\***, Xinglei Dou. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-7. <span style="white-space: nowrap">[Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://www.usenix.org/system/files/fast23-liu.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/osml_video.mp4');" style = "color: #953734; font-weight: bold;">Video</a>]</span>
+7. <span style="white-space: nowrap">[Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://www.usenix.org/system/files/fast23-liu.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/osml_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
 
    **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
 
