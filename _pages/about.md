@@ -314,12 +314,12 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 3. Member of the Program Committee of ISCA-2024, 2023, 2022, 2021 (ERC), 2016 (ERC)
 4. Member of the Program Committee of MICRO-2025, 2023, 2022, 2021, 2020 (Chair of NVM session)
 5. Member of the Program Committee of PPoPP-2025, 2022
-6. Member of the Program Committee of HPCA-2020, 2019 (ERC)
+6. Member of the Program Committee of HPCA-2026, 2020, 2019 (ERC)
 7. Member of the Program Committee of IPDPS-2020
 8. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
 9. Member of the Program Committee of SC-2019
 10. Member of the Program Committee of ICCD-2024, 2023, 2022, 2020, 2019, 2018
-11. Member of the Program Committee of APPT-2019
+11. Member of the Program Committee of APPT-2025, 2019
 12. Member of the Program Committee of IISWC-2021, 2017
 13. Member of the Program Committee of ICPP-2020, 2017
 14. Member of the Program Committee of ICS-2017, and Chair of Session 5
