@@ -35,7 +35,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 - OS, AI for Systems 
 - Quantum Computer Architecture 
-- Memory System/Architecture, e.g., NVM, Memory Management, Optimization, Disaggregated Memory
+- Memory System/Architecture, including NVM, Memory Management/Optimization, Disaggregated Memory
 - Scheduling, Profiling, Performance Evaluations
 
 
