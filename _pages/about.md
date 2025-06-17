@@ -33,18 +33,15 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 **The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation computing systems</span>, covering the OS, cloud, memory, quantum, and ML/AI technologies.**
 
-- New Operating System design methods and principles
-- OS for Emerging Technologies and Applications 
-- New Trend, AI and Quantum Computer
-- New Memory Architecture, e.g., NVM, Memory Management, Optimization, Disaggregated Memory
-- Architectural Interaction and Resource Scheduling
-- Profiling and Performance Evaluation
-
+- OS, AI for Systems 
+- Quantum Computer Architecture 
+- Memory System/Architecture, e.g., NVM, Memory Management, Optimization, Disaggregated Memory
+- Scheduling, Profiling, Performance Evaluations
 
 
 ## Projects<span id="projects"></span>
 
-1. **Intelligent Operating Systems**
+1. **Intelligent Operating Systems (AI for Systems)**
 
    (1) New AI/ML-based design methods and principles for making OS intelligent. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2025</span>**. 
    
