@@ -65,7 +65,9 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
    - QuCloud+ is in **<span style="color:#953734;">ACM TACO-2024</span>**.
    - QuCloud is in **<span style="color:#953734;">IEEE HPCA-2021 and PACT-2020</span>**.
 
-   (4) Quantum computing simulation as well as AI.  
+   (4) Quantum computing simulation.
+
+   (5) Quantum computing and AI.  
 
 3. **Memory Management for Large Memory Systems**
 
