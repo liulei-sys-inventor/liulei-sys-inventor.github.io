@@ -107,7 +107,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. Journal of Systems Architecture **(JSA)**:2025 
 
-3. Quantum Computing Operating System (QuOS) and Software Stack
+3. [Quantum Computing Operating System (QuOS) and Software Stack](https://www.juestc.uestc.edu.cn/article/doi/10.12178/1001-0548.2022360)
 
    **Lei Liu\***, Zhuohao Wang, Pengyu Li. J. of University of Electronic Science and Technology of China:2025
 
