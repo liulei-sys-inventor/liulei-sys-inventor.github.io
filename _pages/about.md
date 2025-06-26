@@ -103,7 +103,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    X. Dou, **L. Liu\***, Z. Wang, P. Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
 
-2. Exploiting intra-chip locality for multi-chip GPUs via two-level shared L1 cache
+2. Exploiting Intra-chip Locality for Multi-chip GPUs via Two-level Shared L1 Cache
 
    X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. Journal of Systems Architecture **(JSA)**:2025 
 
