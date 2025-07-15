@@ -103,6 +103,10 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    X. Dou, **L. Liu\***, Z. Wang, P. Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
 
+2. Amove: Accelerating LLMs through Mitigating Outliers and Salient Points using Fine-Grained Grouped Vectorized Data Type
+
+   X. Xie, L. Wang, L. Xiao, M. Han, **L. Liu**, et al. The 58th IEEE/ACM International Symposium on Microarchitecture **(MICRO)**:2025
+
 2. [Exploiting Intra-chip Locality for Multi-chip GPUs via Two-level Shared L1 Cache](https://www.sciencedirect.com/science/article/pii/S1383762125001729)
 
    X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. Journal of Systems Architecture **(JSA)**:2025 
