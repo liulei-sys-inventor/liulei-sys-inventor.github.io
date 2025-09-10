@@ -302,11 +302,12 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 5. 成功举办IISWC-2020（IISWC-2020 is successful! News in Chinese via [ICT link](http://www.carch.ac.cn/xwdt/sysxw/202011/t20201110_590983.html)）
 
-6. [专著：《多核系统内存资源管理优化技术的研究 (Chinese Edition》](https://www.amazon.com/多核系统内存资源管理优化技术的研究-Chinese-磊-刘/dp/3330822805) 
+6. [专著：《多核系统内存资源管理优化技术的研究(Chinese Edition)》](https://www.amazon.com/多核系统内存资源管理优化技术的研究-Chinese-磊-刘/dp/3330822805) 
 
 7. [成功举办ACM ICS-2018](/files/ics.pdf)（ACM ICS-2018 is successful! News in Chinese via [ICT link](http://www.ict.cas.cn/xwgg/jssxw/201811/t20181103_5163662.html))
 
-8. [多核系统内存资源管理优化技术的研究](/files/最终版本.pdf)（博士学位论文，导师：吴、冯；涵盖本人发表在ISCA、PACT、TACO的成果; Lei's Ph. D. dissertation in Chinese, covering his work in ISCA, PACT and TACO.) Defense Committee (May/2014): Fengbin Qi (漆锋斌), Zhaoqing Zhang (张兆庆), Zifeng Hou (侯紫峰), Zhiyong Liu (刘志勇), Wenguang Chen (陈文光), Zhimin Tang (唐志敏), Xiaodong Zhang (张晓东)
+8. [多核系统内存资源管理优化技术的研究](/files/最终版本.pdf)（博士学位论文，导师：吴、冯；涵盖本人发表在ISCA、PACT、TACO的成果; Lei's Ph. D. dissertation in Chinese, covering his work in ISCA, PACT and TACO.) 
+   Defense Committee (May/2014): Fengbin Qi (漆锋斌), Zhaoqing Zhang (张兆庆), Zifeng Hou (侯紫峰), Zhiyong Liu (刘志勇), Wenguang Chen (陈文光), Zhimin Tang (唐志敏), Xiaodong Zhang (张晓东)
 
 9. [编译技术的领路人－谨祝国重编译组张兆庆研究员获得“夏培肃奖”](/files/张兆庆老师获得“夏培肃奖”.pdf)（Invited Essay in Chinese）
 
