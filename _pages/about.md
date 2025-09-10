@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-## Brief Biography<span id="biography"></span>
+## PI Brief Biography<span id="biography"></span>
 
 Lei Liu is a Full Professor of Computer Science at Beihang University and a professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences  (CAS). He leads the Sys-Inventor Lab. Lei Liu served as the Chief Engineer of National Supercomputing Center (Shenzhen). He joined the ICT faculty in 2014 after receiving his Ph.D. degree in computer science from ICT (his [Ph.D. thesis](/files/phd_thesis.pdf)). Besides,  he received his MS degree in software system design at University of Science and Technology of China (USTC), and BS degree in computer science at Dalian University of Technology (DLUT), respectively. He spent several years in industry as a software engineer and senior software architect. He was a visiting scholar in CS at the University of Rochester (UR).
 
@@ -292,27 +292,31 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Others<span id="others"></span> 
 
-1. 量子操作系统（QuOS）及软件栈 - 从经典计算机的是视角看量子计算机系统（2022首届CCF量子计算大会分论坛邀请报告；Invited Talk in Chinese）
+1. AI驱动的智能化系统资源管理调度及系统优化（2025CCF第29届计算机工程与工艺学术年会；Invited Talk in Chinese） 
 
-2. [“东数西算”半载，行业突围战打响，人才、网络、节能等成关键](https://www.163.com/dy/article/HEO2A0F705199NPP.html)（Invited Interview in Chinese）
+2. 量子操作系统（QuOS）及软件栈 - 从经典计算机的是视角看量子计算机系统（2022首届CCF量子计算大会分论坛邀请报告；Invited Talk in Chinese）
 
-3. [“东数西算”解决算力分布式使用面临的挑战是数据移动的开销](http://k.sina.com.cn/article_3740356007_def14da702002tde6.html)（Invited Interview in Chinese）
+3. [“东数西算”半载，行业突围战打响，人才、网络、节能等成关键](https://www.163.com/dy/article/HEO2A0F705199NPP.html)（Invited Interview in Chinese）
 
-4. 成功举办IISWC-2020（IISWC-2020 is successful! News in Chinese via [ICT link](http://www.carch.ac.cn/xwdt/sysxw/202011/t20201110_590983.html)）
+4. [“东数西算”解决算力分布式使用面临的挑战是数据移动的开销](http://k.sina.com.cn/article_3740356007_def14da702002tde6.html)（Invited Interview in Chinese）
 
-5. [成功举办ACM ICS-2018](/files/ics.pdf)（ACM ICS-2018 is successful! News in Chinese via [ICT link](http://www.ict.cas.cn/xwgg/jssxw/201811/t20181103_5163662.html))
+5. 成功举办IISWC-2020（IISWC-2020 is successful! News in Chinese via [ICT link](http://www.carch.ac.cn/xwdt/sysxw/202011/t20201110_590983.html)）
 
-6. [多核系统内存资源管理优化技术的研究](/files/最终版本.pdf)（博士学位论文，导师：吴、冯；涵盖本人发表在ISCA、PACT、TACO的成果; Lei's Ph. D. dissertation in Chinese, covering his work in ISCA, PACT and TACO. Supervisor: Wu and Feng）[出版物链接（BOOK）](https://www.morebooks.de/store/gb/book/%E5%A4%9A%E6%A0%B8%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6/isbn/978-3-330-82280-1)
+6. [专著：《多核系统内存资源管理优化技术的研究 (Chinese Edition》)](https://www.amazon.com/多核系统内存资源管理优化技术的研究-Chinese-磊-刘/dp/3330822805) 
+
+7. [成功举办ACM ICS-2018](/files/ics.pdf)（ACM ICS-2018 is successful! News in Chinese via [ICT link](http://www.ict.cas.cn/xwgg/jssxw/201811/t20181103_5163662.html))
+
+8. [多核系统内存资源管理优化技术的研究](/files/最终版本.pdf)（博士学位论文，导师：吴、冯；涵盖本人发表在ISCA、PACT、TACO的成果; Lei's Ph. D. dissertation in Chinese, covering his work in ISCA, PACT and TACO.)
 
     Defense Committee (May/2014): Fengbin Qi (漆锋斌), Zhaoqing Zhang (张兆庆), Zifeng Hou (侯紫峰), Zhiyong Liu (刘志勇), Wenguang Chen (陈文光), Zhimin Tang (唐志敏), Xiaodong Zhang (张晓东)
 
-7. [编译技术的领路人－谨祝国重编译组张兆庆研究员获得“夏培肃奖”](/files/张兆庆老师获得“夏培肃奖”.pdf)（Invited Essay in Chinese）
+9. [编译技术的领路人－谨祝国重编译组张兆庆研究员获得“夏培肃奖”](/files/张兆庆老师获得“夏培肃奖”.pdf)（Invited Essay in Chinese）
 
-8. [PACT-2015 PC会议记录与硅谷工业界访问之行](/files/PACT-2015 PC副本.pdf)（Invited Essay in Chinese）
+10. [PACT-2015 PC会议记录与硅谷工业界访问之行](/files/PACT-2015 PC副本.pdf)（Invited Essay in Chinese）
 
-9. [ISCA-2014与北美学术之旅](/files/ISCA-2014与北美学术之旅.pdf)（Invited Essay in Chinese）
+11. [ISCA-2014与北美学术之旅](/files/ISCA-2014与北美学术之旅.pdf)（Invited Essay in Chinese）
 
-10. [Page Coloring的历史与发展](/files/Page Coloring的历史与发展.pdf)（Invited Survey in Chinese）
+12. [Page Coloring的历史与发展](/files/Page Coloring的历史与发展.pdf)（Invited Survey in Chinese）
 
 
 
@@ -423,10 +427,10 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Zhuohao Wang (Master Student; B.S., Beihang)
 - Pengyu Li (Master Student; B.S., NCEPU)
 - Zilong Huang (Master Student; B.S., Beihang)
-- Xiaohan Yang (Ph.D. Student; B.S., Beihang)
 
 **Former Students**
 
+- Xiaohang Yang, B.S., 2025, Outstanding graduate of Beihang, Excellent dissertation
 - Yuetao Chen, Master 2024, enters Ph.D. program in CUHK
 - Shengjie Yang, Master 2021, Tencent; Outstanding graduate honor of ICT and UCAS (2%), Excellent dissertation
 - Zonghan Hua, Master 2021, The People's Bank of China, Zhejiang; Excellent guest student award in SKLCA
