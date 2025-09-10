@@ -292,7 +292,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Others<span id="others"></span> 
 
-1. AI驱动的智能化系统资源管理调度及系统优化（2025CCF第29届计算机工程与工艺学术年会；Invited Talk in Chinese） 
+1. AI驱动的智能化系统资源管理调度及系统优化（2025 CCF第29届计算机工程与工艺学术年会；Invited Talk in Chinese） 
 
 2. 量子操作系统（QuOS）及软件栈 - 从经典计算机的是视角看量子计算机系统（2022首届CCF量子计算大会分论坛邀请报告；Invited Talk in Chinese）
 
