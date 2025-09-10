@@ -302,7 +302,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 5. 成功举办IISWC-2020（IISWC-2020 is successful! News in Chinese via [ICT link](http://www.carch.ac.cn/xwdt/sysxw/202011/t20201110_590983.html)）
 
-6. [专著：《多核系统内存资源管理优化技术的研究 (Chinese Edition》)](https://www.amazon.com/多核系统内存资源管理优化技术的研究-Chinese-磊-刘/dp/3330822805) 
+6. [专著：《多核系统内存资源管理优化技术的研究 (Chinese Edition》](https://www.amazon.com/多核系统内存资源管理优化技术的研究-Chinese-磊-刘/dp/3330822805) 
 
 7. [成功举办ACM ICS-2018](/files/ics.pdf)（ACM ICS-2018 is successful! News in Chinese via [ICT link](http://www.ict.cas.cn/xwgg/jssxw/201811/t20181103_5163662.html))
 
