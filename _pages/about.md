@@ -394,6 +394,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Awards and Honors <span id="honors"></span>
 
+- <span style="white-space: nowrap">CCF Technology Invention Award, 2025, for the contributions of design and optimizations for high energy-performance multi-core servers</span>
 - <span style="white-space: nowrap">CCF Scientific and Technological Process Award, 2024, for the contributions of memory systems and memory management/optimizations</span>
 - Outstanding Faculty Award, CS, Beihang, 2024, 2023
 - Outstanding Faculty Award, SKLCA, ICT, 2019
