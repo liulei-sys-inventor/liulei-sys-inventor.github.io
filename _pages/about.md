@@ -99,7 +99,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Selected Publications<span id="publications"></span>
 
-1. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://arxiv.org/pdf/2502.21000) [[**<span style="color:#953734;">Slides in Chinese</span>**](/files/LarQucut.pdf)]</span>
+1. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://dl.acm.org/doi/pdf/10.1145/3730585) [[**<span style="color:#953734;">Slides in Chinese</span>**](/files/LarQucut.pdf)]</span>
 
    X. Dou, **L. Liu\***, Z. Wang, P. Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
 
