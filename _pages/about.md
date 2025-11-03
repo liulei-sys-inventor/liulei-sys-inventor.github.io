@@ -33,7 +33,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 **The research in Sys-Inventor Lab focuses on <span style="color:#953734;">new strategies for next-generation computing systems</span>, covering the OS, cloud, memory, quantum, and ML/AI technologies.**
 
-- OS, AI for Systems 
+- OS, AI for Systems, AIOS 
 - Quantum Computer Architecture 
 - Memory System/Architecture, including NVM, Memory Management/Optimization, Disaggregated Memory
 - Scheduling, Profiling, Performance Evaluations
@@ -325,28 +325,29 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Recent Professional Services<span id="services"></span>
 
-1. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html)
-2. General co-Chair of ACM [ICS-2018](https://www.sigarch.org/call-contributions/ics-2018/) (Record attendance! and Record submission in recent 10 years!)
-3. Member of the Program Committee of ISCA-2024, 2023, 2022, 2021 (ERC), 2016 (ERC)
-4. Member of the Program Committee of MICRO-2025, 2023, 2022, 2021, 2020 (Chair of NVM session)
-5. Member of the Program Committee of PPoPP-2025, 2022
-6. Member of the Program Committee of HPCA-2026, 2020, 2019 (ERC)
-7. Member of the Program Committee of IPDPS-2020
-8. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
-9. Member of the Program Committee of SC-2019
-10. Member of the Program Committee of ICCD-2025, 2024, 2023, 2022, 2020, 2019, 2018
-11. Member of the Program Committee of APPT-2025, 2019
-12. Member of the Program Committee of IISWC-2021, 2017
-13. Member of the Program Committee of ICPP-2020, 2017
-14. Member of the Program Committee of ICS-2017, and Chair of Session 5
-15. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
-16. Member of the Program Committee of IEEE IPDPS-2016
-17. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge), 2022
-18. Member of the Program Committee of HPCC-2015, 2016
-19. Member of the Program Committee of HP3C-2017, 2018, 2019
-20. Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, ACM Transactions on Quantum Computing, JPDC, IEEE TPDS, IEEE TC, IEEE CAL
-21. Review Expert of National Science Foundation of China (NSFC)
-22. 《计算机工程》青年编委、审稿人
+1. Associate Editor for ACM Transactions on Architecture and Code Optimization (TACO)
+2. General co-Chair of IEEE [IISWC-2020](http://www.iiswc.org/iiswc2020/index.html)
+3. General co-Chair of ACM [ICS-2018](https://www.sigarch.org/call-contributions/ics-2018/) (Record attendance! and Record submission in recent 10 years!)
+4. Member of the Program Committee of ISCA-2024, 2023, 2022, 2021 (ERC), 2016 (ERC)
+5. Member of the Program Committee of MICRO-2025, 2023, 2022, 2021, 2020 (Chair of NVM session)
+6. Member of the Program Committee of PPoPP-2025, 2022
+7. Member of the Program Committee of HPCA-2026, 2020, 2019 (ERC)
+8. Member of the Program Committee of IPDPS-2020
+9. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
+10. Member of the Program Committee of SC-2019
+11. Member of the Program Committee of ICCD-2025, 2024, 2023, 2022, 2020, 2019, 2018
+12. Member of the Program Committee of APPT-2025, 2019
+13. Member of the Program Committee of IISWC-2021, 2017
+14. Member of the Program Committee of ICPP-2020, 2017
+15. Member of the Program Committee of ICS-2017, and Chair of Session 5
+16. Member of the Program Committee of PACT-2015, 2016 (ERC), 2019 (ERC)
+17. Member of the Program Committee of IEEE IPDPS-2016
+18. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge), 2022
+19. Member of the Program Committee of HPCC-2015, 2016
+20. Member of the Program Committee of HP3C-2017, 2018, 2019
+21. Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, ACM Transactions on Quantum Computing, JPDC, IEEE TPDS, IEEE TC, IEEE CAL
+22. Review Expert of National Science Foundation of China (NSFC)
+23. 《计算机工程》青年编委、审稿人
 
 
 ## Teaching<span id="teaching"></span>
