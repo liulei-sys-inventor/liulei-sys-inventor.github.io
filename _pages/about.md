@@ -345,7 +345,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 18. Member of the Program Committee (ERC) of ASPLOS-2016, 2017, 2018 (Chair of Session Run time, and SRC Judge), 2022
 19. Member of the Program Committee of HPCC-2015, 2016
 20. Member of the Program Committee of HP3C-2017, 2018, 2019
-21. Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, ACM Transactions on Quantum Computing, JPDC, IEEE TPDS, IEEE TC, IEEE CAL
+21. <span style="white-space: nowrap">Reviewer of ACM TACO, ACM JETC, ACM TECS, ACM TRTS, ACM Transactions on Quantum Computing, JPDC, IEEE TPDS, IEEE TC, IEEE CAL</span>
 22. Review Expert of National Science Foundation of China (NSFC)
 23. 《计算机工程》青年编委、审稿人
 
