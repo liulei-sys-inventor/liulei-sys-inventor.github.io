@@ -174,7 +174,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 15. [Quantum Computing Simulations and Optimizations: A Survey](/files/CE-2021.pdf)
 
-    Zhichao Yu, Yangzhong Li, **Lei Liu\*** and Shengzhong Feng. J. of Computer Engineering in Chinese **(计算机工程)**:2021
+    Zhichao Yu, Yangzhong Li, **Lei Liu\*** and Shengzhong Feng. J. of Computer Engineering in Chinese:2021
 
     ***<span style="color:#ca6a20;">- Invited Article in J. of Computer Engineering</span>***
 
