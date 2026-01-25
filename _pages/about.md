@@ -489,6 +489,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 </div>
 
 <script>
+
 function openVideoModal(videoPath) {
   var modal = document.getElementById('videoModal');
   modal.style.display = 'flex';
@@ -497,39 +498,34 @@ function openVideoModal(videoPath) {
   videoPlayer.play();
 }
 
+function openImageModal(imagePath) {
+  var modal = document.getElementById('imageModal');
+  var fullscreenImage = document.getElementById('fullscreenImage');
+  modal.style.display = 'flex';
+  modal.style.zIndex = 1002;
+  fullscreenImage.src = imagePath;
+}
+
 document.addEventListener('DOMContentLoaded', function() {
   var modal = document.getElementById('videoModal');
+  var imageModal = document.getElementById('imageModal');
   
   modal.addEventListener('click', function(event) {
     document.getElementById('videoPlayer').pause();
     modal.style.display = 'none';
   });
-  
-  document.getElementById('videoPlayer').addEventListener('click', function(event) {
-    event.stopPropagation();
-  });
-});
 
-function openImageModal(imagePath) {
-  var modal = document.getElementById('imageModal');
-  var fullscreenImage = document.getElementById('fullscreenImage');
-  modal.style.display = 'flex';
-  modal.style.zIndex = 0;
-  fullscreenImage.src = imagePath;
-}
-
-// 为图片模态框添加点击事件监听
-document.addEventListener('DOMContentLoaded', function() {
-  var imageModal = document.getElementById('imageModal');
-  
-  // 点击模态框任意位置关闭
   imageModal.addEventListener('click', function(event) {
     imageModal.style.display = 'none';
   });
   
-  // 阻止点击图片时也触发关闭事件（因为图片在模态框内）
+  document.getElementById('videoPlayer').addEventListener('click', function(event) {
+    event.stopPropagation();
+  });
   document.getElementById('fullscreenImage').addEventListener('click', function(event) {
     event.stopPropagation();
   });
 });
+
+  
 </script>
