@@ -482,9 +482,9 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
   </div>
 </div>
 
-<div id="imageModal" style="display:none; position:fixed; z-index:1001; left:0; top:0; width:100%; height:100%; background-color:rgba(0,0,0,0.9); align-items:center; justify-content:center; cursor:pointer;">
-  <div style="width:90%; max-width:90vw; max-height:90vh; text-align:center; display:flex; align-items:center; justify-content:center;">
-    <img id="fullscreenImage" style="max-width:100%; max-height:90vh; object-fit:contain; margin:0 auto;">
+<div id="imageModal" style="display:none; position:fixed; z-index:1001; left:0; top:0; width:100%; height:100%; background-color:rgba(0,0,0,0.8); align-items:center; justify-content:center; cursor:pointer;">
+  <div style="width:80%; max-width:80vw; max-height:80vh; text-align:center; display:flex; align-items:center; justify-content:center;">
+    <img id="fullscreenImage" style="max-width:100%; max-height:80vh; object-fit:contain; margin:0 auto;">
   </div>
 </div>
 
@@ -514,6 +514,7 @@ function openImageModal(imagePath) {
   var modal = document.getElementById('imageModal');
   var fullscreenImage = document.getElementById('fullscreenImage');
   modal.style.display = 'flex';
+  modal.style.zIndex = 0;
   fullscreenImage.src = imagePath;
 }
 
