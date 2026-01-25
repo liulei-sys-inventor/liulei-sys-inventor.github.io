@@ -460,7 +460,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - [Worse-case Reviewing](https://www.sigarch.org/want-people-to-read-your-paper-consider-the-worst-case-reviewer/)
 - [\[更正\] ISCA2016: 计算机体系结构顶会CNN走红，神经网络论文夺桂冠](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651984404&idx=2&sn=4f776dbaaa9bf49f799dd8e780f5e184&cene=2&srcid=0705GexRpXBlYKd5LYJl06GM&from=timeline&isappinstalled=0#wechat_redirect)
 - [\[体系结构顶会Micro2016\] 神经网络加速器仍是热点，但图计算加速器夺最佳论文](http://mp.weixin.qq.com/s/XyN1kK-1kTrCmzOOVVmtEw)
-- [论文署名，学术不端和不正当竞争（转自科学网）](http://blog.sciencenet.cn/blog-111883-638376.html)
+- Lei Liu's calligraphy
 
 
 ## Postal Address<span id="address"></span>
