@@ -462,6 +462,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - [\[体系结构顶会Micro2016\] 神经网络加速器仍是热点，但图计算加速器夺最佳论文](http://mp.weixin.qq.com/s/XyN1kK-1kTrCmzOOVVmtEw)
 - Lei Liu's calligraphy
 
+<a href=""><img style="float:none;width:350px;" width="350" vspace="0" hspace="0" border="0" src="/images/calligraphy.jpg"/></a>
 
 ## Postal Address<span id="address"></span>
 
