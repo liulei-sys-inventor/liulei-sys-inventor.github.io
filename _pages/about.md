@@ -501,10 +501,9 @@ function isMobileDevice() {
   
   // 方法3: 检查用户代理（但不可完全依赖）
   const userAgent = navigator.userAgent.toLowerCase();
-  const isMobileUA = /mobile|android|iphone|ipad|ipod|blackberry|windows phone/i.test(userAgent);
   
   // 综合判断：如果屏幕小且有触摸支持，基本可以确定是移动设备
-  return (isSmallScreen && hasTouch) || isMobileUA;
+  return (isSmallScreen && hasTouch); 
 }
 
 function openVideoModal(videoPath) {
