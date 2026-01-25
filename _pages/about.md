@@ -508,6 +508,9 @@ function isMobileDevice() {
 }
 
 function openVideoModal(videoPath) {
+  if (isMobileDevice()){
+    return;
+  }
   var modal = document.getElementById('videoModal');
   modal.style.display = 'flex';
   var videoPlayer = document.getElementById('videoPlayer');
@@ -516,6 +519,9 @@ function openVideoModal(videoPath) {
 }
 
 function openImageModal(imagePath) {
+  if (isMobileDevice()){
+    return;
+  }
   var modal = document.getElementById('imageModal');
   var fullscreenImage = document.getElementById('fullscreenImage');
   modal.style.display = 'flex';
@@ -524,9 +530,6 @@ function openImageModal(imagePath) {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  if (isMobileDevice()){
-    return
-  }
   var modal = document.getElementById('videoModal');
   var imageModal = document.getElementById('imageModal');
   
