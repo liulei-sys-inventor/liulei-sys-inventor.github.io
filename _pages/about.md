@@ -489,12 +489,8 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 </div>
 
 <script>
-function isMobileDevice() {
-  // 只检查屏幕宽度（最简单可靠的方法）
-  return window.innerWidth <= 768;
-}
 function openVideoModal(videoPath) {
-  if (isMobileDevice()){
+  if (window.innerWidth <= 768){
     return;
   }
   var modal = document.getElementById('videoModal');
@@ -504,7 +500,7 @@ function openVideoModal(videoPath) {
   videoPlayer.play();
 }
 function openImageModal(imagePath) {
-  if (isMobileDevice()){
+  if (window.innerWidth <= 768){
     return;
   }
   var modal = document.getElementById('imageModal');
