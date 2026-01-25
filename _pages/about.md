@@ -462,7 +462,9 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - [\[体系结构顶会Micro2016\] 神经网络加速器仍是热点，但图计算加速器夺最佳论文](http://mp.weixin.qq.com/s/XyN1kK-1kTrCmzOOVVmtEw)
 - Lei Liu's calligraphy
 
-<a href=""><img style="float:none;height:240px;margin-left:40px" vspace="0" hspace="0" border="0" src="/images/calligraphy_1.jpg"/></a>
+<a href="javascript:void(0);" onclick="openImageModal('/images/calligraphy_1.jpg');">
+  <img style="float:none;height:240px;margin-left:40px" vspace="0" hspace="0" border="0" src="/images/calligraphy_1.jpg"/>
+</a>
 
 ## Postal Address<span id="address"></span>
 
@@ -477,6 +479,12 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
       <source src="" type="video/mp4">
       Your browser does not support the video tag.
     </video>
+  </div>
+</div>
+
+<div id="imageModal" style="display:none; position:fixed; z-index:1001; left:0; top:0; width:100%; height:100%; background-color:rgba(0,0,0,0.9); align-items:center; justify-content:center; cursor:pointer;">
+  <div style="width:90%; max-width:90vw; max-height:90vh; text-align:center; display:flex; align-items:center; justify-content:center;">
+    <img id="fullscreenImage" style="max-width:100%; max-height:90vh; object-fit:contain; margin:0 auto;">
   </div>
 </div>
 
@@ -498,6 +506,28 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   
   document.getElementById('videoPlayer').addEventListener('click', function(event) {
+    event.stopPropagation();
+  });
+});
+
+function openImageModal(imagePath) {
+  var modal = document.getElementById('imageModal');
+  var fullscreenImage = document.getElementById('fullscreenImage');
+  modal.style.display = 'flex';
+  fullscreenImage.src = imagePath;
+}
+
+// 为图片模态框添加点击事件监听
+document.addEventListener('DOMContentLoaded', function() {
+  var imageModal = document.getElementById('imageModal');
+  
+  // 点击模态框任意位置关闭
+  imageModal.addEventListener('click', function(event) {
+    imageModal.style.display = 'none';
+  });
+  
+  // 阻止点击图片时也触发关闭事件（因为图片在模态框内）
+  document.getElementById('fullscreenImage').addEventListener('click', function(event) {
     event.stopPropagation();
   });
 });
