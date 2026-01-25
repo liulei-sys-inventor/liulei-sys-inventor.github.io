@@ -482,7 +482,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
   </div>
 </div>
 
-<div id="imageModal" style="display:none; position:fixed; z-index:1001; left:0; bottom:0; width:100vw; height:100vh; background-color:rgba(0,0,0,0.8); align-items:center; justify-content:center; cursor:pointer;">
+<div id="imageModal" style="display:none; position:fixed; z-index:1001; left:0; right:0; top: 0; bottom:0; width:100vw; height:100vh; background-color:rgba(0,0,0,0.8); align-items:center; justify-content:center; cursor:pointer;">
   <div style="width:80%; max-width:80vw; max-height:80vh; text-align:center; display:flex; align-items:center; justify-content:center;">
     <img id="fullscreenImage" style="max-width:100%; max-height:80vh; object-fit:contain; margin:0 auto;" src="/images/calligraphy_1.jpg"> </img>
   </div>
