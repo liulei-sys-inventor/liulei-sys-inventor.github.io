@@ -489,21 +489,9 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 </div>
 
 <script>
-
 function isMobileDevice() {
-  // 方法1: 检查屏幕尺寸
-  const isSmallScreen = window.innerWidth <= 768;
-  
-  // 方法2: 检查触摸支持
-  const hasTouch = ('ontouchstart' in window) || 
-                   (navigator.maxTouchPoints > 0) || 
-                   (navigator.msMaxTouchPoints > 0);
-  
-  // 方法3: 检查用户代理（但不可完全依赖）
-  const userAgent = navigator.userAgent.toLowerCase();
-  
-  // 综合判断：如果屏幕小且有触摸支持，基本可以确定是移动设备
-  return (isSmallScreen && hasTouch); 
+  // 只检查屏幕宽度（最简单可靠的方法）
+  return window.innerWidth <= 768;
 }
 
 function openVideoModal(videoPath) {
