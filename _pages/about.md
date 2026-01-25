@@ -493,7 +493,6 @@ function isMobileDevice() {
   // 只检查屏幕宽度（最简单可靠的方法）
   return window.innerWidth <= 768;
 }
-
 function openVideoModal(videoPath) {
   if (isMobileDevice()){
     return;
@@ -504,7 +503,6 @@ function openVideoModal(videoPath) {
   videoPlayer.src = videoPath;
   videoPlayer.play();
 }
-
 function openImageModal(imagePath) {
   if (isMobileDevice()){
     return;
@@ -515,20 +513,16 @@ function openImageModal(imagePath) {
   modal.style.zIndex = 1002;
   fullscreenImage.src = imagePath;
 }
-
 document.addEventListener('DOMContentLoaded', function() {
   var modal = document.getElementById('videoModal');
   var imageModal = document.getElementById('imageModal');
-  
   modal.addEventListener('click', function(event) {
     document.getElementById('videoPlayer').pause();
     modal.style.display = 'none';
   });
-
   imageModal.addEventListener('click', function(event) {
     imageModal.style.display = 'none';
   });
-  
   document.getElementById('videoPlayer').addEventListener('click', function(event) {
     event.stopPropagation();
   });
@@ -536,6 +530,4 @@ document.addEventListener('DOMContentLoaded', function() {
     event.stopPropagation();
   });
 });
-
-  
 </script>
