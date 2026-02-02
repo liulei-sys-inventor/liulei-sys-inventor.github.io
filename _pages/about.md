@@ -12,7 +12,7 @@ redirect_from:
 
 ## PI Brief Biography<span id="biography"></span>
 
-Lei Liu is a Full Professor of Computer Science at Beihang University and a professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences  (CAS). He leads the Sys-Inventor Lab. Lei Liu served as the Chief Engineer of National Supercomputing Center (Shenzhen). He joined the ICT faculty in 2014 after receiving his Ph.D. degree in computer science from ICT (his [Ph.D. thesis](/files/phd_thesis.pdf)). Besides,  he received his MS degree in software system design at University of Science and Technology of China (USTC), and BS degree in computer science at Dalian University of Technology (DLUT), respectively. He spent several years in industry as a software engineer and senior software architect. He was a visiting scholar in CS at the University of Rochester (UR).
+Lei Liu is a Full Professor (PI) of Computer Science at Beihang University and a professor at Institute of Computing Technology (ICT), Chinese Academy of Sciences  (CAS). He leads the Sys-Inventor Lab. Lei Liu served as the Chief Engineer of National Supercomputing Center (Shenzhen). He joined the ICT faculty in 2014 after receiving his Ph.D. degree in computer science from ICT (his [Ph.D. thesis](/files/phd_thesis.pdf)). Besides,  he received his MS degree in software system design at University of Science and Technology of China (USTC), and BS degree in computer science at Dalian University of Technology (DLUT), respectively. He spent several years in industry as a software engineer and senior software architect. He was a visiting scholar in CS at the University of Rochester (UR).
 
 He has led research projects that have advanced the cloud native technologies, datacenters, and next-generation computer systems, including -  1) Technical  evolutions for memory partitioning approaches; 2) Hybrid memory systems; 3) AI for OS and Intelligent OS; 4) Quantum computing systems. As the leading author (PI),  Lei has published research articles in venues that include ISCA, HPCA, FAST, PACT, IEEE TC, TPDS, ACM TACO, and etc. Recently, his work has focused on the  intersection of the hybrid memory system (DRAM-NVM), OS for emerging  technologies (including GPU, Graph, Quantum Computing as well as AI).
 
@@ -23,7 +23,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 <br/>
 
 <div class="line-height1_5">
-<p>刘磊，男，1981年9月出生于新疆乌鲁木齐市，祖籍辽宁沈阳，现任北京航空航天大学教授，博士研究生导师；曾是中科院计算所国重副研究员（Sys-Inventor实验室PI），研究生导师；兼任国家超算中心（深圳）总工程师（中组部挂职，2020/11/01-2021/11/30）。刘磊分别于大连理工大学、中国科学技术大学、中国科学院大学（中科院计算所）获得计算机科学与技术工学学士学位（导师：牛纪桢）、软件系统设计工程硕士学位（导师：赵振西）和计算机体系结构工学博士学位（<a href="/files/phd_thesis.pdf">博士论文链接</a>），并于2014年留计算所工作。在进入计算所之前，刘磊在工业界有5年的软件工程师、架构师及项目管理经验。刘磊于2017年5月～2018年4月在美国罗彻斯特大学计算机科学系交流访问。</p>
+<p>刘磊，男，1981年9月出生于新疆乌鲁木齐市，祖籍辽宁沈阳，现任北京航空航天大学教授，博士研究生导师，计算机学院系统结构研究所书记，实验室主任（PI）；曾是中科院计算所国重副研究员（Sys-Inventor实验室PI），研究生导师；兼任国家超算中心（深圳）总工程师（中组部挂职，2020/11/01-2021/11/30）。刘磊分别于大连理工大学、中国科学技术大学、中国科学院大学（中科院计算所）获得计算机科学与技术工学学士学位（导师：牛纪桢）、软件系统设计工程硕士学位（导师：赵振西）和计算机体系结构工学博士学位（<a href="/files/phd_thesis.pdf">博士论文链接</a>），并于2014年留计算所工作。在进入计算所之前，刘磊在工业界有5年的软件工程师、架构师及项目管理经验。刘磊于2017年5月～2018年4月在美国罗彻斯特大学计算机科学系交流访问。</p>
 <p>刘磊的研究包括端/云计算系统、数据中心、操作系统（如AI for OS）、量子计算系统、内存系统（NVM、大内存架构）等。自2011年起，刘磊带领其课题组研发了面向主流多核、多通道服务器，及异构内存体系的新内存资源管理系统原型；探索了新OS的智能化；探索了量子计算机体系结构、系统软件栈及支撑环境。相关研究成果以第一作者/通讯作者发表于ISCA, HPCA, FAST, PACT, IEEE TC, TPDS, ACM TACO等领域内权威学术会议和刊物，并在业内产生了影响力。近十年，刘磊曾主持或参与多项国家级项目（包括自然科学基金、重点研发计划、省重点研发等横纵项目等）；此外，他还担任了一系列权威国际学术会议的程序委员会委员、组委会成员等职位50余次（2次担任ACM/IEEE权威学术会议的总主席及担任A类期刊副主编等），是中国计算机学会量子计算专委会首批执行委员会委员。刘磊曾以第一完成人获得“中国计算机学会技术发明奖、科技进步奖”、获得“北航优秀科研人员”、“中国科学院院长优秀奖”、“计算所优秀科研人员” 等荣誉。</p>
 <p>本实验室招收硕士、博士研究生及实习学生，欢迎对计算机系统结构有兴趣的同学和朋友。</p>
 </div>
@@ -446,8 +446,8 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Hao Yang, Master 2017, Huawei
 - Xinyu Li, Master 2022
 - Mengyao Xie, 9/2015~4/2018
-- Yong Li, 2014, intern, first job - engineer in VMware; co-supervised since 2013 to 2015 and A. K. Jones (PITT)
-- Zehan Cui, 2015, intern, first job - ICT till 2016; co-supervised since 2011 to 2012 and Mingyu Chen
+- Yong Li, 2014, intern, first job - engineer in VMware; supervised since 2013 to 2015 and A. K. Jones (PITT)
+- Zehan Cui, 2015, intern, first job - ICT till 2016; supervised since 2011 to 2012
 
 
 ## Recommendations<span id="recommendations"></span>
