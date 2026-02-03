@@ -159,8 +159,12 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
     **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021   
 
     <div style="margin: 0; padding: 0; line-height: 1.1;">
-	<strong><em><span style="color:#ca6a20; margin-bottom: -20px; display: inline-block; line-height: 1;">- Cited Greater than 100 Citations</span></em></strong><br>
-	<strong><em><span style="color:#ca6a20; margin-top: -20px; display: inline-block; line-height: 1;">- This is the first work about quantum computer architecture published in top venues from organizations in Asian</span></em></strong>
+        <div style="color:#ca6a20; margin-bottom: 4px;">
+            <strong><em>- Cited Greater than 100 Citations</em></strong>
+        </div>
+        <div style="color:#ca6a20;">
+            <strong><em>- This is the first work about quantum computer architecture published in top venues from organizations in Asian</em></strong>
+        </div>
     </div>
 
 13. [The Evolution of Memory Partitioning Technologies: A Case Study through Page Coloring](/files/JS2021.pdf)
