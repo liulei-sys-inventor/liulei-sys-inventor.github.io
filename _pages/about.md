@@ -159,7 +159,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
     **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021   
 
     <div style="margin: 0; padding: 0; line-height: 1.1;">
-        <div style="color:#ca6a20; margin-bottom: 4px;">
+        <div style="color:#ca6a20; margin-bottom: 0px;">
             <strong><em>- Cited Greater than 100 Citations</em></strong>
         </div>
         <div style="color:#ca6a20;">
