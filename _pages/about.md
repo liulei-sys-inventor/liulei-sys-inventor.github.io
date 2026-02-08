@@ -16,7 +16,7 @@ Lei Liu is a Full Professor (PI) of Computer Science at Beihang University and a
 
 He has led research projects that have advanced the cloud native technologies, datacenters, and next-generation computer systems, including -  1) Technical  evolutions for memory partitioning approaches; 2) Hybrid memory systems; 3) AI for OS and Intelligent OS; 4) Quantum computing systems. As the leading author (PI),  Lei has published research articles in venues that include ISCA, HPCA, FAST, PACT, IEEE TC, TPDS, ACM TACO, and etc. Recently, his work has focused on the  intersection of the hybrid memory system (DRAM-NVM), OS for emerging  technologies (including GPU, Graph, Quantum Computing as well as AI).
 
-Lei Liu is an IEEE and ACM member, has served as the PC/ERC members, chairs for a number of main stream conferences (e.g., ISCA, MICRO, HPCA, SC, PACT, ICS, IISWC, ASPLOS, ICCD, ICPP, IPDPS, HPCC,  General co-Chair of IEEE IISWC-2020, ACM ICS-2018) and AE/reviewer for well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
+Lei Liu is an IEEE and ACM member, has served as the PC/ERC members, chairs for a number of main stream conferences (e.g., ISCA, MICRO, HPCA, SC, PACT, ICS, IISWC, ASPLOS, ICCD, ICPP, IPDPS, HPCC,  General Chairs of IEEE ISWC-2020, ACM ICS-2018) and AE/reviewer for well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
 
 His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
@@ -461,7 +461,7 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Prof. Michael Scott's talk at ICT is [here](/files/persistence.pdf).
 - Prof. Mateo Valero's [Keynote slides](https://pan.cstcloud.cn/s/7R1ezKAPS0I) and Prof. Hironori's [Keynote slides](/files/ICS2018HKasahara20180613.pdf) for ICS-2018
 - [The Three Golden Rules for Successful Scientific Research](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD637.html)
-- Lei Liu's [web on University of CAS (中国科学院大学)](http://people.ucas.ac.cn/~liulei2010),[ Linkedin](https://www.linkedin.com/in/%E7%A3%8A-lei-%E5%88%98-liu-b750a8148) and [Researchgate](https://www.researchgate.net/profile/Lei_Liu213).
+- Lei Liu's web on [Linkedin](https://www.linkedin.com/in/%E7%A3%8A-lei-%E5%88%98-liu-b750a8148) and [Researchgate](https://www.researchgate.net/profile/Lei_Liu213).
 - [Conf. Information](https://confsearch.ethz.ch) in Computer Science. You will never miss your conference.:)
 - [Worse-case Reviewing](https://www.sigarch.org/want-people-to-read-your-paper-consider-the-worst-case-reviewer/)
 - [\[更正\] ISCA2016: 计算机体系结构顶会CNN走红，神经网络论文夺桂冠](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2651984404&idx=2&sn=4f776dbaaa9bf49f799dd8e780f5e184&cene=2&srcid=0705GexRpXBlYKd5LYJl06GM&from=timeline&isappinstalled=0#wechat_redirect)
