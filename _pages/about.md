@@ -16,7 +16,7 @@ Lei Liu is a Full Professor (PI) of Computer Science at Beihang University (2022
 
 Dr. Liu is an autonomous system researcher who has built his academicreputation through ground-up innovations and rigorous engineering, and he has led research projects that have advanced the cloud native technologies, datacenters, and next-generation computer systems, including -  1) Technical  evolutions for memory partitioning approaches; 2) Hybrid memory systems; 3) AIOS and Intelligent OS; 4) Quantum computing systems. As the leading author (PI), Lei has published research articles in venues including ISCA, HPCA, FAST, PACT, IEEE TC, TPDS, ACM TACO, etc.
 
-Lei Liu is a member of CCF, IEEE, and  ACM, has served as a PC member, chair for a number of mainstream conferences (e.g., ISCA, MICRO, HPCA, SC, PACT, ICS, IISWC, ASPLOS, ICCD, ICPP, IPDPS, and  General Chairs of IEEE ISWC-2020, ACM ICS-2018), and AE/reviewer for well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
+Lei Liu is a member of CCF, IEEE, and ACM, has served as a PC member, chair for a number of mainstream conferences (e.g., ISCA, MICRO, HPCA, SC, PACT, ICS, IISWC, ASPLOS, ICCD, ICPP, IPDPS, and  General Chairs of IEEE ISWC-2020, ACM ICS-2018), and AE/reviewer for well-known Transactions (ACM TACO, ACM JETC, ACM TECS, ACM TRTS, IEEE  TPDS). He received a number of awards.
 
 His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
