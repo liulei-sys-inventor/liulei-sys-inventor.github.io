@@ -40,7 +40,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Projects<span id="projects"></span>
 
-1. **Intelligent Operating Systems (AI for Systems)**
+1. **Intelligent Operating Systems - AIOS (AI for Systems)**
 
    (1) New AI/ML-based design methods and principles for making OS intelligent. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2025</span>**. 
    
