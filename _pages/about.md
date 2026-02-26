@@ -437,6 +437,8 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 **Students**
 
 - Xinglei Dou (Ph.D. Student; Master, ICT)
+- Ling Chen (Ph.D. Student; Master, SIAT)
+- Junlin Li (Ph.D. Student)
 - Zhuohao Wang (Master Student; B.S., Beihang)
 - Pengyu Li (Master Student; B.S., NCEPU)
 - Zilong Huang (Master Student; B.S., Beihang)
