@@ -441,7 +441,6 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Junlin Li (Ph.D. Student)
 - Zhuohao Wang (Master Student; B.S., Beihang)
 - Pengyu Li (Master Student; B.S., NCEPU)
-- Mu He (Master Student; B.S., Beihang)
 
 **Former Students**
 
