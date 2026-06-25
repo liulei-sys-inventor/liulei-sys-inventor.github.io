@@ -439,11 +439,11 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Xinglei Dou (Ph.D. Student; Master, ICT)
 - Ling Chen (Ph.D. Student; Master, SIAT)
 - Junlin Li (Ph.D. Student)
-- Zhuohao Wang (Master Student; B.S., Beihang)
 - Pengyu Li (Master Student; B.S., NCEPU)
 
 **Former Students**
 
+- Zhuohao Wang, Master 2026, Ali 
 - Xiaohang Yang, B.S., 2025, Outstanding graduate of Beihang, Excellent dissertation
 - Yuetao Chen, Master 2024, enters Ph.D. program in CUHK
 - Shengjie Yang, Master 2021, Tencent; Outstanding graduate honor of ICT and UCAS (2%), Excellent dissertation
