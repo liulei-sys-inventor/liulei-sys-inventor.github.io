@@ -98,6 +98,10 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Selected Publications<span id="publications"></span>
 
+1. EvoInfer: A New Self-Evolution and ML-Driven Approach for Optimizing LLM Performance on Mobiles 
+
+   Pengyu Li, **Lei Liu\***. 55th International Conference on Parallel Processing **(ICPP)**:2026 (Poster)
+
 1. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://dl.acm.org/doi/pdf/10.1145/3730585) [[**<span style="color:#953734;">Slides in Chinese</span>**](/files/LarQucut.pdf)]</span>
 
    X. Dou, **L. Liu\***, Z. Wang, P. Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
@@ -343,7 +347,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 8. Member of the Program Committee of IPDPS-2020
 9. Publicity co-Chair of IEEE [IISWC-2019](http://www.iiswc.org/iiswc2019/index.html)
 10. Member of the Program Committee of SC-2019
-11. Member of the Program Committee of ICCD-2025, 2024, 2023, 2022, 2020, 2019, 2018
+11. Member of the Program Committee of ICCD-2026, 2025, 2024, 2023, 2022, 2020, 2019, 2018
 12. Member of the Program Committee of APPT-2025, 2019
 13. Member of the Program Committee of IISWC-2021, 2017
 14. Member of the Program Committee of ICPP-2020, 2017
