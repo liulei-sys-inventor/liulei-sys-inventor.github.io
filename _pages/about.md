@@ -140,15 +140,15 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 10. <span style="white-space: nowrap">[Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://www.usenix.org/system/files/fast23-liu.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/osml_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
 
-   **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
+    **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
 
 11. ATA-Cache: Contention Mitigation for GPU Shared L1 Cache with Aggregated Tag Array
 
-   X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023  
+    X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023  
 
 12. [EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads](https://ieeexplore.ieee.org/document/10186069)
 
-   J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023
+    J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023
 
 13. [CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
 
