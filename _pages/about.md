@@ -102,63 +102,63 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    Pengyu Li, **Lei Liu\***. 55th International Conference on Parallel Processing **(ICPP)**:2026 (Poster)
 
-1. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://dl.acm.org/doi/pdf/10.1145/3730585) [[**<span style="color:#953734;">Slides in Chinese</span>**](/files/LarQucut.pdf)]</span>
+2. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://dl.acm.org/doi/pdf/10.1145/3730585) [[**<span style="color:#953734;">Slides in Chinese</span>**](/files/LarQucut.pdf)]</span>
 
    X. Dou, **L. Liu\***, Z. Wang, P. Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
 
-2. Amove: Accelerating LLMs through Mitigating Outliers and Salient Points using Fine-Grained Grouped Vectorized Data Type
+3. Amove: Accelerating LLMs through Mitigating Outliers and Salient Points using Fine-Grained Grouped Vectorized Data Type
 
    X. Xie, L. Wang, L. Xiao, M. Han, **L. Liu**, et al. The 58th IEEE/ACM International Symposium on Microarchitecture **(MICRO)**:2025
 
-2. [Exploiting Intra-chip Locality for Multi-chip GPUs via Two-level Shared L1 Cache](https://www.sciencedirect.com/science/article/pii/S1383762125001729)
+4. [Exploiting Intra-chip Locality for Multi-chip GPUs via Two-level Shared L1 Cache](https://www.sciencedirect.com/science/article/pii/S1383762125001729)
 
    X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. Journal of Systems Architecture **(JSA)**:2025 
 
-3. [Quantum Computing Operating System (QuOS) and Software Stack](https://www.juestc.uestc.edu.cn/article/doi/10.12178/1001-0548.2022360)
+5. [Quantum Computing Operating System (QuOS) and Software Stack](https://www.juestc.uestc.edu.cn/article/doi/10.12178/1001-0548.2022360)
 
    **Lei Liu\***, Zhuohao Wang, Pengyu Li. J. of University of Electronic Science and Technology of China:2025
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
 
-4. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?](https://dl.acm.org/doi/epdf/10.1145/3736584) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osmlplus_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span></span>
+6. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?](https://dl.acm.org/doi/epdf/10.1145/3736584) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osmlplus_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span></span>
 
    X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
-5. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/MobiRL_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
+7. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/MobiRL_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
 
    Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
    ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>*** 
 
-5. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/iswap_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
+8. <span style="white-space: nowrap">[iSwap: A New Memory Page Swap Mechanism for Reducing Ineffective I/O Operations in Cloud Environments](https://dl.acm.org/doi/pdf/10.1145/3653302) [[**<span style="color:#953734;">Slides (pptx) in Chinese</span>**](/files/iSwap.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/iswap_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
 
    Zhuohao Wang, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-6. <span style="white-space: nowrap">[QuCloud+: A Holistic Qubit Mapping Scheme for Single/Multi-programming on 2D/3D NISQ Quantum Computers](https://dl.acm.org/doi/pdf/10.1145/3631525)</span>
+9. <span style="white-space: nowrap">[QuCloud+: A Holistic Qubit Mapping Scheme for Single/Multi-programming on 2D/3D NISQ Quantum Computers](https://dl.acm.org/doi/pdf/10.1145/3631525)</span>
 
    **Lei Liu\***, Xinglei Dou. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
 
-7. <span style="white-space: nowrap">[Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://www.usenix.org/system/files/fast23-liu.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/osml_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
+10. <span style="white-space: nowrap">[Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach](https://www.usenix.org/system/files/fast23-liu.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/fast23_slides_liu.pptx)] [<a href="javascript:void(0);" onclick="openVideoModal('/files/osml_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
 
    **Lei Liu\***, Xinglei Dou, Yuetao Chen. The 21st USENIX Conference on File and Storage Technologies **(FAST)**:2023
 
-8. ATA-Cache: Contention Mitigation for GPU Shared L1 Cache with Aggregated Tag Array
+11. ATA-Cache: Contention Mitigation for GPU Shared L1 Cache with Aggregated Tag Array
 
    X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023  
 
-9. [EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads](https://ieeexplore.ieee.org/document/10186069)
+12. [EBIO: An Efficient Block I/O Stack for NVMe SSDs with Mixed Workloads](https://ieeexplore.ieee.org/document/10186069)
 
    J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems **(TCAD)**:2023
 
-10. [CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
+13. [CFIO: A conflict-free I/O mechanism to fully exploit internal parallelism for Open-Channel SSDs](https://www.sciencedirect.com/science/article/abs/pii/S1383762122002880)
 
     J. Zhu, L. Wang, L. Xiao, **L. Liu**, G. Qin. Journal of Systems Architecture **(JSA)**:2023
 
-11. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://rdcu.be/cXmO6)
+14. [Smart Scheduler: an Adaptive NVM-Aware Thread Scheduling Approach on NUMA Systems](https://rdcu.be/cXmO6)
 
     Y. Chen, K. Qiu, L. Chen, H. Jia, Y. Zhang, L. Xiao, **L. Liu\***. CCF Trans. on High Performance Computing **(THPC)**:2022
 
-12. <span style="white-space: nowrap">[QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment](/files/QuCloud_HPCA_2021_ready.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/QuCloud.pptx)]</span>
+15. <span style="white-space: nowrap">[QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment](/files/QuCloud_HPCA_2021_ready.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/QuCloud.pptx)]</span>
 
     **Lei Liu\***, Xinglei Dou. The 27th IEEE International Symposium on High-Performance Computer Architecture **(HPCA)**:2021   
 
@@ -171,97 +171,97 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
         </div>
     </div>
 
-13. [The Evolution of Memory Partitioning Technologies: A Case Study through Page Coloring](/files/JS2021.pdf)
+16. [The Evolution of Memory Partitioning Technologies: A Case Study through Page Coloring](/files/JS2021.pdf)
 
     Jiefan Qiu, Zonghan Hua, Jing Fan, **Lei Liu\***. Journal of Software in Chinese **(软件学报)**:2021
 
-14. [An Investigation into Quantum Program Mapping on Superconducting Quantum Computers](/files/JCRD-2021.pdf)
+17. [An Investigation into Quantum Program Mapping on Superconducting Quantum Computers](/files/JCRD-2021.pdf)
 
     Xinglei Dou, **Lei Liu\***, Yuetao Chen. Journal of Computer Research and Development in Chinese **(计算机研究与发展)**:2021
 
     ***<span style="color:#ca6a20;">- Special Issue on Quantum Computing in J. of Computer R&D</span>***
 
-15. [Quantum Computing Simulations and Optimizations: A Survey](/files/CE-2021.pdf)
+18. [Quantum Computing Simulations and Optimizations: A Survey](/files/CE-2021.pdf)
 
     Zhichao Yu, Yangzhong Li, **Lei Liu\*** and Shengzhong Feng. J. of Computer Engineering in Chinese:2021
 
     ***<span style="color:#ca6a20;">- Invited Article in J. of Computer Engineering</span>***
 
-16. <span style="white-space: nowrap">[IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)</span>
+19. <span style="white-space: nowrap">[IEEE Proceedings of the IEEE International Symposium on Workload Characterization, Virtual. October 27-29, 2020](https://ieeexplore.ieee.org/xpl/conhome/9251098/proceeding)</span>
 
     **General Chair**. IEEE 16th International Symposium on Workload Characterization  **(IISWC)**:2020   
 
-17. A New Qubits Mapping Mechanism for Multi-programming Quantum Computing [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
+20. A New Qubits Mapping Mechanism for Multi-programming Quantum Computing [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/quantum_talk.pptx)]
 
     Xinglei Dou, **Lei Liu\***. The 29th ACM/IEEE Intl. Conf. on Par. Architectures and Compilation Tech. **(PACT)**:2020 ([Poster](/files/Quantum_PACT_2020-2.pdf))
 
-18. [Monitoring Memory Behaviors and Mitigating NUMA Drawbacks on Tiered NVM Systems](/files/NPC2020.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/NVM.pptx)]
+21. [Monitoring Memory Behaviors and Mitigating NUMA Drawbacks on Tiered NVM Systems](/files/NPC2020.pdf) [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/NVM.pptx)]
 
     S. Yang, X. Li, X. Dou, X. Gong, H. Liu, L. Chen, **L. Liu\***. The 17th IFIP Intl. Conf. on Network and Par. Computing **(NPC)**:2020
 
-19. [Hierarchical Hybrid Memory Management in OS for Tiered Memory Systems](/files/Memos-TPDS-2019.pdf)
+22. [Hierarchical Hybrid Memory Management in OS for Tiered Memory Systems](/files/Memos-TPDS-2019.pdf)
 
     **Lei Liu\***, Shengjie Yang, Lu Peng, Xinyu Li. IEEE Transactions on Parallel and Distributed Systems **(TPDS)**:2019
 
-20. Architectural Support for NVRAM Persistence in GPUs
+23. Architectural Support for NVRAM Persistence in GPUs
 
     Sui Chen, **Lei Liu**, Weihua Zhang, Lu Peng. IEEE Transactions on Parallel and Distributed Systems **(TPDS)**:2019
 
-21. Efficient GPU NVRAM Persistence with Helper Warps
+24. Efficient GPU NVRAM Persistence with Helper Warps
 
     Sui Chen, Faen Zhang, **Lei Liu** and Lu Peng. The 56th ACM/IEEE/SIGDA/CEDA Design Automation Conference **(DAC)**:2019
 
-22. [Thinking about A New Mechanism for Huge Page Management](/files/apsys-2019-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/apsys-2019.pptx)]
+25. [Thinking about A New Mechanism for Huge Page Management](/files/apsys-2019-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/apsys-2019.pptx)]
 
     X. Li, **L. Liu\***, S. Yang, L. Peng, J. Qiu. The 10th ACM SIGOPS Asia-Pacific Workshop on Systems **(APSys)**:2019
 
-23. <span style="white-space: nowrap">[ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)</span>
+26. <span style="white-space: nowrap">[ACM Proceedings of the 2018 International Conference on Supercomputing, Beijing, China. June 12-15, 2018](https://portalparts.acm.org/3210000/3205289/fm/frontmatter.pdf?ip=159.226.43.53)</span>
 
     **General Chair**. ACM 32nd International Conference on Supercomputing **(ICS)**:2018
 
-24. [Tackling Diversity and Heterogeneity by Vertical Memory Management](/files/vp.pdf) 
+27. [Tackling Diversity and Heterogeneity by Vertical Memory Management](/files/vp.pdf) 
 
     **Lei Liu**.[ arXiv:1704.01198](https://arxiv.org/abs/1704.01198):2017 **(Short Version for the ISCA-2014 Paper)**
 
-25. [Memos: Revisiting Hybrid Memory Management in Modern Operating System](https://pan.cstcloud.cn/s/NV5GdcN3T3A)
+28. [Memos: Revisiting Hybrid Memory Management in Modern Operating System](https://pan.cstcloud.cn/s/NV5GdcN3T3A)
 
     **Lei Liu\***, Mengyao Xie and Hao Yang.[ arXiv:1703.07725](https://arxiv.org/abs/1703.07725):2017
 
-26. [SysMon: Monitoring Memory Behaviors via OS Approach](/files/appt2017-sysmon-myx.pdf)
+29. [SysMon: Monitoring Memory Behaviors via OS Approach](/files/appt2017-sysmon-myx.pdf)
 
     M. Xie, **L. Liu\***, H. Yang, et al. The 12th Intl. Symp. on Adv. Par. Processing Tech. **(APPT)**:2017
 
-27. [Memos: A Full Hierarchy Hybrid Memory Management Framework](/files/ICCD_8.pdf) (Position Paper)
+30. [Memos: A Full Hierarchy Hybrid Memory Management Framework](/files/ICCD_8.pdf) (Position Paper)
 
     **Lei Liu\***, et al. The 34th International Conf. on Computer Design **(ICCD)**:2016
 
-28. [Rethinking Memory Management in Modern Operating System: Horizontal, Vertical or Random?](/files/tc-2015-pass19.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/All in TC.pptx)] 
+31. [Rethinking Memory Management in Modern Operating System: Horizontal, Vertical or Random?](/files/tc-2015-pass19.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/All in TC.pptx)] 
 
     **Lei Liu\***, et al. IEEE Transactions on Computers **(TC)**:2016
 
     ***<span style="color:#ca6a20;">- Trans. Version of the ISCA-2014 paper. This article was a featured article candidate in IEEE TC.</span>***
 
-29. [Going Vertical in Memory Management: Handling Multiplicity by Multi-policy](/files/ISCA2014_FINAL_pass2.pdf)  [**[<span style="color:#953734;">Slides (pptx)</span>](/files/ISCA2014.pptx)**] 
+32. [Going Vertical in Memory Management: Handling Multiplicity by Multi-policy](/files/ISCA2014_FINAL_pass2.pdf)  [**[<span style="color:#953734;">Slides (pptx)</span>](/files/ISCA2014.pptx)**] 
 
     **Lei Liu\***, et al. The 41st ACM/IEEE International Symposium on Computer Architecture **(ISCA)**:2014 
 
     ***<span style="color:#ca6a20;">- The 9th ISCA paper in mainland China history since y2k.</span>*** 
 
-30. [BPM/BPM+: Software-based Dynamic Memory Partitioning Mechanisms for Mitigating DRAM Bank-/Channel-level Interferences in Multicore Systems](/files/taco_pass24.pdf)
+33. [BPM/BPM+: Software-based Dynamic Memory Partitioning Mechanisms for Mitigating DRAM Bank-/Channel-level Interferences in Multicore Systems](/files/taco_pass24.pdf)
 
     **Lei Liu\***, et al. ACM Transactions on Architecture and Code Optimization **(TACO)**:2014 
 
-31. [A Software Memory Partition Approach for Eliminating Bank-level Interference in Multicore Systems](/files/pact140-liu-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/pact-liu-presentation.pptx)]
+34. [A Software Memory Partition Approach for Eliminating Bank-level Interference in Multicore Systems](/files/pact140-liu-final.pdf)  [[**<span style="color:#953734;">Slides (pptx)</span>**](/files/pact-liu-presentation.pptx)]
 
     **Lei Liu\***, et al. The 21st ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**:2012 
 
     ***<span style="color:#ca6a20;">- Influential Article in Semantic Scholar. Cited Greater than 200 Citations.</span>***
 
-32. WiseThrottling: A New Asynchronous Task Scheduler for Mitigating I/O Bottleneck in Large-Scale Datacenter Servers
+35. WiseThrottling: A New Asynchronous Task Scheduler for Mitigating I/O Bottleneck in Large-Scale Datacenter Servers
 
     Fang Lv\*, **Lei Liu**, Huimin Cui, Lei Wang, Ying Liu, Xiaobing Feng, P.C. Yew (UMN). J. of Supercomputing:2015
 
-33. Dynamic I/O-Aware Scheduling for Batch-Mode Applications on Chip Multiprocessor Systems of Cluster Platforms
+36. Dynamic I/O-Aware Scheduling for Batch-Mode Applications on Chip Multiprocessor Systems of Cluster Platforms
 
     Fang Lv\*, Huimin Cui, Lei Wang, **Lei Liu**, et al. JCST:2014
 
