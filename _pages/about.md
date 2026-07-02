@@ -49,7 +49,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
    - The work on using ML to enhance thread scheduling on platforms with a hybird DRAM-NVM memory system is in CCF THPC-2022. [**Link**](https://rdcu.be/cXmO6)
    - On 26/Nov 2019, the technique report about OSML is available via this [**Link**](https://arxiv.org/abs/1911.13208). OSML uses multiple collaborative ML models to schedule multiple interactive resources for co-located latency-critical services. 
 
-   (3) On mobile, leveraging AI/ML technologies to optimize the system's smoothness, energy and efficiency. The latest study is in **<span style="color:#953734;">ACM TACO-2024</span>**. 
+   (3) On mobile, leveraging AI/ML technologies to optimize the system and LLM's smoothness, energy and efficiency. The latest studies are in **<span style="color:#953734;">ACM TACO-2025, ICPP-2026</span>**. 
 
 2. **Quantum Computing OS and Architecture**
 
@@ -126,7 +126,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 7. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/MobiRL_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
 
-   Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2024
+   Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
 
    ***<span style="color:#ca6a20;">- This work is widely deployed in mobile phone products</span>*** 
 
