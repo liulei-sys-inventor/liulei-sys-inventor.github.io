@@ -102,27 +102,27 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
    Pengyu Li, **Lei Liu\***. 55th International Conference on Parallel Processing **(ICPP)**:2026 (Poster)
 
-2. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://dl.acm.org/doi/pdf/10.1145/3730585) [[**<span style="color:#953734;">Slides in Chinese</span>**](/files/LarQucut.pdf)]</span>
+2. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?](https://dl.acm.org/doi/epdf/10.1145/3736584) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osmlplus_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span></span>
+
+   Xinglei Dou, **Lei Liu\***, Limin Xiao. ACM Transactions on Storage **(TOS)**:2026
+
+3. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://dl.acm.org/doi/pdf/10.1145/3730585) [[**<span style="color:#953734;">Slides in Chinese</span>**](/files/LarQucut.pdf)]</span>
 
    Xinglei Dou, **Lei. Liu\***, Zhuohao Wang, Pengyu Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
 
-3. Amove: Accelerating LLMs through Mitigating Outliers and Salient Points using Fine-Grained Grouped Vectorized Data Type
+4. Amove: Accelerating LLMs through Mitigating Outliers and Salient Points using Fine-Grained Grouped Vectorized Data Type
 
    X. Xie, L. Wang, L. Xiao, M. Han, **L. Liu**, et al. The 58th IEEE/ACM International Symposium on Microarchitecture **(MICRO)**:2025
 
-4. [Exploiting Intra-chip Locality for Multi-chip GPUs via Two-level Shared L1 Cache](https://www.sciencedirect.com/science/article/pii/S1383762125001729)
+5. [Exploiting Intra-chip Locality for Multi-chip GPUs via Two-level Shared L1 Cache](https://www.sciencedirect.com/science/article/pii/S1383762125001729)
 
    X. Xu, L. Wang, L. Xiao, **L. Liu**, et al. Journal of Systems Architecture **(JSA)**:2025 
 
-5. [Quantum Computing Operating System (QuOS) and Software Stack](https://www.juestc.uestc.edu.cn/article/doi/10.12178/1001-0548.2022360)
+6. [Quantum Computing Operating System (QuOS) and Software Stack](https://www.juestc.uestc.edu.cn/article/doi/10.12178/1001-0548.2022360)
 
    **Lei Liu\***, Zhuohao Wang, Pengyu Li. J. of University of Electronic Science and Technology of China:2025
 
    ***<span style="color:#ca6a20;">- Invited Article. Talk in CCF CQCC-2022</span>***
-
-6. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?](https://dl.acm.org/doi/epdf/10.1145/3736584) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osmlplus_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span></span>
-
-   X. Dou, **L. Liu\***, L. Xiao. ACM Transactions on Storage **(TOS)**:2025
 
 7. [An Intelligent Scheduling Approach on Mobile OS for Optimizing UI Smoothness and Power](https://dl.acm.org/doi/pdf/10.1145/3674910) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/MobiRL_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span>
 
@@ -202,6 +202,8 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 22. [Hierarchical Hybrid Memory Management in OS for Tiered Memory Systems](/files/Memos-TPDS-2019.pdf)
 
     **Lei Liu\***, Shengjie Yang, Lu Peng, Xinyu Li. IEEE Transactions on Parallel and Distributed Systems **(TPDS)**:2019
+
+    ***<span style="color:#ca6a20;">- Cited Greater than 100 Citations</span>***
 
 23. Architectural Support for NVRAM Persistence in GPUs
 
