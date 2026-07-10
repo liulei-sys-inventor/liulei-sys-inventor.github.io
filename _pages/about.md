@@ -42,7 +42,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. **Intelligent Operating Systems - AIOS (AI for Systems)**
 
-   (1) New AI/ML-based design methods and principles for making OS intelligent. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2025</span>**. 
+   (1) New AI/ML-based design methods and principles for making OS intelligent. The latest thinking and efforts are in **<span style="color:#953734;">ACM TOS-2026</span>**. 
    
    (2) ML/AI-based scheduling mechanisms on large-scale cloud servers to improve system performance, QoS, resource utilization, and save energy. 
    - The study of OSML is accepted by **<span style="color:#953734;">FAST-2023</span>**. 
