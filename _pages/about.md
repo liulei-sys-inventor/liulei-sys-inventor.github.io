@@ -257,7 +257,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
     **Lei Liu\***, et al. The 21st ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques **(PACT)**:2012 
 
-    ***<span style="color:#ca6a20;">- Influential Article in Semantic Scholar. Cited Greater than 200 Citations.</span>***
+    ***<span style="color:#ca6a20;">- Influential Article in Semantic Scholar. Cited Greater than 250 Citations.</span>***
 
 35. WiseThrottling: A New Asynchronous Task Scheduler for Mitigating I/O Bottleneck in Large-Scale Datacenter Servers
 
