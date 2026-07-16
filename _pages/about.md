@@ -98,6 +98,10 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Selected Publications<span id="publications"></span>
 
+1. LightPQC: Commutativity-Based Gate Folding and Pruning for Optimizing PQCs in Quantum Machine Learning
+
+   Xinglei Dou, **Lei Liu\***, Pengyu Li. 5th CCF Quantum Computation Conference ** (CQCC)**:2025
+
 1. EvoInfer: A New Self-Evolution and ML-Driven Approach for Optimizing LLM Performance on Mobiles 
 
    Pengyu Li, **Lei Liu\***. 55th International Conference on Parallel Processing **(ICPP)**:2026 (Poster)
