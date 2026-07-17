@@ -276,6 +276,8 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Patents<span id="patents"></span>
 
+1. 一种为延迟敏感应用分配大页且缓解内存膨胀的页面分配机制 (Chinese Version). **First Inventor**
+
 1. 一种基于用户语义理解的移动端任务闭包预加载机制 (Chinese Version). **First Inventor**
 
 2. 一种面向资源受限端侧设备的大模型演化机制 (Chinese Version). **First Inventor**
