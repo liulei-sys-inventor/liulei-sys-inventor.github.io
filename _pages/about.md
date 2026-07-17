@@ -278,17 +278,15 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. 一种为延迟敏感应用分配大页且缓解内存膨胀的页面分配机制 (Chinese Version). **First Inventor**
 
-1. 一种基于用户语义理解的移动端任务闭包预加载机制 (Chinese Version). **First Inventor**
+2. 一种基于用户语义理解的移动端任务闭包预加载机制 (Chinese Version). **First Inventor**
 
-2. 一种面向资源受限端侧设备的大模型演化机制 (Chinese Version). **First Inventor**
+3. 一种面向资源受限端侧设备的大模型演化机制 (Chinese Version). **First Inventor**
 
-3. 一种量子操作系统中任务抽象与任务管理的机制 (Chinese Version). **First Inventor**
+4. 一种量子操作系统中任务抽象与任务管理的机制 (Chinese Version). **First Inventor**
 
-4. 一种面向分布式多量子设备的资源管理机制 (Chinese Version). **First Inventor**
+5. 一种面向分布式多量子设备的资源管理机制 (Chinese Version). **First Inventor**
 
-5. 一种基于强化学习的移动设备算力调度方法 (Chinese Version). **First Inventor** 
-
-6. 一种为延迟敏感应用分配大页并缓解内存膨胀的页面分配机制 (Chinese Version). **First Inventor**
+6. 一种基于强化学习的移动设备算力调度方法 (Chinese Version). **First Inventor** 
 
 7. 一种面向分布式量子计算环境的量子线路半切割机制 (Chinese Version). **First Inventor**
 
