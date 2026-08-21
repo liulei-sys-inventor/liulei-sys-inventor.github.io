@@ -52,21 +52,24 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
    (3) On mobile, leveraging AI/ML technologies to optimize the system and LLM's smoothness, energy and efficiency. The latest studies are in **<span style="color:#953734;">ACM TACO-2025, ICPP-2026</span>**. 
 
 2. **Quantum Computing OS and Architecture**
-
-   (1) OS for Quantum computers and computing systems
+   
+   (1) OS for Quantum computing
    
    - QuCloud (HPCA'21) and QuCloud+ (TACO'24) propose the QuOS prototypes.   
  
    (2) Distributed quantum computing systems. The latest study LarQucut is in **<span style="color:#953734;">ACM TACO-2025</span>**.
    
-   (3) The next-generation quantum computer architecture, software stack, OS, and etc.
+   (3) The quantum computer architecture, software stack, OS, and etc.
    
+   - QIT - HW support for circuit mapping is in **<span style="color:#953734;">IEEE ICCD-2026</span>**. 
    - QuCloud+ is in **<span style="color:#953734;">ACM TACO-2024</span>**.
    - QuCloud is in **<span style="color:#953734;">IEEE HPCA-2021 and PACT-2020</span>**.
 
-   (4) Quantum computing simulation.
+   (4) Quantum computing and AI.
 
-   (5) Quantum computing and AI.  
+   - LightPQC for QML is presented at CCF CQCC-2026.  
+
+   (5) Quantum computing Simulations.  
 
 3. **Memory Management for Large Memory Systems**
 
