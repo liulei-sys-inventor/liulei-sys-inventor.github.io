@@ -100,7 +100,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. QIT: A Hardware-Software Cooperative Runtime for Just-In-Time Quantum Circuit Mapping
 
-   Xinglei Dou, **Lei Liu\***. The 44th IEEE International Conference on Computer Design **(ICCD)**:2026
+   Xinglei Dou, **Lei Liu\***. The 44th IEEE International Conference on Computer Design **(ICCD)**:2026 (Short paper)
 
 1. LightPQC: Commutativity-Based Gate Folding and Pruning for Optimizing PQCs in Quantum Machine Learning
 
