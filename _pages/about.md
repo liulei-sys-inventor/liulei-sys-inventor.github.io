@@ -59,7 +59,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
  
    (2) Distributed quantum computing systems. The latest study LarQucut is in **<span style="color:#953734;">ACM TACO-2025</span>**.
    
-   (3) The quantum computer architecture, software stack, OS, and etc.
+   (3) The quantum computer architecture, hardware/software stack, and etc.
    
    - QIT - HW support for circuit mapping is in **<span style="color:#953734;">IEEE ICCD-2026</span>**. 
    - QuCloud+ is in **<span style="color:#953734;">ACM TACO-2024</span>**.
