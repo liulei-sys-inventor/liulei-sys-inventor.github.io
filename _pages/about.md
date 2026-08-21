@@ -56,14 +56,14 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
    (1) OS for Quantum computing
    
    - QuCloud (HPCA'21) and QuCloud+ (TACO'24) propose the QuOS prototypes.   
- 
-   (2) Distributed quantum computing systems. The latest study LarQucut is in **<span style="color:#953734;">ACM TACO-2025</span>**.
    
-   (3) The quantum computer architecture, hardware/software stack, and etc.
+   (2) The quantum computer architecture, hardware/software stack, and etc.
    
    - QIT - HW support for circuit mapping is in **<span style="color:#953734;">IEEE ICCD-2026</span>**. 
    - QuCloud+ is in **<span style="color:#953734;">ACM TACO-2024</span>**.
    - QuCloud is in **<span style="color:#953734;">IEEE HPCA-2021 and PACT-2020</span>**.
+
+   (3) Distributed quantum computing systems. The latest study LarQucut is in **<span style="color:#953734;">ACM TACO-2025</span>**.
 
    (4) Quantum computing and AI.
 
