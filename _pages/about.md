@@ -119,7 +119,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 3. <span style="white-space: nowrap">[LarQucut: A New Cutting and Mapping Approach for Large-sized Quantum Circuits in Distributed Quantum Computing (DQC) Environments](https://dl.acm.org/doi/pdf/10.1145/3730585) [[**<span style="color:#953734;">Slides in Chinese</span>**](/files/LarQucut.pdf)]</span>
 
-   Xinglei Dou, **Lei. Liu\***, Zhuohao Wang, Pengyu Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
+   Xinglei Dou, **Lei Liu\***, Zhuohao Wang, Pengyu Li. ACM Transactions on Architecture and Code Optimization **(TACO)**:2025
 
 4. Amove: Accelerating LLMs through Mitigating Outliers and Salient Points using Fine-Grained Grouped Vectorized Data Type
 
