@@ -31,7 +31,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Research<span id="SIL"></span>
 
-- OS, AI4OS/OS4AI 
+- OS, Intelligent OS, AI4OS/OS4AI 
 - Quantum Computer Architecture 
 - Cloud and Datacenter Architecture
 - Memory System/Architecture, including NVM, Memory Management/Optimization, Disaggregated Memory
