@@ -111,7 +111,7 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 1. EvoInfer: A New Self-Evolution and ML-Driven Approach for Optimizing LLM Performance on Mobiles 
 
-   Pengyu Li, **Lei Liu\***. 55th International Conference on Parallel Processing **(ICPP)**:2026 (Poster)
+   Pengyu Li, **Lei Liu\***. 55th International Conference on Parallel Processing **(ICPP)**:2026 ([Poster](https://dl.acm.org/doi/epdf/10.1145/3816891.3834850))
 
 2. <span style="white-space: nowrap">[Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?](https://dl.acm.org/doi/epdf/10.1145/3736584) <span>[<a href="javascript:void(0);" onclick="openVideoModal('/files/osmlplus_video.mp4');" style = "color: #953734; font-weight: bold;">Demo Video</a>]</span></span>
 
