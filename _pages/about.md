@@ -283,6 +283,8 @@ His Email: lei.liu@zoho.com; liulei2010@{buaa.edu.cn; ict.ac.cn}
 
 ## Patents<span id="patents"></span>
 
+1.一种量子线路运行时动态重映射的硬件装置、方法及量子计算控制系统 (Chinese Version). **First Inventor**
+
 1. 一种为延迟敏感应用分配大页且缓解内存膨胀的页面分配机制 (Chinese Version). **First Inventor**
 
 2. 一种基于用户语义理解的移动端任务闭包预加载机制 (Chinese Version). **First Inventor**
