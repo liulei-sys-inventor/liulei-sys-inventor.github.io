@@ -461,6 +461,8 @@ Yunquan Zhang (ICT), Xiaobing Feng (ICT), Xiaowei Li (ICT), Guangyu Sun (PKU), B
 - Ling Chen (Ph.D. Student; Master, SIAT)
 - Junlin Li (Ph.D. Student)
 - Pengyu Li (Master Student; B.S., NCEPU)
+- Mu He (Master Student; B.S., BUAA)
+- Fuhao Zhang (Ph.D. Student)
 
 **Former Students**
 
